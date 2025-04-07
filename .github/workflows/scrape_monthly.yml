@@ -1,0 +1,38 @@
+name: Monthly Full Scraper
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install python-dotenv
+
+      - name: 🔐 Load TMDB_API_KEY from secrets
+        run: echo "TMDB_API_KEY=${{ secrets.TMDB_API_KEY }}" >> .env
+
+      - name: 🚀 Run full scraper
+        run: python tmdb_scraper.py
+
+      - name: 📤 Commit updated movies.json
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add movies.json
+          git diff --cached --quiet || (git commit -m "🔁 Monthly update: refreshed movies.json" && git push)
