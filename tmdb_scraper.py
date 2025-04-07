@@ -39,15 +39,12 @@ for page in range(1, 501):
         popularity = movie.get("popularity", 0)
 
         if release_year >= 2000:
-            # М'якші умови для новіших фільмів
             if vote_average >= 5:
                 new_movies.append(movie)
         else:
-            # Жорсткіші умови для старих фільмів
             if vote_average >= 7 and popularity > 15:
                 new_movies.append(movie)
 
-    # Уникнення дублікатів за ID
     existing_ids = {m["id"] for m in all_movies}
     unique_new_movies = [m for m in new_movies if m["id"] not in existing_ids]
 
