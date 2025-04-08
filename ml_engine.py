@@ -1,12 +1,16 @@
 import json
 from typing import List
 from collections import Counter
+from main import Movie
 
 with open("movies.json", "r", encoding="utf-8") as f:
     all_movies = json.load(f)
 
-def recommend_movies_by_favorites(favorites: List[object], top_n: int = 100):
-    favorites_dicts = [f.dict() if not isinstance(f, dict) else f for f in favorites]
+def recommend_movies_by_favorites(favorites: List[Movie], top_n: int = 100):
+    favorites_dicts = [
+        fav.model_dump() if not isinstance(fav, dict) else fav
+        for fav in favorites
+    ]
 
     genre_counter = Counter()
     total_rating = 0
@@ -24,7 +28,7 @@ def recommend_movies_by_favorites(favorites: List[object], top_n: int = 100):
     scored_movies = []
 
     for movie in all_movies:
-        if movie["id"] in [f["id"] for f in favorites_dicts]:
+        if movie["id"] in {fav["id"] for fav in favorites_dicts}:
             continue
 
         movie_genres = set(movie.get("genre_ids", []))
