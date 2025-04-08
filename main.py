@@ -12,6 +12,8 @@ class Movie(BaseModel):
     vote_average: float
     popularity: float
     release_date: str
+    poster_path: Optional[str] = None
+    overview: Optional[str] = None
 
 class MovieRequest(BaseModel):
     favorites: List[Movie]

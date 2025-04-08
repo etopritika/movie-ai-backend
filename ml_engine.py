@@ -42,16 +42,17 @@ def recommend_movies_by_favorites(favorites: List[object], top_n: int = 100):
     recommended = [movie for _, movie in scored_movies[:top_n]]
 
     return {
-        "recommended_movies": [
-            {
-                "id": movie["id"],
-                "title": movie["title"],
-                "genre_ids": movie["genre_ids"],
-                "vote_average": movie["vote_average"],
-                "popularity": movie["popularity"],
-                "release_date": movie["release_date"],
-                "poster_path": movie.get("poster_path")
-            }
-            for movie in recommended
-        ]
-    }
+    "recommended_movies": [
+        {
+            "id": movie["id"],
+            "title": movie["title"],
+            "genre_ids": movie["genre_ids"],
+            "vote_average": movie["vote_average"],
+            "popularity": movie["popularity"],
+            "release_date": movie["release_date"],
+            "poster_path": movie.get("poster_path"),
+            "overview": movie.get("overview")
+        }
+        for movie in recommended
+    ]
+}
