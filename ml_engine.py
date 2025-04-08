@@ -1,7 +1,7 @@
 import json
 from typing import List
 from collections import Counter
-from main import Movie
+from models import Movie
 
 with open("movies.json", "r", encoding="utf-8") as f:
     all_movies = json.load(f)
