@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from typing import List
+from typing import List, Optional
 from ml_engine import recommend_movies_by_favorites
 
 app = FastAPI()
