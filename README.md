@@ -1,13 +1,13 @@
 # 🎬 Movie AI Backend
 
-This is a lightweight FastAPI backend for movie recommendations powered by a simple ML logic and data from [The Movie Database (TMDb)](https://www.themoviedb.org/).
+This is a lightweight FastAPI backend for movie recommendations powered by a custom ML logic and data from [The Movie Database (TMDb)](https://www.themoviedb.org/).
 
 ## 🚀 Features
 
-- 🔥 Get movie recommendations based on your favorite movies
+- 🤖 Get personalized movie recommendations using cosine similarity
+- 🧠 Vector-based comparison by genres, rating, and popularity
 - 📁 Store and manage a local movie database (`movies.json`)
-- 🔄 Weekly update of new movies via TMDb API
-- 🧠 Simple similarity algorithm based on genre, rating, and popularity
+- 🔄 Weekly movie updates via TMDb API
 
 ## 🛠 Tech Stack
 
@@ -15,6 +15,8 @@ This is a lightweight FastAPI backend for movie recommendations powered by a sim
 - FastAPI
 - Uvicorn
 - Requests
+- Scikit-learn
+- NumPy
 - Python Dotenv
 
 ## 📦 Installation
@@ -25,31 +27,31 @@ cd movie-ai-backend
 pip install -r requirements.txt
 ```
 
-## 🧪 Run the app locally
+## 🧪 Run the App Locally
 
 ```bash
 uvicorn main:app --reload
 ```
 
-Go to `http://localhost:8000/docs` to try the API with Swagger UI.
+Open `http://localhost:8000/docs` to test the API with Swagger UI.
 
 ## 🔐 Environment Variables
 
-Create a `.env` file in the root of the project:
+Create a `.env` file in the root directory:
 
 ```
 TMDB_API_KEY=your_tmdb_api_key
 ```
 
-## 🔁 Update movie database
+## 🔁 Update Movie Database
 
-### Full scrape (up to 10,000 top movies):
+### Full Scrape (up to 10,000 top movies)
 
 ```bash
 python tmdb_scraper.py
 ```
 
-### Weekly update (add only new movies from last 7 days):
+### Weekly Update (adds only recent releases)
 
 ```bash
 python weekly_updater.py
@@ -74,7 +76,16 @@ Send a list of your favorite movies:
 }
 ```
 
-And receive top recommended movies.
+Receive top recommended movies based on vector similarity.
+
+## 📐 How It Works
+
+Each movie is converted into a feature vector that includes:
+- Genre multi-hot encoding
+- Normalized vote average
+- Normalized popularity
+
+We use **cosine similarity** to compare your favorites against all movies in the database and return the closest matches.
 
 ---
 

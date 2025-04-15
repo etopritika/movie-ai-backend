@@ -1,6 +1,8 @@
 import json
 from typing import List
-from collections import Counter
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.preprocessing import MultiLabelBinarizer, MinMaxScaler
+import numpy as np
 from models import Movie
 
 with open("movies.json", "r", encoding="utf-8") as f:
@@ -12,51 +14,55 @@ def recommend_movies_by_favorites(favorites: List[Movie], top_n: int = 100):
         for fav in favorites
     ]
 
-    genre_counter = Counter()
-    total_rating = 0
-    total_popularity = 0
+    if not favorites_dicts:
+        return {"recommended_movies": []}
 
-    for movie in favorites_dicts:
-        genre_counter.update(movie.get("genre_ids", []))
-        total_rating += movie.get("vote_average", 0)
-        total_popularity += movie.get("popularity", 0)
+    mlb = MultiLabelBinarizer()
+    genres_all = [movie.get("genre_ids", []) for movie in all_movies]
+    genre_matrix = mlb.fit_transform(genres_all)
 
-    avg_rating = total_rating / len(favorites_dicts) if favorites_dicts else 0
-    avg_popularity = total_popularity / len(favorites_dicts) if favorites_dicts else 0
-    top_genres = {genre for genre, _ in genre_counter.most_common(5)}
+    ratings = np.array([movie.get("vote_average", 0) for movie in all_movies]).reshape(-1, 1)
+    popularity = np.array([movie.get("popularity", 0) for movie in all_movies]).reshape(-1, 1)
 
-    scored_movies = []
+    scaler = MinMaxScaler()
+    rating_scaled = scaler.fit_transform(ratings)
+    popularity_scaled = scaler.fit_transform(popularity)
 
-    for movie in all_movies:
-        if movie["id"] in {fav["id"] for fav in favorites_dicts}:
-            continue
+    features = np.hstack((genre_matrix, rating_scaled, popularity_scaled))
 
-        movie_genres = set(movie.get("genre_ids", []))
-        genre_match = len(movie_genres & top_genres)
+    favorite_ids = {fav["id"] for fav in favorites_dicts}
+    favorite_indices = [
+        idx for idx, movie in enumerate(all_movies) if movie["id"] in favorite_ids
+    ]
+    if not favorite_indices:
+        return {"recommended_movies": []}
 
-        rating_diff = abs(movie.get("vote_average", 0) - avg_rating)
-        popularity_diff = abs(movie.get("popularity", 0) - avg_popularity)
+    favorite_vectors = features[favorite_indices]
+    user_profile_vector = np.mean(favorite_vectors, axis=0).reshape(1, -1)
 
-        score = genre_match * 2 - rating_diff - (popularity_diff / 100)
+    similarity_scores = cosine_similarity(user_profile_vector, features)[0]
 
-        if genre_match > 0:
-            scored_movies.append((score, movie))
+    scored_movies = [
+        (score, movie)
+        for score, movie in zip(similarity_scores, all_movies)
+        if movie["id"] not in favorite_ids
+    ]
 
     scored_movies.sort(key=lambda x: x[0], reverse=True)
     recommended = [movie for _, movie in scored_movies[:top_n]]
 
     return {
-    "recommended_movies": [
-        {
-            "id": movie["id"],
-            "title": movie["title"],
-            "genre_ids": movie["genre_ids"],
-            "vote_average": movie["vote_average"],
-            "popularity": movie["popularity"],
-            "release_date": movie["release_date"],
-            "poster_path": movie.get("poster_path"),
-            "overview": movie.get("overview")
-        }
-        for movie in recommended
-    ]
-}
+        "recommended_movies": [
+            {
+                "id": movie["id"],
+                "title": movie["title"],
+                "genre_ids": movie["genre_ids"],
+                "vote_average": movie["vote_average"],
+                "popularity": movie["popularity"],
+                "release_date": movie["release_date"],
+                "poster_path": movie.get("poster_path"),
+                "overview": movie.get("overview")
+            }
+            for movie in recommended
+        ]
+    }
