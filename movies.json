@@ -130600,5 +130600,255 @@
     "video": false,
     "vote_average": 8.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/segpvueoaTyzZcgTTNr4QMvefqe.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 668489,
+    "original_language": "en",
+    "original_title": "Havoc",
+    "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+    "popularity": 592.4843,
+    "poster_path": "/bEiJBcwdR4oOTCgstLkqTUja58p.jpg",
+    "release_date": "2025-04-24",
+    "title": "Havoc",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 222
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Zes06xI18u47pblwRGTtqRm0R8.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80,
+      18
+    ],
+    "id": 1276073,
+    "original_language": "ja",
+    "original_title": "新幹線大爆破",
+    "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
+    "popularity": 379.3597,
+    "poster_path": "/qkTKtOHK9JEEOHgPQZ0dFtzs5ML.jpg",
+    "release_date": "2025-04-23",
+    "title": "Bullet Train Explosion",
+    "video": false,
+    "vote_average": 6.602,
+    "vote_count": 83
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
+    "genre_ids": [
+      80,
+      53,
+      28
+    ],
+    "id": 870028,
+    "original_language": "en",
+    "original_title": "The Accountant 2",
+    "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Treasury Agent Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+    "popularity": 134.2907,
+    "poster_path": "/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
+    "release_date": "2025-04-23",
+    "title": "The Accountant 2",
+    "video": false,
+    "vote_average": 7.237,
+    "vote_count": 57
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n48dcVVxc3Mcq2l2Y3NTxLRJ7wJ.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1232546,
+    "original_language": "en",
+    "original_title": "Until Dawn",
+    "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one…only to wake up and find themselves back at the beginning of the same evening.",
+    "popularity": 85.8915,
+    "poster_path": "/6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
+    "release_date": "2025-04-23",
+    "title": "Until Dawn",
+    "video": false,
+    "vote_average": 6.294,
+    "vote_count": 63
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kFXtAwJYbRTqiyQpE9kDc8qEP3X.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1225915,
+    "original_language": "hi",
+    "original_title": "ज्वेल थीफ: द हीस्ट बिगिन्स",
+    "overview": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
+    "popularity": 60.9142,
+    "poster_path": "/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
+    "release_date": "2025-04-25",
+    "title": "Jewel Thief: The Heist Begins",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l7ALkJVMmUJStRAn2Jm4HgPyjGm.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1086637,
+    "original_language": "en",
+    "original_title": "Pangolin: Kulu's Journey",
+    "overview": "Rescued from poachers, an endangered baby pangolin embarks on a journey back to the wild with help from a devoted human guardian in this documentary.",
+    "popularity": 27.3628,
+    "poster_path": "/7Ky1cTLJzOk8or25YGEvw8S6oxI.jpg",
+    "release_date": "2025-04-21",
+    "title": "Pangolin: Kulu's Journey",
+    "video": false,
+    "vote_average": 7.167,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2OKBeiYlEBwWs8LUaZbYl7ZPJZE.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "id": 1208983,
+    "original_language": "en",
+    "original_title": "Neighborhood Watch",
+    "overview": "When a mentally ill young man thinks he witnesses an abduction and the police refuse to believe him, he reluctantly turns to his next door neighbor – a bitter, retired security guard – to help him find the missing woman.",
+    "popularity": 19.1349,
+    "poster_path": "/1YkVZRCngFXAmS3bDRcRbDYYOIj.jpg",
+    "release_date": "2025-04-25",
+    "title": "Neighborhood Watch",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hzgVGLCwoslCYYleVmIZWcxkvp0.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1241934,
+    "original_language": "en",
+    "original_title": "Mob Cops",
+    "overview": "The TRUE STORY of when a retired NYPD detective writes a book about his family's ties to the mob, it ignites a firestorm between the dirty cops working for the city's brutal crime boss and the officers trying to bring them to justice.",
+    "popularity": 15.66,
+    "poster_path": "/nr5yEnMF1IshC1xKYLwrtZbbXD6.jpg",
+    "release_date": "2025-04-25",
+    "title": "Mob Cops",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jKMbP0rwEkJYxkNRFQXFkVIIzGP.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1092506,
+    "original_language": "en",
+    "original_title": "On Swift Horses",
+    "overview": "In the 1950s, a seemingly sensible newlywed and her wayward brother-in-law undertake parallel journeys of risk, romance, and self-discovery.",
+    "popularity": 12.5204,
+    "poster_path": "/5DNMeesJKMh7LLCzvsXGPDciTAJ.jpg",
+    "release_date": "2025-04-24",
+    "title": "On Swift Horses",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9NpZnEeOojaiGH51V7pwlRsjOcv.jpg",
+    "genre_ids": [
+      53,
+      18,
+      14,
+      9648
+    ],
+    "id": 1152534,
+    "original_language": "en",
+    "original_title": "Purgatory Jack",
+    "overview": "Purgatory Jack is a neo-noir mystery thriller set in the afterlife, a dangerous landscape that’s run by a bloodthirsty, limb-collecting gang and populated with outlaws and outcasts. The latest case for musician turned grizzled private detective, Jack Marlin, is helping new arrival Viv Vacious, a punk pop star who overdosed, stay safe as she races against time to find her mother who committed suicide twenty years earlier. While navigating the treacherous terrain of hells waiting room, these two musicians from clashing eras unlock a murderous conspiracy and discover why blood is more than a drug in Purgatory.",
+    "popularity": 8.6328,
+    "poster_path": "/wwGC2JxgIqT7DJfBOX0sT5QLKtl.jpg",
+    "release_date": "2025-04-28",
+    "title": "Purgatory Jack",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h4xi19UruYzqQUVSwOMQIVArGhs.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1452827,
+    "original_language": "en",
+    "original_title": "Sea Lions of the Galapagos",
+    "overview": "Follow Leo, a handsome sea lion pup who’s learning how to navigate life alongside his mother, Luna",
+    "popularity": 5.5185,
+    "poster_path": "/5hw5MPJDFA9jIrJfJzqrmdTCbrE.jpg",
+    "release_date": "2025-04-22",
+    "title": "Sea Lions of the Galapagos",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qj0GN10AC65FcJchKLTDmOFE15X.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1189735,
+    "original_language": "ga",
+    "original_title": "Fréamhacha",
+    "overview": "Care worker Shoo, who is haunted by a personal tragedy, is sent to a remote village to care for an agoraphobic woman, who fears both her neighbours and the Na Sídhe – sinister folkloric entities she believes abducted her decades before.",
+    "popularity": 5.2421,
+    "poster_path": "/bMcqaWJv7dBzb8lDQLqawGH09PC.jpg",
+    "release_date": "2025-04-25",
+    "title": "Fréwaka",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q6tHgBlYpesjUL9NumNoGpePaGT.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1261125,
+    "original_language": "ml",
+    "original_title": "തുടരും",
+    "overview": "A taxi driver finds himself embroiled in a dangerous conspiracy after his car is confiscated by a corrupt police officer.",
+    "popularity": 5.8633,
+    "poster_path": "/867eFD6X7Bb0xuDCtdNb8Y7Am3r.jpg",
+    "release_date": "2025-04-25",
+    "title": "Thudarum",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2
   }
 ]
