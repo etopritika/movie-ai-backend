@@ -135377,5 +135377,121 @@
     "video": false,
     "vote_average": 6.5,
     "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ybBIIzDL1B9yH8OVFav81JTZmoN.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1233069,
+    "original_language": "de",
+    "original_title": "Exterritorial",
+    "overview": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him — and uncovers a dark conspiracy.",
+    "popularity": 743.5387,
+    "poster_path": "/qWTfHG8KdXwr0bqypYbNZLenh0J.jpg",
+    "release_date": "2025-04-29",
+    "title": "Exterritorial",
+    "video": false,
+    "vote_average": 6.872,
+    "vote_count": 141
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/12tEzU0bNYKIjXXEwI5abuOotHF.jpg",
+    "genre_ids": [
+      37
+    ],
+    "id": 710258,
+    "original_language": "en",
+    "original_title": "Rust",
+    "overview": "Infamous outlaw Harland Rust breaks his estranged grandson Lucas out of prison, after Lucas is convicted to hang for an accidental murder. The two must outrun legendary U.S Marshal Wood Helm and bounty hunter Fenton \"Preacher\" Lang who are hot on their tails. Deeply buried secrets rise from the ashes and an unexpected familial bond begins to form as the mismatched duo tries to survive the merciless American Frontier.",
+    "popularity": 210.9704,
+    "poster_path": "/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",
+    "release_date": "2025-05-01",
+    "title": "Rust",
+    "video": false,
+    "vote_average": 6.824,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ioMxoDUyaRtMZPgoOU5wJkErtKS.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1242686,
+    "original_language": "en",
+    "original_title": "Salvable",
+    "overview": "When a battered boxer past his prime finds his dreams and his relationships on the ropes, he falls back in with a dangerous crowd and has to take the biggest swing of his life to reclaim his hope and his family.",
+    "popularity": 20.1754,
+    "poster_path": "/cAPIS05UGqsTwiu0Qjs0WlIUW1l.jpg",
+    "release_date": "2025-05-02",
+    "title": "Salvable",
+    "video": false,
+    "vote_average": 7.875,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uKhBujLqYCcfU1kaxXHNCEyZnT.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1227128,
+    "original_language": "hi",
+    "original_title": "रेड २",
+    "overview": "Set 7 years after the events of the first film, it follows the return of IRS officer Amay Patnaik (Devgn), who tracks another white-collar crime.",
+    "popularity": 10.8389,
+    "poster_path": "/fzVbLi9PPKMOFtJMnVHKfcRVRTm.jpg",
+    "release_date": "2025-05-01",
+    "title": "Raid 2",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sulb7RwIiO77n1XNM2VhldUFDW1.jpg",
+    "genre_ids": [
+      80,
+      53,
+      28
+    ],
+    "id": 1060046,
+    "original_language": "te",
+    "original_title": "హిట్: ది థర్డ్ కేస్",
+    "overview": "Arjun Sarkaar, an SP in HIT at Visakhapatnam, gets assigned to a case for HIT in Jammu and Kashmir to catch a group of serial killers who are responsible for the gruesome murders of several people.",
+    "popularity": 10.4161,
+    "poster_path": "/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg",
+    "release_date": "2025-04-30",
+    "title": "HIT: The Third Case",
+    "video": false,
+    "vote_average": 8.857,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rGcZhLzwOLz3OWWpYrelgP4HUIQ.jpg",
+    "genre_ids": [
+      10749,
+      28,
+      18,
+      80
+    ],
+    "id": 1265827,
+    "original_language": "ta",
+    "original_title": "ரெட்ரோ",
+    "overview": "Paarivel Kannan's marriage is broken by his fiancé, Rukmani, due to his violent ways. In an attempt to win her back, Paarivel goes to Black Island in Andamaan, where he comes to loggerheads with the heads of the island.",
+    "popularity": 8.385,
+    "poster_path": "/pJPK57REXsaLydpOPgHwWAQMdqz.jpg",
+    "release_date": "2025-04-30",
+    "title": "Retro",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4
   }
 ]
