@@ -135720,5 +135720,103 @@
     "video": false,
     "vote_average": 8.2,
     "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7ONMDhnErvpkKvkZqM82ud7bzcT.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 575265,
+    "original_language": "en",
+    "original_title": "Mission: Impossible - The Final Reckoning",
+    "overview": "Ethan Hunt and the IMF team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Ethan's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+    "popularity": 187.4051,
+    "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+    "release_date": "2025-05-17",
+    "title": "Mission: Impossible - The Final Reckoning",
+    "video": false,
+    "vote_average": 7.605,
+    "vote_count": 57
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bFmziv84NfEVEGTK8c6EVY3bxve.jpg",
+    "genre_ids": [
+      28,
+      80,
+      9648,
+      53
+    ],
+    "id": 1180906,
+    "original_language": "en",
+    "original_title": "Desert Dawn",
+    "overview": "A newly appointed small-town sheriff and his begrudging deputy get tangled up in a web of lies and corruption involving shady businessmen and the cartel while investigating the murder of a mysterious woman.",
+    "popularity": 76.4975,
+    "poster_path": "/S21BfLrJSD9njucBfY3CKqp8rD.jpg",
+    "release_date": "2025-05-15",
+    "title": "Desert Dawn",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mkylBNgH4DSvVWm3SdaKr63rDdt.jpg",
+    "genre_ids": [
+      53,
+      10402
+    ],
+    "id": 1093237,
+    "original_language": "en",
+    "original_title": "Hurry Up Tomorrow",
+    "overview": "A musician plagued by insomnia is pulled into an odyssey with a stranger who begins to unravel the very core of his existence.",
+    "popularity": 30.8094,
+    "poster_path": "/9W44XSMYbjXdlXcQhD104zPhhhJ.jpg",
+    "release_date": "2025-05-14",
+    "title": "Hurry Up Tomorrow",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jrpLhYHxsE7XVZCtP8LZrfhlvIy.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      28
+    ],
+    "id": 1303055,
+    "original_language": "en",
+    "original_title": "A Breed Apart",
+    "overview": "When Violet accepts an invitation to a private island with some of the world's most famous social influencers, she expects a weekend of unrivaled viral opportunity. She soon becomes part of her own horrific reality show when the guests are pitted against each other to capture the island's legendary man-eating dogs before they become victims of the monstrous canines.",
+    "popularity": 15.286,
+    "poster_path": "/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",
+    "release_date": "2025-05-16",
+    "title": "A Breed Apart",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/565aguZFphtZ5K3LvILDFvFx5B7.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1465024,
+    "original_language": "en",
+    "original_title": "Untold: The Liver King",
+    "overview": "He built a supplement empire by devouring raw meat on social media. And he had the muscles to prove it. But, really, how did the Liver King get so huge?",
+    "popularity": 15.1541,
+    "poster_path": "/4DwBE6zwmzOTf617rz5x7QTNO2W.jpg",
+    "release_date": "2025-05-12",
+    "title": "Untold: The Liver King",
+    "video": false,
+    "vote_average": 7.333,
+    "vote_count": 3
   }
 ]
