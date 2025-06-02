@@ -142033,5 +142033,23 @@
     "video": false,
     "vote_average": 6.596,
     "vote_count": 328
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dcscvI7IrrlBHW6I0sDl6VQdoHL.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1482059,
+    "original_language": "en",
+    "original_title": "Implosion: The Titanic Sub Disaster",
+    "overview": "A Titanic dive. A fatal implosion. Five lives lost. As the world watched, investigators raced to uncover the truth behind the disaster. But was this more than a tragic accident?",
+    "popularity": 12.4947,
+    "poster_path": "/zgK9Q5lToGM69l7lVy3prwnAMU4.jpg",
+    "release_date": "2025-05-27",
+    "title": "Implosion: The Titanic Sub Disaster",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
   }
 ]
