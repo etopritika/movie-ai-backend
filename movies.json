@@ -142051,5 +142051,182 @@
     "video": false,
     "vote_average": 6.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a3F9cXjRH488qcOqFmFZwqawBMU.jpg",
+    "genre_ids": [
+      16,
+      878,
+      28
+    ],
+    "id": 1376434,
+    "original_language": "en",
+    "original_title": "Predator: Killer of Killers",
+    "overview": "This original animated anthology follows three of the fiercest warriors in human history: a Viking raider guiding her young son on a bloody quest for revenge, a ninja in feudal Japan who turns against his Samurai brother in a brutal battle for succession, and a WWII pilot who takes to the sky to investigate an otherworldly threat to the Allied cause.",
+    "popularity": 792.9766,
+    "poster_path": "/lbimIPTVsSlnmqSW5ngEsUxtHLM.jpg",
+    "release_date": "2025-06-05",
+    "title": "Predator: Killer of Killers",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 231
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bsrhm3rlE4Wzv9f5ZTxcNxaMz29.jpg",
+    "genre_ids": [
+      28,
+      18,
+      12
+    ],
+    "id": 1450599,
+    "original_language": "fr",
+    "original_title": "K.O.",
+    "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
+    "popularity": 314.2121,
+    "poster_path": "/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg",
+    "release_date": "2025-06-05",
+    "title": "K.O.",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 33
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+    "genre_ids": [
+      28,
+      10751,
+      14
+    ],
+    "id": 1087192,
+    "original_language": "en",
+    "original_title": "How to Train Your Dragon",
+    "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+    "popularity": 119.6814,
+    "poster_path": "/3lwlJL8aW6Wor9tKvME8VoMnBkn.jpg",
+    "release_date": "2025-06-06",
+    "title": "How to Train Your Dragon",
+    "video": false,
+    "vote_average": 7.346,
+    "vote_count": 52
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wvr3Nh8TALWbmATrnlNg5Vhf6d3.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1426776,
+    "original_language": "en",
+    "original_title": "STRAW",
+    "overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point — and into a shocking act of desperation.",
+    "popularity": 164.1559,
+    "poster_path": "/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+    "release_date": "2025-06-05",
+    "title": "STRAW",
+    "video": false,
+    "vote_average": 8.254,
+    "vote_count": 59
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v1U3lht8yAgdL9FdpzxlznAqNWH.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1396122,
+    "original_language": "bn",
+    "original_title": "তান্ডব",
+    "overview": "",
+    "popularity": 50.2527,
+    "poster_path": "/iplMLlXU1BgmTz4xviILTOlECYL.jpg",
+    "release_date": "2025-06-07",
+    "title": "Taandob",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8lNbxRsGKzWdtLk6hKdB1z11pjE.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "id": 1146210,
+    "original_language": "hi",
+    "original_title": "हाउसफ़ूल 5",
+    "overview": "A father writes his will — his son \"Jolly\" is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the \"real\" Jolly on a cruise celebrating the father's birthday — where a murder takes place.",
+    "popularity": 16.9836,
+    "poster_path": "/iGvGkVOfsooO0ZBrhN5i6zXYUCy.jpg",
+    "release_date": "2025-06-05",
+    "title": "Housefull 5",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/baAFsaYx5dZvb4g8NyE7iDh8p6q.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1285965,
+    "original_language": "en",
+    "original_title": "Dangerous Animals",
+    "overview": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+    "popularity": 12.4277,
+    "poster_path": "/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg",
+    "release_date": "2025-06-05",
+    "title": "Dangerous Animals",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zVAA1hKxxXzk85j7nCP5ELlR8Ef.jpg",
+    "genre_ids": [
+      18,
+      14
+    ],
+    "id": 842924,
+    "original_language": "en",
+    "original_title": "The Life of Chuck",
+    "overview": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.",
+    "popularity": 12.0741,
+    "poster_path": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+    "release_date": "2025-06-05",
+    "title": "The Life of Chuck",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xWDt8awCVyzJzo2qvEHHoA2JAs3.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10749,
+      53
+    ],
+    "id": 1367947,
+    "original_language": "id",
+    "original_title": "Gowok: Kamasutra Jawa",
+    "overview": "Set in 1960s Java, a guru plots revenge on her ex-lover by seducing his son during the boy's pre-wedding sexual training.",
+    "popularity": 5.2493,
+    "poster_path": "/dfsyhvGdOMs5FbA3mgEwSgaqC4a.jpg",
+    "release_date": "2025-06-05",
+    "title": "Gowok: Javanese Kamasutra",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 3
   }
 ]
