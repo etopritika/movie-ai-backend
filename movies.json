@@ -142228,5 +142228,160 @@
     "video": false,
     "vote_average": 8.5,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 1097311,
+    "original_language": "en",
+    "original_title": "Echo Valley",
+    "overview": "Kate lives a secluded life—until her troubled daughter shows up, frightened and covered in someone else's blood. As Kate unravels the shocking truth, she learns just how far a mother will go to try to save her child.",
+    "popularity": 108.2927,
+    "poster_path": "/4akm5FQdZFfNpYGgVyOEXi72eby.jpg",
+    "release_date": "2025-06-13",
+    "title": "Echo Valley",
+    "video": false,
+    "vote_average": 6.711,
+    "vote_count": 64
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dD14o9KJDbmuJ80z4vKdVnQ0zks.jpg",
+    "genre_ids": [
+      878,
+      10749,
+      35
+    ],
+    "id": 1426680,
+    "original_language": "es",
+    "original_title": "Nuestros tiempos",
+    "overview": "Husband and wife Nora and Héctor's scientific breakthrough lets them time travel from 1966 to 2025. As Héctor struggles, Nora thrives—but at what cost?",
+    "popularity": 71.6929,
+    "poster_path": "/t0AEaR2N7ZqMJuROWTYShOOkm3o.jpg",
+    "release_date": "2025-06-09",
+    "title": "Our Times",
+    "video": false,
+    "vote_average": 7.21,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9PRsqDly2tGzs8KdnjBhIcpJrmG.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "id": 1136867,
+    "original_language": "en",
+    "original_title": "Materialists",
+    "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+    "popularity": 45.6909,
+    "poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+    "release_date": "2025-06-12",
+    "title": "Materialists",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1127110,
+    "original_language": "en",
+    "original_title": "Diablo",
+    "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+    "popularity": 33.4658,
+    "poster_path": "/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+    "release_date": "2025-06-13",
+    "title": "Diablo",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1a32xxTmx2UjYi782kbtSikJw0F.jpg",
+    "genre_ids": [
+      16,
+      35,
+      12,
+      28
+    ],
+    "id": 1238307,
+    "original_language": "ar",
+    "original_title": "مسامير جونيور",
+    "overview": "After a dire lesson on bad behavior, three unruly six-year-olds embark on a chaotic quest for the ultimate \"good deed\" — unleashing mayhem at every turn.",
+    "popularity": 34.7636,
+    "poster_path": "/vjfiq5BG70KiHAEaQ8DdG7bP49M.jpg",
+    "release_date": "2025-06-11",
+    "title": "Masameer Junior",
+    "video": false,
+    "vote_average": 7.333,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vxwsDKWhMuJOxqO6d3corhRVxis.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1477453,
+    "original_language": "en",
+    "original_title": "Trainwreck: The Astroworld Tragedy",
+    "overview": "On November 5, 2021, Travis Scott stepped on stage to perform his set at Astroworld: what would have been the best night of the festival-goers lives quickly turned into a catastrophe that left 10 of them dead. The Astroworld Tragedy takes an exclusive look at that night, told from the perspective of the survivors, paramedics, and security staff that were at the center of this catastrophe. Featuring exclusive interviews with survivors, paramedics and festival staff, this documentary examines the 2021 Astroworld tragedy and its aftermath.",
+    "popularity": 25.1591,
+    "poster_path": "/d3Znx32rUXgDm8x7OT2LCFg1qWR.jpg",
+    "release_date": "2025-06-09",
+    "title": "Trainwreck: The Astroworld Tragedy",
+    "video": false,
+    "vote_average": 6.694,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x1MiX7zp3vBUKONBfvW3v5cnHK2.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 883954,
+    "original_language": "en",
+    "original_title": "Broke",
+    "overview": "A bronc rider in denial about his fading rodeo career battles against brain injury and a sudden blizzard while reflecting on how it became so difficult to achieve his dreams.",
+    "popularity": 17.5108,
+    "poster_path": "/ooCDeGxZ5to9CRKxkBEAIWtoRA4.jpg",
+    "release_date": "2025-06-10",
+    "title": "Broke",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gHdoHxJfYzEbm5gdo4K1YpSpY94.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1308412,
+    "original_language": "id",
+    "original_title": "GJLS: Ibuku Ibu-Ibu",
+    "overview": "The togetherness of 3 siblings in thwarting their father's intention to remarry leads to family disintegration and minimal inheritance distribution.",
+    "popularity": 7.0651,
+    "poster_path": "/tmPgxA3oEQgLYTnsM4viazdEv8l.jpg",
+    "release_date": "2025-06-12",
+    "title": "GJLS: Ibuku Ibu-Ibu",
+    "video": false,
+    "vote_average": 8.125,
+    "vote_count": 4
   }
 ]
