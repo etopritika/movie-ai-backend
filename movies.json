@@ -142383,5 +142383,242 @@
     "video": false,
     "vote_average": 8.125,
     "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rJjhOuRFldNF0OWSuSk4PiCLmeA.jpg",
+    "genre_ids": [
+      16,
+      14,
+      28,
+      35,
+      10402
+    ],
+    "id": 803796,
+    "original_language": "en",
+    "original_title": "KPop Demon Hunters",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "popularity": 228.3751,
+    "poster_path": "/jfS5KEfiwsS35ieZvdUdJKkwLlZ.jpg",
+    "release_date": "2025-06-20",
+    "title": "KPop Demon Hunters",
+    "video": false,
+    "vote_average": 8.741,
+    "vote_count": 87
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "id": 1100988,
+    "original_language": "en",
+    "original_title": "28 Years Later",
+    "overview": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+    "popularity": 266.427,
+    "poster_path": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+    "release_date": "2025-06-18",
+    "title": "28 Years Later",
+    "video": false,
+    "vote_average": 7.202,
+    "vote_count": 198
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16,
+      878
+    ],
+    "id": 1022787,
+    "original_language": "en",
+    "original_title": "Elio",
+    "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+    "popularity": 93.2687,
+    "poster_path": "/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg",
+    "release_date": "2025-06-18",
+    "title": "Elio",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 54
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v6ebrYpYebaM3jPClvJR0IwtO9h.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1452541,
+    "original_language": "en",
+    "original_title": "Grenfell: Uncovered",
+    "overview": "Survivors, witnesses, and experts tell the story of the tragic fire that engulfed a residential tower block in London — and the investigation that ensued.",
+    "popularity": 21.4288,
+    "poster_path": "/1gUGoE0uPaVnoH1s9Ua0dDdI31Y.jpg",
+    "release_date": "2025-06-19",
+    "title": "Grenfell: Uncovered",
+    "video": false,
+    "vote_average": 7.667,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wN47m8DMp8byXfMBQl4rdfu4xvx.jpg",
+    "genre_ids": [
+      10402,
+      10751,
+      14
+    ],
+    "id": 1327872,
+    "original_language": "en",
+    "original_title": "Frozen: The Hit Broadway Musical",
+    "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+    "popularity": 18.6678,
+    "poster_path": "/9iLk2GrFYwvt8ZmKMDmzWmGZfNZ.jpg",
+    "release_date": "2025-06-20",
+    "title": "Frozen: The Hit Broadway Musical",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pdbML7ol4HvsI1xWX0s9LZpUGfL.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1190511,
+    "original_language": "hi",
+    "original_title": "सितारे ज़मीन पर",
+    "overview": "A disgraced basketball coach is given the chance to coach a team of players who are intellectually disabled as part of community services. Gulshan has apprehensions at first and feels out of place but soon realizes they just might have what it takes to make it to the national championships.",
+    "popularity": 20.8775,
+    "poster_path": "/eQq9A4AEKyv9R9kJQ9mkd0fYZ7S.jpg",
+    "release_date": "2025-06-20",
+    "title": "Sitaare Zameen Par",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nbyTX77u3qELm9DYPgYfva7vAwj.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "id": 1171101,
+    "original_language": "te",
+    "original_title": "కుబేర",
+    "overview": "A ruthless billionaire, Neeraj, uses beggars as benamis to launder money, with the help of a disgraced civil submit servant, Deepak. One of the beggars, Deva, escapes with ₹10,000 crores and becomes the target of a deadly manhunt. He meets Sameera, who joins him in his mission to use the money to uplift society's poor. With Deepak's help, Deva fights back.",
+    "popularity": 12.6148,
+    "poster_path": "/xjLC5DeA4FQTBv4xe8r3wYqh8lu.jpg",
+    "release_date": "2025-06-19",
+    "title": "Kuberaa",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bWEw8VUefcYPYakFl39Hmy5hjDI.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1486575,
+    "original_language": "en",
+    "original_title": "Justin Willman: Magic Lover",
+    "overview": "Follows an entertaining show that combines between performing magic tricks and delivering comedic commentary on different themes.",
+    "popularity": 9.632,
+    "poster_path": "/jOSpflvAHPglJFH5HRXgu054Wm3.jpg",
+    "release_date": "2025-06-17",
+    "title": "Justin Willman: Magic Lover",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nx3Wv4MWtg1FUN4AXw4GYD2GhHV.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1484255,
+    "original_language": "en",
+    "original_title": "Trainwreck: Mayor of Mayhem",
+    "overview": "Rob Ford scandalized Canadian politics as the brash yet beloved mayor of Toronto — until an infamous video of him smoking crack sparked his downfall.",
+    "popularity": 9.8151,
+    "poster_path": "/wcy6MyKenxvWhxQCkVKdmHCJc9W.jpg",
+    "release_date": "2025-06-16",
+    "title": "Trainwreck: Mayor of Mayhem",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eefyPkk70H4tf7i8XX8hI2dAaNC.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 1328956,
+    "original_language": "en",
+    "original_title": "Alma & the Wolf",
+    "overview": "After a violent animal attack, paranoia spreads through Spiral Creek. But when Deputy Ren Accord gets too close, his son vanishes, and reality begins to fracture.",
+    "popularity": 10.7901,
+    "poster_path": "/t4SUgmGGhMS4t9g0DJzAjRS5Hcj.jpg",
+    "release_date": "2025-06-20",
+    "title": "Alma & the Wolf",
+    "video": false,
+    "vote_average": 6.667,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eyf95BpdC8rJpVFlAsWkEFvkTMK.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "id": 1240951,
+    "original_language": "sv",
+    "original_title": "Beck 52 - Den osynlige mannen",
+    "overview": "When Alex is alerted to a brutal murder, she brings the temporarily suspended Vilhelm and her colleague Josef to the crime scene. The victim turns out to have connections to the digital university Howl, which investigates the role of men in a changing world. At the same time, the case is linked to an older investigation into the \"Balcony Man\", which brings Martin Beck back to the department.",
+    "popularity": 8.8841,
+    "poster_path": "/72iV6uXKVSiezq9TESuGdhJkUN8.jpg",
+    "release_date": "2025-06-21",
+    "title": "Beck 52 - The Invisible Man",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h6gChZHFpmbwqwV3uQsoakp77p1.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 1124619,
+    "original_language": "en",
+    "original_title": "Bride Hard",
+    "overview": "Sam is a secret agent whose toughest mission to date is pleasing her bride-to-be best friend at a lavish destination wedding. When a team of mercenaries crashes the party and takes the guests hostage, Sam is thrown into a fight unlike any before — one where she can’t risk blowing her cover or ruining the big day. As she takes on the bad guys in a high-stakes battle disguised as a fairy-tale affair, she realizes the real threat might be closer than she thinks.",
+    "popularity": 8.2398,
+    "poster_path": "/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
+    "release_date": "2025-06-19",
+    "title": "Bride Hard",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 5
   }
 ]
