@@ -142620,5 +142620,234 @@
     "video": false,
     "vote_average": 5.0,
     "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 911430,
+    "original_language": "en",
+    "original_title": "F1 The Movie",
+    "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+    "popularity": 265.3213,
+    "poster_path": "/6H6p82aWQFEKEuVUiZll6JxV8Ft.jpg",
+    "release_date": "2025-06-23",
+    "title": "F1 The Movie",
+    "video": false,
+    "vote_average": 7.638,
+    "vote_count": 264
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kyBOGOBUMdGWOhzECuosPSzoMpi.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53,
+      27
+    ],
+    "id": 1071585,
+    "original_language": "en",
+    "original_title": "M3GAN 2.0",
+    "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+    "popularity": 122.1087,
+    "poster_path": "/lHChxm7sv3gWR2qz5PwjdxcXQf7.jpg",
+    "release_date": "2025-06-25",
+    "title": "M3GAN 2.0",
+    "video": false,
+    "vote_average": 7.022,
+    "vote_count": 69
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jpS4Hg1MjXgmIXYZhJwNPVGJaTG.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1371151,
+    "original_language": "en",
+    "original_title": "Off the Grid",
+    "overview": "After a morally-bankrupt company tries to weaponize a brilliant scientist's revolutionary technology, he goes off the grid to safeguard humanity. When the company sends a strike force to find him, they make their biggest mistake of all – they weaponize the man they are trying to catch.",
+    "popularity": 21.8499,
+    "poster_path": "/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg",
+    "release_date": "2025-06-27",
+    "title": "Off the Grid",
+    "video": false,
+    "vote_average": 7.267,
+    "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xABhldZaMb6wfCH5oigV333OYnb.jpg",
+    "genre_ids": [
+      28,
+      53,
+      35
+    ],
+    "id": 749170,
+    "original_language": "en",
+    "original_title": "Heads of State",
+    "overview": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
+    "popularity": 17.5772,
+    "poster_path": "/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+    "release_date": "2025-06-24",
+    "title": "Heads of State",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nt0EuLVoWIUzpKoxThAqWHSuJbJ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1484253,
+    "original_language": "en",
+    "original_title": "Trainwreck: Poop Cruise",
+    "overview": "An engine fire leaves 4,000 passengers stranded at sea without power and plumbing in this wild documentary about the infamous \"poop cruise\" of 2013.",
+    "popularity": 15.7956,
+    "poster_path": "/nJZlsBpDxx3LrGwXvwXkQyVnp9A.jpg",
+    "release_date": "2025-06-23",
+    "title": "Trainwreck: Poop Cruise",
+    "video": false,
+    "vote_average": 5.673,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 1328913,
+    "original_language": "es",
+    "original_title": "Padre no hay más que uno 5: Nido repleto",
+    "overview": "Some parents experience the anguish of the \"empty nest\" when their children leave home. Javier, on the other hand, suffers the trauma of the \"full nest\": no one wants to leave home.",
+    "popularity": 14.092,
+    "poster_path": "/byVPxBi6LdH5rpCKlz2Fh4EsTzX.jpg",
+    "release_date": "2025-06-26",
+    "title": "Padre no hay más que uno 5: Nido repleto",
+    "video": false,
+    "vote_average": 6.167,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sq07TPUrruUkLsU0apGchnRmWlN.jpg",
+    "genre_ids": [
+      14,
+      36,
+      18
+    ],
+    "id": 1232232,
+    "original_language": "te",
+    "original_title": "కన్నప్ప",
+    "overview": "After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+    "popularity": 12.6093,
+    "poster_path": "/b27RNsu0d4SqC4Xph5jBngLGUqZ.jpg",
+    "release_date": "2025-06-26",
+    "title": "Kannappa",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dkqqVXnx7tTPIyirHR3m99qgg0c.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1485328,
+    "original_language": "en",
+    "original_title": "Steph Tolev: Filth Queen",
+    "overview": "Bow down to the queen as fearlessly filthy Steph Tolev rules the stage with hilarious confessions, unfiltered dating stories and absurd observations.",
+    "popularity": 11.4867,
+    "poster_path": "/jXNeVs4XkVfuQ2x5G67kOyRlAcx.jpg",
+    "release_date": "2025-06-24",
+    "title": "Steph Tolev: Filth Queen",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1Xxr8zwRZDNeUD65O9m663P6A5K.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1389255,
+    "original_language": "en",
+    "original_title": "The Stranger in My Home",
+    "overview": "A handsome stranger's claim that a couple's 15-year-old daughter was switched at birth throws their perfect family into turmoil, unearthing shattering secrets.",
+    "popularity": 9.5362,
+    "poster_path": "/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg",
+    "release_date": "2025-06-23",
+    "title": "The Stranger in My Home",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/962KXsr09uK8wrmUg9TjzmE7c4e.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "id": 1119878,
+    "original_language": "en",
+    "original_title": "Ice Road: Vengeance",
+    "overview": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
+    "popularity": 8.0343,
+    "poster_path": "/2vHQBX5L4yoExTa55KmGIg2Q5s3.jpg",
+    "release_date": "2025-06-27",
+    "title": "Ice Road: Vengeance",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hLpuo585mwOWKVco2RPZjgu8RnA.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1504735,
+    "original_language": "ko",
+    "original_title": "오징어 게임 이야기",
+    "overview": "Take a seat with the director and cast of Squid Game. Discover key moments, hear untold stories and see what this entire journey meant to them.",
+    "popularity": 13.1721,
+    "poster_path": "/7iJV9Jr3HFsxnOTwmFBWM64MAyv.jpg",
+    "release_date": "2025-06-27",
+    "title": "Squid Game in Conversation",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v18ADMNohg3I0QA74k02U7voUr2.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1317931,
+    "original_language": "es",
+    "original_title": "Infiltrada en el búnker",
+    "overview": "This is the story of an undercover investigator who sacrificed everything and risked her life to show the world the harsh reality she experienced over two years inside an animal testing laboratory. Her investigation, which she eventually named 'The Bunker', is captured in hundreds of hours of hidden camera footage that reveals serious cases of animal abuse. Infiltrated in the Bunker is a thriller that exposes the longest infiltration inside a pharmaceutical laboratory in the world, nd puts into perspective while shedding light on an inescapable social debate: the use of animals in scientific experimentation.",
+    "popularity": 5.9157,
+    "poster_path": "/1hmZfIhKl84b4z40Vl9F06p4eWd.jpg",
+    "release_date": "2025-06-27",
+    "title": "Undercover. Inside the Bunker",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 8
   }
 ]
