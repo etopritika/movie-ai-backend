@@ -131061,5 +131061,139 @@
     "video": false,
     "vote_average": 6.0,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kLSOm3uQoVMu2SfwPxkiaX85bzm.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "id": 1287536,
+    "original_language": "en",
+    "original_title": "Dora and the Search for Sol Dorado",
+    "overview": "Dora, Diego, and their new friends trek through the perilous dangers of the Amazonian jungle in search of the ancient and powerful treasure of Sol Dorado to keep it out of enemy hands.",
+    "popularity": 208.7282,
+    "poster_path": "/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+    "release_date": "2025-07-02",
+    "title": "Dora and the Search for Sol Dorado",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oukZHooYhO4zmu4WTSjqwCoAIt7.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1491570,
+    "original_language": "en",
+    "original_title": "Shark Whisperer",
+    "overview": "Marine conservationist and social media activist Ocean Ramsey fearlessly swims with sharks in this documentary about her risky mission to protect them.",
+    "popularity": 27.0042,
+    "poster_path": "/v0WEubJKWTfqYX8laBGIPI07Z7t.jpg",
+    "release_date": "2025-06-30",
+    "title": "Shark Whisperer",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2m8zoc7iL1MiWP2FuPiyQvTSBtE.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10751
+    ],
+    "id": 1263029,
+    "original_language": "te",
+    "original_title": "తమ్ముడు",
+    "overview": "A troubled man reunites with his sister to protect her and a group of villagers from the brutal plans of a violent criminal businessman.",
+    "popularity": 12.9519,
+    "poster_path": "/Cy6KZIRNkyyYE7mOiFMOyQ6EVE.jpg",
+    "release_date": "2025-07-04",
+    "title": "Thammudu",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2vvXkChwXyNyK3s8KRhMoensEwO.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1484262,
+    "original_language": "en",
+    "original_title": "Trainwreck: The Cult of American Apparel",
+    "overview": "Featuring tell-all interviews with insiders and former staff, this exposé traces American Apparel's journey from fashion phenomenon to financial flop.",
+    "popularity": 10.7633,
+    "poster_path": "/jqDRiwqDsopRZe7xZRYz7KiTkjc.jpg",
+    "release_date": "2025-06-30",
+    "title": "Trainwreck: The Cult of American Apparel",
+    "video": false,
+    "vote_average": 6.083,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3jV6krPbTWed7HI4sPmg2uUq6Uc.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1337411,
+    "original_language": "tl",
+    "original_title": "Obsesyon",
+    "overview": "A middle-aged woman becomes obsessed with a student, who has a crush on her stepdaughter. Every time the young man becomes intimate with the daughter, the woman fantasizes that she is with him.",
+    "popularity": 9.2931,
+    "poster_path": "/trn8Iz80atofrlCP6VOEFRRacRK.jpg",
+    "release_date": "2025-07-04",
+    "title": "Obsesyon",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7pYGnJm7N0TwFK2Caf4jw6Ywr78.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1262548,
+    "original_language": "te",
+    "original_title": "ఉప్పు కప్పురంబు",
+    "overview": "A fictional village faces an extraordinary crisis as the cemetery runs out of space. Uproarious chaos ensues as the community rallies together, finding inventive solutions to overcome this unusual predicament.",
+    "popularity": 10.0007,
+    "poster_path": "/xzduT5nNgmjvfD9pJom265S9te3.jpg",
+    "release_date": "2025-07-04",
+    "title": "Uppu Kappurambu",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8ycWZizMNfYlQE5CdLSbOboNDko.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "id": 1065426,
+    "original_language": "hi",
+    "original_title": "मेट्रो... इन दिनों",
+    "overview": "Follows interconnected stories of several different couples, each facing a crossroads at different stages in their lives and relationships.",
+    "popularity": 6.229,
+    "poster_path": "/AlmzM8CNm2fRJQW2iA9Ittwv0ig.jpg",
+    "release_date": "2025-07-04",
+    "title": "Metro... In Dino",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
   }
 ]
