@@ -131195,5 +131195,238 @@
     "video": false,
     "vote_average": 8.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 1061474,
+    "original_language": "en",
+    "original_title": "Superman",
+    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "popularity": 498.0608,
+    "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
+    "release_date": "2025-07-09",
+    "title": "Superman",
+    "video": false,
+    "vote_average": 7.472,
+    "vote_count": 544
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80,
+      9648
+    ],
+    "id": 1374534,
+    "original_language": "nl",
+    "original_title": "Bad Boa's",
+    "overview": "When an overeager community officer and a reckless ex-detective are forced to team up, plenty of chaos ensues on the streets of Rotterdam.",
+    "popularity": 502.0865,
+    "poster_path": "/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg",
+    "release_date": "2025-07-10",
+    "title": "Almost Cops",
+    "video": false,
+    "vote_average": 5.015,
+    "vote_count": 34
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
+    "genre_ids": [
+      27,
+      53,
+      28
+    ],
+    "id": 1429744,
+    "original_language": "th",
+    "original_title": "ปากกัด ตีนถีบ",
+    "overview": "In a fight for survival against a horrifying army of zombies, a former Muay Thai fighter must use skill, speed and grit to save his girlfriend.",
+    "popularity": 270.3591,
+    "poster_path": "/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg",
+    "release_date": "2025-07-09",
+    "title": "Ziam",
+    "video": false,
+    "vote_average": 6.734,
+    "vote_count": 64
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xScjwsqx8vXzBaKiioVIB5MkDmQ.jpg",
+    "genre_ids": [
+      10402,
+      12,
+      10749,
+      35,
+      10751
+    ],
+    "id": 1243341,
+    "original_language": "en",
+    "original_title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+    "overview": "A new adventure dawns for Zed and Addison when their summer road trip takes an unexpected detour, landing them in the middle of yet another monster rivalry: Daywalkers vs. Vampires. Tensions flare when Zed and Addison find themselves acting as camp counselors between the two opposing supernatural factions. With the help of Eliza and Willa, they must convince sworn enemies Nova and Victor to try to unite their warring worlds before an even greater threat endangers them all.",
+    "popularity": 148.0312,
+    "poster_path": "/qIipTUGmAVjMH7ERtdzKkPuVYhP.jpg",
+    "release_date": "2025-07-10",
+    "title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 37
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/57on65zgbTjmiMJSqqKVZ3c355p.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1246310,
+    "original_language": "en",
+    "original_title": "Madea's Destination Wedding",
+    "overview": "Madea packs her best floral dresses and a whole lot of chaos when the Simmons family heads to the Bahamas for her grandniece's whirlwind wedding.",
+    "popularity": 124.5525,
+    "poster_path": "/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg",
+    "release_date": "2025-07-10",
+    "title": "Madea's Destination Wedding",
+    "video": false,
+    "vote_average": 5.667,
+    "vote_count": 27
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+    "genre_ids": [
+      878,
+      53
+    ],
+    "id": 1425045,
+    "original_language": "de",
+    "original_title": "Brick",
+    "overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+    "popularity": 124.0565,
+    "poster_path": "/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+    "release_date": "2025-07-09",
+    "title": "Brick",
+    "video": false,
+    "vote_average": 5.803,
+    "vote_count": 155
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/flbWD0ql2Qw4DCGy94nIALGn9ob.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1391013,
+    "original_language": "hi",
+    "original_title": "आप जैसा कोई",
+    "overview": "Shrirenu lives by tradition. Madhu lives unapologetically. When their paths cross, a tender romance unfolds — awkward, sweet but shadowed by patriarchy.",
+    "popularity": 46.5287,
+    "poster_path": "/5U516jDJyFnZA4XHaZft8NfI1Yb.jpg",
+    "release_date": "2025-07-11",
+    "title": "Aap Jaisa Koi",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rZhenUlFlwwoLTyVRUV1kFVV0c6.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1477565,
+    "original_language": "en",
+    "original_title": "Trainwreck: The Real Project X",
+    "overview": "A night of drunken chaos rocks a quiet Dutch town in this shocking documentary about a teen's birthday invite that accidentally went viral on Facebook.",
+    "popularity": 20.8677,
+    "poster_path": "/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg",
+    "release_date": "2025-07-07",
+    "title": "Trainwreck: The Real Project X",
+    "video": false,
+    "vote_average": 6.118,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oGMqaaeMuZJx5xJDyCncgQFJUKR.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1130022,
+    "original_language": "en",
+    "original_title": "Sovereign",
+    "overview": "Struggling single father Jerry indoctrinates his son Joe into the sovereign citizen movement, teaching him that laws are mere illusions and freedom is something you take. But, as Jerry’s ideology consumes them, they are set on a collision course with a police chief who has spent his life upholding the rules that Jerry has spent his tearing down.",
+    "popularity": 18.8547,
+    "poster_path": "/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
+    "release_date": "2025-07-11",
+    "title": "Sovereign",
+    "video": false,
+    "vote_average": 6.333,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zgBhFqDqqasECKLRr9U7KsaoVqg.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1506450,
+    "original_language": "tl",
+    "original_title": "Sipsipan",
+    "overview": "At Sipsipan, a shady stop where truckers trade fuel for cash and pleasure, one man’s craving leads him down a path of lust, lies, and no return.",
+    "popularity": 17.4869,
+    "poster_path": "/s8L60mdRK3aBhu9EjXFAvc0KiSQ.jpg",
+    "release_date": "2025-07-11",
+    "title": "Sipsipan",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w80DQvXqTB6vN7b31O6FWbDFY5K.jpg",
+    "genre_ids": [
+      16
+    ],
+    "id": 1488147,
+    "original_language": "zh",
+    "original_title": "斗罗大陆剧场版：剑道尘心​",
+    "overview": "Two decades before Douluo's final clash, the Soul Temple schemed to conquer the soul master realm, targeting the Seven-Treasure Glazed Sect first. Gu Douluo begged swordmaster Chen Xin to protect 5-year-old heir Ning Rongrong, unknowingly triggering a life-or-death flight that unraveled a continent-shaking conspiracy in shadows.",
+    "popularity": 12.1811,
+    "poster_path": "/aQO574zJhTs7xWV1EqYeC5eoty6.jpg",
+    "release_date": "2025-07-12",
+    "title": "斗罗大陆剧场版：剑道尘心​",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qa2HWW9Mm9H3XDFUsXkTRvHtPLZ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1500513,
+    "original_language": "en",
+    "original_title": "Camp Alec",
+    "overview": "Nestled in the woods outside of Grand Rapids, Michigan, is a sleepaway camp for kids who are nonspeaking. To express themselves, they must use augmentative and alternative communication (AAC) devices that translate their composed messages into audible speech. Follow the lives and experiences of these campers as a series of immersive, vérité-style character studies.",
+    "popularity": 5.7187,
+    "poster_path": "/a4jVVpUwj8bqmX2RE05qYNbblLw.jpg",
+    "release_date": "2025-07-09",
+    "title": "Camp Alec",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
