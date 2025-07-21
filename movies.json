@@ -131428,5 +131428,237 @@
     "video": false,
     "vote_average": 10.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/63RnEJRNzRDvi0Fv4jhrT2eh0fl.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14,
+      53
+    ],
+    "id": 1311031,
+    "original_language": "ja",
+    "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
+    "popularity": 387.6431,
+    "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+    "release_date": "2025-07-18",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hyxKzbKnVWWJelyO2fagFFTHu96.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 1269208,
+    "original_language": "ko",
+    "original_title": "84제곱미터",
+    "overview": "A man who poured his life savings into a new apartment discovers its walls are full of disturbing noises, hostile neighbors and unsettling secrets.",
+    "popularity": 79.3426,
+    "poster_path": "/5hlNv3Kd9xovvSgrslWhMriGpZ8.jpg",
+    "release_date": "2025-07-17",
+    "title": "Wall to Wall",
+    "video": false,
+    "vote_average": 6.638,
+    "vote_count": 47
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hniP6c6Tss51qKc5vYMycDBDf9P.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 1083433,
+    "original_language": "en",
+    "original_title": "I Know What You Did Last Summer",
+    "overview": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer…and is hell-bent on revenge.",
+    "popularity": 79.3652,
+    "poster_path": "/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg",
+    "release_date": "2025-07-16",
+    "title": "I Know What You Did Last Summer",
+    "video": false,
+    "vote_average": 5.783,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iTqw8QXIdMcPa20vmBCDpbdIReG.jpg",
+    "genre_ids": [
+      53,
+      18,
+      10749
+    ],
+    "id": 1236197,
+    "original_language": "es",
+    "original_title": "Juegos de Seducción",
+    "overview": "Sebastián, a charismatic con artist who seduces women to steal their money, puts his retirement plans on hold after the sudden appearance of Carolina, an enigmatic woman who will expose him to the greatest danger of his career.",
+    "popularity": 66.8005,
+    "poster_path": "/uOQCP7RB97H2r8QELb4jaunWzNb.jpg",
+    "release_date": "2025-07-18",
+    "title": "Follow",
+    "video": false,
+    "vote_average": 8.857,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lP5kcBL67k4aduIEzlSTVRR4RBh.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1429834,
+    "original_language": "pt",
+    "original_title": "Família, Pero no Mucho",
+    "overview": "A Brazilian father finds a worthy opponent when he meets his daughter's Argentine in-laws, and a trip to Bariloche becomes the stage for a fun international rivalry.",
+    "popularity": 48.7406,
+    "poster_path": "/g0Q7m2s2k0ZWdzIs07AvPKHoA9Q.jpg",
+    "release_date": "2025-07-17",
+    "title": "Almost Family",
+    "video": false,
+    "vote_average": 6.25,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8aNNz9WYmxhnBxzWTt0nRI4F7rx.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1241634,
+    "original_language": "hi",
+    "original_title": "सैयारा",
+    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+    "popularity": 47.9123,
+    "poster_path": "/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "release_date": "2025-07-18",
+    "title": "Saiyaara",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/CQtlo69Ts7oeeyEtSqZZNKQtNE.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1477566,
+    "original_language": "en",
+    "original_title": "Trainwreck: Balloon Boy",
+    "overview": "A homemade flying saucer lifts off, and a 6-year-old boy might be inside. National panic ensues — but what truly happened? This documentary investigates.",
+    "popularity": 20.0749,
+    "poster_path": "/4QpWZlGZMYrAnlQizjVIMnAXnv0.jpg",
+    "release_date": "2025-07-14",
+    "title": "Trainwreck: Balloon Boy",
+    "video": false,
+    "vote_average": 6.267,
+    "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/znr3SYHph3FtTLpcFTeuMAAJ5mP.jpg",
+    "genre_ids": [
+      37,
+      35,
+      18
+    ],
+    "id": 648878,
+    "original_language": "en",
+    "original_title": "Eddington",
+    "overview": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
+    "popularity": 16.2924,
+    "poster_path": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+    "release_date": "2025-07-16",
+    "title": "Eddington",
+    "video": false,
+    "vote_average": 7.034,
+    "vote_count": 29
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "id": 1508562,
+    "original_language": "es",
+    "original_title": "Sigo siendo la misma",
+    "overview": "This documentary explores Yurena's meteoric rise to fame as Tamara, the media frenzy she faced in the 2000s and the present-day lives of her TV rivals.",
+    "popularity": 22.4633,
+    "poster_path": "/7kkydknXOD67CCU6iLxgL0hcCdL.jpg",
+    "release_date": "2025-07-17",
+    "title": "I'm Still a Superstar",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      14,
+      28
+    ],
+    "id": 1144107,
+    "original_language": "zh",
+    "original_title": "罗小黑战记 2",
+    "overview": "Xiaohei had lived a peaceful life with Master Wuxian in a village and had gradually adapted to life in the human world. Two years later, the Spirit Hall was suddenly attacked and Wuxian and Xiaohei received a request to go to the guild hall. Can Xiaohei overcome this sudden trial? In the face of unexpected enemies, what choice will Xiaohei make...",
+    "popularity": 15.8768,
+    "poster_path": "/5KDVDjqDUxVyXryfBOgMBjND8u7.jpg",
+    "release_date": "2025-07-18",
+    "title": "The Legend of Hei 2",
+    "video": false,
+    "vote_average": 8.8,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/es0N3A6vkLz2EmJavnM2M4urOEO.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "id": 1026222,
+    "original_language": "en",
+    "original_title": "Saint Clare",
+    "overview": "In a small town a solitary woman is haunted by voices that lead her to assassinate ill intended people and get away with it, until her last kill sucks her down a rabbit hole riddled with corruption, trafficking and visions from the beyond.",
+    "popularity": 6.9725,
+    "poster_path": "/aE0q4awk7zto3Eql4cAeJuVAns9.jpg",
+    "release_date": "2025-07-18",
+    "title": "Saint Clare",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      80,
+      99
+    ],
+    "id": 1513538,
+    "original_language": "en",
+    "original_title": "The Kim Kardashian Diamond Heist",
+    "overview": "A look back at the robbery that targeted Kim Kardashian, during which she was gagged and robbed of $9 million worth of jewelry.",
+    "popularity": 6.1428,
+    "poster_path": "/eg8M782cw6Sfj8OLSWo0kgYMA6e.jpg",
+    "release_date": "2025-07-15",
+    "title": "The Kim Kardashian Diamond Heist",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
   }
 ]
