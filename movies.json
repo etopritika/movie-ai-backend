@@ -131660,5 +131660,180 @@
     "video": false,
     "vote_average": 8.5,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/88DDOXggxZLxobBolSRRLkaS8h7.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1263256,
+    "original_language": "en",
+    "original_title": "Happy Gilmore 2",
+    "overview": "Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.",
+    "popularity": 372.098,
+    "poster_path": "/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
+    "release_date": "2025-07-25",
+    "title": "Happy Gilmore 2",
+    "video": false,
+    "vote_average": 6.789,
+    "vote_count": 225
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 617126,
+    "original_language": "en",
+    "original_title": "The Fantastic 4: First Steps",
+    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+    "popularity": 416.2964,
+    "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "release_date": "2025-07-23",
+    "title": "The Fantastic 4: First Steps",
+    "video": false,
+    "vote_average": 7.34,
+    "vote_count": 468
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u406tzmoD60CmCqGbSRLE2bifmT.jpg",
+    "genre_ids": [
+      18,
+      53,
+      27
+    ],
+    "id": 1285728,
+    "original_language": "id",
+    "original_title": "A Normal Woman",
+    "overview": "When an unidentified disease starts to upend her life, a socialite must unravel the mystery behind it — before her whole sense of self falls apart.",
+    "popularity": 72.4336,
+    "poster_path": "/p8QqvttODrPYdJLjAUvcUsJtDTD.jpg",
+    "release_date": "2025-07-23",
+    "title": "A Normal Woman",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      80,
+      12,
+      16
+    ],
+    "id": 1175942,
+    "original_language": "en",
+    "original_title": "The Bad Guys 2",
+    "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+    "popularity": 51.8405,
+    "poster_path": "/iPYgLLhQ69vIvgDtGFtAln4TYtM.jpg",
+    "release_date": "2025-07-24",
+    "title": "The Bad Guys 2",
+    "video": false,
+    "vote_average": 8.429,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "id": 1241470,
+    "original_language": "en",
+    "original_title": "Osiris",
+    "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+    "popularity": 29.3781,
+    "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+    "release_date": "2025-07-25",
+    "title": "Osiris",
+    "video": false,
+    "vote_average": 6.056,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z8HgoAXiJgMGegIyynsAJ4No1Dw.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1484267,
+    "original_language": "en",
+    "original_title": "Trainwreck: P.I. Moms",
+    "overview": "This tell-all documentary investigates an early 2000s reality show about private eye moms and the drug scandal that sabotaged the series and its stars.",
+    "popularity": 16.5441,
+    "poster_path": "/gACBkTDNDP2GGspeFkn7AhCpiL3.jpg",
+    "release_date": "2025-07-21",
+    "title": "Trainwreck: P.I. Moms",
+    "video": false,
+    "vote_average": 6.417,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uz49vsYeZkom3lhYmMiQHiuUYcw.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1492108,
+    "original_language": "tl",
+    "original_title": "Kandungan",
+    "overview": "VMX sirens Rica Gonzales and Arah Alonzo sizzle in a story about a womanizing bachelor who finds his secretary's journal filled with sexual fantasies. The two turn the fantasies into reality but the appearance of his fiancée turn his world upside down.",
+    "popularity": 7.5682,
+    "poster_path": "/jOGL3eLsp5ldu2Hv8BAE5bJ2wic.jpg",
+    "release_date": "2025-07-22",
+    "title": "Kandungan",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/IOEXDwaVH2IcSXIZhCg7g572ic.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 926606,
+    "original_language": "en",
+    "original_title": "The Home",
+    "overview": "A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.",
+    "popularity": 5.8395,
+    "poster_path": "/mkoPn8eEr1ouz402rl39YJwYt5O.jpg",
+    "release_date": "2025-07-24",
+    "title": "The Home",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fLecTFzJrYHYTakGH6jpWXrwN87.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 1339658,
+    "original_language": "en",
+    "original_title": "Oh, Hi!",
+    "overview": "Iris has met her perfect guy, Isaac, and is enjoying their first romantic getaway together — what could go wrong?",
+    "popularity": 5.0382,
+    "poster_path": "/XBC1Oi5pXmlmvE1n2KqaS1qm7B.jpg",
+    "release_date": "2025-07-25",
+    "title": "Oh, Hi!",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
   }
 ]
