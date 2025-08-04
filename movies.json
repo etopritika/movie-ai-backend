@@ -124886,5 +124886,64 @@
     "video": false,
     "vote_average": 7.424,
     "vote_count": 139
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/shRevbFSTMZK0PheyYhZq135Kcr.jpg",
+    "genre_ids": [
+      28,
+      27,
+      10749
+    ],
+    "id": 986206,
+    "original_language": "en",
+    "original_title": "Night Carnage",
+    "overview": "A blogger who is also a werewolf meets a dashing playboy with a dark secret of his own. Starring Logan Andrews and Christian Howard.",
+    "popularity": 662.2823,
+    "poster_path": "/gep8Mk0ndUn8IXyXouPz5cvIvzj.jpg",
+    "release_date": "2025-07-29",
+    "title": "Night Carnage",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "id": 1307078,
+    "original_language": "en",
+    "original_title": "My Oxford Year",
+    "overview": "An ambitious American fulfilling her dream of studying at Oxford falls for a charming Brit hiding a secret that may upend her perfectly planned life.",
+    "popularity": 188.1308,
+    "poster_path": "/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+    "release_date": "2025-07-31",
+    "title": "My Oxford Year",
+    "video": false,
+    "vote_average": 7.438,
+    "vote_count": 73
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ssDPH5LjnOcmDf17Jt0g2Amevvx.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1124838,
+    "original_language": "te",
+    "original_title": "కింగ్డమ్‌",
+    "overview": "Soori, a modest police constable, is unintentionally dragged into a dangerous undercover spy operation in Sri Lanka for the Indian government . His journey is intimately linked to his estranged brother Siva, and the risks involved on their reunion.",
+    "popularity": 8.096,
+    "poster_path": "/339qTJigODEQ6HY5n8SYhlvCeOI.jpg",
+    "release_date": "2025-07-30",
+    "title": "Kingdom",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
   }
 ]
