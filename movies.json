@@ -124945,5 +124945,163 @@
     "video": false,
     "vote_average": 7.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kyqM6padQzZ1eYxv84i9smNvZAG.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1078605,
+    "original_language": "en",
+    "original_title": "Weapons",
+    "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "popularity": 249.1853,
+    "poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+    "release_date": "2025-08-06",
+    "title": "Weapons",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 199
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dcLV5rEXuQRW0ZlB7IMLArHMyWh.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10751
+    ],
+    "id": 1125257,
+    "original_language": "en",
+    "original_title": "Freakier Friday",
+    "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+    "popularity": 86.0138,
+    "poster_path": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+    "release_date": "2025-08-06",
+    "title": "Freakier Friday",
+    "video": false,
+    "vote_average": 7.256,
+    "vote_count": 41
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uUFxsPRaeRnZccvMz6SCZ1FK6ha.jpg",
+    "genre_ids": [
+      878,
+      18,
+      53
+    ],
+    "id": 1280444,
+    "original_language": "en",
+    "original_title": "The Occupant",
+    "overview": "Desperate to save her sister, Abby takes a dangerous job in the remote Georgian wilderness. Stranded in the mountains after her helicopter crashes, she finds hope through John, a mysterious helper radioing from nearby. As he guides her through the harsh conditions, Abby struggles to survive, and her grip on reality falters until she is faced with an impossible choice.",
+    "popularity": 40.8998,
+    "poster_path": "/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
+    "release_date": "2025-08-07",
+    "title": "The Occupant",
+    "video": false,
+    "vote_average": 6.444,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nplAWk6ur80ZeHaTWRTywbULHU3.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1513598,
+    "original_language": "en",
+    "original_title": "Stolen: Heist of the Century",
+    "overview": "Antwerp, 2003. A gang of thieves rob the impenetrable Diamond Center. Who was behind one of the world's biggest heists - and how did they pull it off?",
+    "popularity": 38.9361,
+    "poster_path": "/aqZOJkBd3DR6ioacm136lP7BGvi.jpg",
+    "release_date": "2025-08-07",
+    "title": "Stolen: Heist of the Century",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nZsKWhwhUL3Eg88SkIaJjuIZzpN.jpg",
+    "genre_ids": [
+      28,
+      35,
+      53
+    ],
+    "id": 1319895,
+    "original_language": "en",
+    "original_title": "Hostile Takeover",
+    "overview": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
+    "popularity": 9.0516,
+    "poster_path": "/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+    "release_date": "2025-08-08",
+    "title": "Hostile Takeover",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z0RCtpY7nr9lSiMJWrKOuglEZQg.jpg",
+    "genre_ids": [
+      28,
+      80,
+      878
+    ],
+    "id": 1506537,
+    "original_language": "zh",
+    "original_title": "终极拯救",
+    "overview": "A deadly virus erupts on Pacific's Asel Island. Facing armed biohazards, an international bio-safety team deploys 3 agents for a time-sensitive rescue mission.",
+    "popularity": 5.6391,
+    "poster_path": "/jDbnYztC0bIT4pvUAxXM2SVQwzS.jpg",
+    "release_date": "2025-08-08",
+    "title": "Ultimate Mission",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8v6tGQM5yMV5r7d5AUYszJ3yo0E.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "id": 1305653,
+    "original_language": "zh",
+    "original_title": "东极岛",
+    "overview": "During World War II, in the waters near Zhoushan, China, a Japanese freighter carrying British prisoners of war was sunk, leaving thousands of them trapped inside the ship by the Japanese military. In this desperate situation, a group of fishermen from Dongji Island stepped forward without hesitation. Driven by their innate kindness, courage, and unyielding spirit, they braved the stormy seas to open a path of survival for the stranded prisoners.Based on the true story of Chinese fishermen rescuing British POWs.",
+    "popularity": 5.5005,
+    "poster_path": "/cjgtmPwGnLpleNAdN0q0Bz0WYg0.jpg",
+    "release_date": "2025-08-08",
+    "title": "Dongji Rescue",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pN8icgN6RuQuvwlkFI8tLggLWqh.jpg",
+    "genre_ids": [
+      12,
+      14,
+      35
+    ],
+    "id": 1319969,
+    "original_language": "en",
+    "original_title": "Sketch",
+    "overview": "When a young girl’s sketchbook falls into a strange pond, her drawings come to life—chaotic, real, and on the loose. As the town descends into chaos, her family must reunite and stop the monsters they never meant to unleash.",
+    "popularity": 5.9806,
+    "poster_path": "/vblVhVkDPpL7vGI7eBf89KuLNTs.jpg",
+    "release_date": "2025-08-06",
+    "title": "Sketch",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
