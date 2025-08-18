@@ -125103,5 +125103,309 @@
     "video": false,
     "vote_average": 10.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nGrUZvMxVqJvW1VsJ3QZStxnsZN.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "id": 1254624,
+    "original_language": "en",
+    "original_title": "Night Always Comes",
+    "overview": "Facing eviction in a city her family can no longer afford, a woman plunges into a desperate and increasingly dangerous all-night search to raise $25,000.",
+    "popularity": 130.3802,
+    "poster_path": "/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
+    "release_date": "2025-08-15",
+    "title": "Night Always Comes",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wO15XEgeLbeijtf3MQAUqWCxSxc.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1007734,
+    "original_language": "en",
+    "original_title": "Nobody 2",
+    "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+    "popularity": 74.6809,
+    "poster_path": "/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+    "release_date": "2025-08-13",
+    "title": "Nobody 2",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 42
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7uzhHIEOJ3AliYICXLzTpQ4Rkrn.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 537921,
+    "original_language": "en",
+    "original_title": "Fixed",
+    "overview": "After learning he's getting neutered, a dog has 24 hours to squeeze in one last balls-to-the-wall adventure with the boys.",
+    "popularity": 46.9305,
+    "poster_path": "/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
+    "release_date": "2025-08-13",
+    "title": "Fixed",
+    "video": false,
+    "vote_average": 6.578,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 1153399,
+    "original_language": "ta",
+    "original_title": "கூலி",
+    "overview": "A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+    "popularity": 36.271,
+    "poster_path": "/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+    "release_date": "2025-08-13",
+    "title": "Coolie",
+    "video": false,
+    "vote_average": 5.688,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/t2cGCvRLjZw0i89DPwvp982g3ra.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1419406,
+    "original_language": "zh",
+    "original_title": "捕风追影",
+    "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+    "popularity": 30.7681,
+    "poster_path": "/wXeAsIkA7k9YVk0JEwPjjkqZwx8.jpg",
+    "release_date": "2025-08-16",
+    "title": "The Shadow's Edge",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1Bavnm3tr5zJMAhBKKmGHVjbPZN.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "id": 1484453,
+    "original_language": "en",
+    "original_title": "Snoopy Presents: A Summer Musical",
+    "overview": "Music and glee fill the air as Charlie Brown and the gang head off to summer camp. First-timer Sally doesn't get what all the hype is about. But when the camp may be forced to close, they team up to save it so more kids can make their own special memories.",
+    "popularity": 39.7352,
+    "poster_path": "/kK1ugxST3tCJZjZEO37sLb4Yot5.jpg",
+    "release_date": "2025-08-14",
+    "title": "Snoopy Presents: A Summer Musical",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bNwxRkm97oLUhSYXpSvQNyWJFmg.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 1109086,
+    "original_language": "hi",
+    "original_title": "वॉर 2",
+    "overview": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+    "popularity": 22.8024,
+    "poster_path": "/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+    "release_date": "2025-08-13",
+    "title": "War 2",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2fwoBrUYMK0PZVaFqesx2CoRF6H.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1471345,
+    "original_language": "es",
+    "original_title": "Homo Argentum",
+    "overview": "The film consists of 16 shorts that explore, with humor and social criticism, the characteristics of the Argentine identity.",
+    "popularity": 28.8834,
+    "poster_path": "/21WlZtv1GZgiD2qAVHOkg63LRmU.jpg",
+    "release_date": "2025-08-14",
+    "title": "Homo Argentum",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/94KROr9xO9u5Tq5gTdCJlVRRfhm.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "id": 1242434,
+    "original_language": "en",
+    "original_title": "Highest 2 Lowest",
+    "overview": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
+    "popularity": 12.3558,
+    "poster_path": "/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg",
+    "release_date": "2025-08-14",
+    "title": "Highest 2 Lowest",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1ZFOIX6Tt4fRUDmoVD5sdSniTnJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1517042,
+    "original_language": "en",
+    "original_title": "Jim Jefferies: Two Limb Policy",
+    "overview": "Comedian Jim Jefferies unleashes his thoughts on tiny mustaches, straight-guy struggles and why acting doesn't count as a real job.",
+    "popularity": 7.7195,
+    "poster_path": "/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
+    "release_date": "2025-08-11",
+    "title": "Jim Jefferies: Two Limb Policy",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nrDyzITJljfb6As9qnLnH8rf4Is.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 942058,
+    "original_language": "hi",
+    "original_title": "तेहरान",
+    "overview": "On 13th February 2012, a magnetic bomb exploded, destroying an Israeli embassy vehicle in Delhi. ACP Rajeev Kumar, leading the investigation, suspects more than what meets the eye. Amid political pressure and suspicions of an Iranian connection, he embarks on a perilous journey to uncover the truth, facing formidable adversaries.",
+    "popularity": 9.8537,
+    "poster_path": "/gbz9Y1NwnlE2GxXmgWTKZC1fste.jpg",
+    "release_date": "2025-08-14",
+    "title": "Tehran",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aGQCxYwCY58yNb8S42BPrAvwvWl.jpg",
+    "genre_ids": [
+      35,
+      37
+    ],
+    "id": 1233066,
+    "original_language": "de",
+    "original_title": "Das Kanu des Manitu",
+    "overview": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life particularly difficult for them! They lure Abahachi and Ranger into a trap in order to get their hands on the legendary “Canoe of Manitou”.",
+    "popularity": 9.2577,
+    "poster_path": "/2qMYmKkc8fuJvo0cRQpF9x2M9Sp.jpg",
+    "release_date": "2025-08-14",
+    "title": "Das Kanu des Manitu",
+    "video": false,
+    "vote_average": 7.118,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1523662,
+    "original_language": "tl",
+    "original_title": "Victoria's Silver",
+    "overview": "Set in 1944, Victoria, who escapes captivity as a comfort woman, finds refuge, and love, with the man Selina left in the first movie.",
+    "popularity": 6.5069,
+    "poster_path": "/fGR13i2lRMMg7Nkv66rcQxF6nia.jpg",
+    "release_date": "2025-08-15",
+    "title": "Victoria's Silver",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7Nfrg3JD5GxynI5qmb5RJK3M6Vf.jpg",
+    "genre_ids": [],
+    "id": 1441782,
+    "original_language": "es",
+    "original_title": "Mirreyes contra Godínez: Las Vegas",
+    "overview": "Genaro and Mich travel to Las Vegas with their colleagues to save the shoe store with a crucial contract. Between parties and crazy situations, they must maintain a balance between work, friendship, and love to achieve their goal.",
+    "popularity": 5.8704,
+    "poster_path": "/pblXp7qiRivl0gYUeIsaus8IcJA.jpg",
+    "release_date": "2025-08-14",
+    "title": "Mirreyes contra Godínez: Las Vegas",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xtKJB5IvHiE2xLVGu6FhXp6VDAX.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1355139,
+    "original_language": "id",
+    "original_title": "La Tahzan: Cinta, Dosa, Luka...",
+    "overview": "Alina, who has a harmonious and loving family, never expected that the arrival of a new nanny in her home would become a significant threat. Now, Alina is faced with the choice to let go or fight to protect the unity of her family.",
+    "popularity": 6.9317,
+    "poster_path": "/y2IWi91VN8fS7kQffz1ifD2wTRr.jpg",
+    "release_date": "2025-08-14",
+    "title": "La Tahzan: Cinta, Dosa, Luka...",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9ia4fZm7rALY1rYORm9cbdO4zkH.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "id": 934456,
+    "original_language": "en",
+    "original_title": "Americana",
+    "overview": "When a rare Lakota Ghost Shirt falls into the black market in a small town in South Dakota, the lives of local outsiders and outcasts violently intertwine.",
+    "popularity": 5.9786,
+    "poster_path": "/jP5K3z0jFNngnA7siTk0vPLXhOV.jpg",
+    "release_date": "2025-08-15",
+    "title": "Americana",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 5
   }
 ]
