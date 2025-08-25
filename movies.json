@@ -125407,5 +125407,353 @@
     "video": false,
     "vote_average": 6.6,
     "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xk0ck8qmYmevisTmphWIDm1g43p.jpg",
+    "genre_ids": [
+      53,
+      28,
+      35
+    ],
+    "id": 1151334,
+    "original_language": "en",
+    "original_title": "Eenie Meanie",
+    "overview": "A former teenage getaway driver gets dragged back into her unsavory past when a former employer offers her a chance to save the life of her chronically unreliable ex-boyfriend.",
+    "popularity": 568.7198,
+    "poster_path": "/12Va3oO3oYUdOd75zM57Nx1976a.jpg",
+    "release_date": "2025-08-21",
+    "title": "Eenie Meanie",
+    "video": false,
+    "vote_average": 7.06,
+    "vote_count": 50
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kYsU56QEcwEr8jAQ6Vm3M8bXTWz.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      37
+    ],
+    "id": 1429739,
+    "original_language": "th",
+    "original_title": "เขาชุมทอง คะนองชุมโจร",
+    "overview": "At the tail end of World War II, a bandit leader and his crew go up against his sworn enemy and the Japanese army to rob a train full of gold.",
+    "popularity": 300.5263,
+    "poster_path": "/7j6jZNhCTnsZy5QItpruDwyBWoo.jpg",
+    "release_date": "2025-08-19",
+    "title": "Gold Rush Gang",
+    "video": false,
+    "vote_average": 6.167,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3Xo9YEIOsCePdIps1gMVwbo1ciM.jpg",
+    "genre_ids": [
+      10749,
+      53
+    ],
+    "id": 1300116,
+    "original_language": "de",
+    "original_title": "Fall for Me",
+    "overview": "Lilli is suspicious of her sister's new fiance, but when an attractive stranger enters her life, she's suddenly distracted by the thralls of desire.",
+    "popularity": 138.2222,
+    "poster_path": "/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg",
+    "release_date": "2025-08-20",
+    "title": "Fall for Me",
+    "video": false,
+    "vote_average": 6.154,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5QKddKk1qEe8CwWYpklmKq68uyo.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1312946,
+    "original_language": "en",
+    "original_title": "The Map That Leads to You",
+    "overview": "Heather is a young woman traveling Europe with friends before starting her perfectly planned life. A chance meeting with Jack sparks an unexpected romance that leads to deep emotional discovery. As secrets and life choices test their bond, her path changes forever.",
+    "popularity": 119.9064,
+    "poster_path": "/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg",
+    "release_date": "2025-08-19",
+    "title": "The Map That Leads to You",
+    "video": false,
+    "vote_average": 6.803,
+    "vote_count": 89
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j5FNYFaSXmD3T0WAYDAvguEPVOv.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1495723,
+    "original_language": "tr",
+    "original_title": "Metruk Adam",
+    "overview": "After serving time in prison for his brother's crime, a man warily reunites with family, finding hope and healing in a life-changing bond with his niece.",
+    "popularity": 77.6831,
+    "poster_path": "/9jrhldzLHXia0uieyqK8UJ8PNAG.jpg",
+    "release_date": "2025-08-22",
+    "title": "Abandoned Man",
+    "video": false,
+    "vote_average": 7.333,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/99yYnWssK8v67jbin9vosSysnhT.jpg",
+    "genre_ids": [
+      10749,
+      10402,
+      18
+    ],
+    "id": 1428210,
+    "original_language": "tl",
+    "original_title": "One Hit Wonder",
+    "overview": "When big dreams meet second chances, two dreamers Entoy and Lorina chase fame in the world of '90s OPM. Will they make it?",
+    "popularity": 24.8089,
+    "poster_path": "/kdHEtyOoB8cyFDwqFMMGK1q0RlM.jpg",
+    "release_date": "2025-08-21",
+    "title": "One Hit Wonder",
+    "video": false,
+    "vote_average": 6.667,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 1486045,
+    "original_language": "ru",
+    "original_title": "Дети-шпионы",
+    "overview": "A family of special agents is raising a son and two daughters, each of the teenagers has unique abilities. Mikhail is a computer genius, Vita knows hypnosis, Dana is a master of sports in martial arts. Together they created their own spy agency \"DaMiNik\". Their goal is to become super agents and find their mother, who was not found by the super agent \"Voice\" - their father.",
+    "popularity": 9.5964,
+    "poster_path": "/zhKBYx57Ctcn1MvRaBXSNdX4UUW.jpg",
+    "release_date": "2025-08-21",
+    "title": "Spy Kids",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      35
+    ],
+    "id": 1487712,
+    "original_language": "ru",
+    "original_title": "Ритмы мечты",
+    "overview": "Varya lost her hearing several years ago due to an accident. But, despite the tragedy, she continues to pursue her favorite hobby - dancing. Now her dream is to get to the most important dance competition in the country and, of course, win. Varya meets Nik, a famous dancer and blogger. A friendship develops between the guys, and they decide to compete at the competition together. But Nik's wealthy and influential mother does not accept her son's choice, which deprives the boys of important financial support. Varya and Nik will have to find adult solutions on their own to follow their dreams. Their \"team\" on this journey will be Varya's dad, Toshka, the girl's smart friend, and Pegasus, a charismatic street dancer. They are all united by faith in victory, hope that the impossible is possible and, of course, a love of dancing. It is she who pushes young dancers to answer the main question for them: \"Can I dance better than myself?\"",
+    "popularity": 9.2559,
+    "poster_path": "/1f20tgCRvZSBlNh0pldutVjTkMf.jpg",
+    "release_date": "2025-08-21",
+    "title": "Ритмы мечты",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8OXyRCU4PbHZkio7EPUyAU2Zcal.jpg",
+    "genre_ids": [
+      16,
+      35,
+      14,
+      12,
+      10751
+    ],
+    "id": 1515395,
+    "original_language": "en",
+    "original_title": "Lego Disney Princess: Villains Unite",
+    "overview": "After Ariel, Moana, Tiana, Rapunzel, and Snow White thwarted Gaston's plan to take over all of their kingdoms, he calls upon Ursula, Jafar, and the Evil Queen to help take the Princesses down once and for all. The Princesses learn about Gaston's scheme and recruit a few friends of their own with the help of Magic Mirror: Aurora, Belle, and Cinderella! Together, the Princesses team up for an ultimate showdown of good versus evil.",
+    "popularity": 11.3525,
+    "poster_path": "/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg",
+    "release_date": "2025-08-24",
+    "title": "Lego Disney Princess: Villains Unite",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "id": 1462893,
+    "original_language": "ru",
+    "original_title": "Семь дней Петра Семёныча",
+    "overview": "It is the story of seven days in the life of the 70-year-old Peter who learns that he has lung sarcoma and that there is a faint hope that in a week the diagnosis may be ruled out by a medical luminary from Moscow. Peter spends the seven days summing up the results of his life which he considers worthless, in which he could not start a family, earn money, save his reputation. But time and again the events in which he becomes involved and which are filled with smiles, sadness, human destinies, let the viewer realize that the protagonist’s life is far from worthless.",
+    "popularity": 9.0461,
+    "poster_path": "/k2D3KnBB2ps3MCxPZRnoSApgP6Z.jpg",
+    "release_date": "2025-08-21",
+    "title": "7 Days",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tm87rqU4zCiDIJKJDHmmhFSjXiX.jpg",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "id": 1468057,
+    "original_language": "zh",
+    "original_title": "角頭－鬥陣欸",
+    "overview": "",
+    "popularity": 11.618,
+    "poster_path": "/tc5z5OADIYlOZLn0xNNM32c0Cq5.jpg",
+    "release_date": "2025-08-21",
+    "title": "GATAO: Big Brothers",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hael3riLPXk9U6qGdhGkoRkdziH.jpg",
+    "genre_ids": [
+      28,
+      27,
+      10752
+    ],
+    "id": 1257009,
+    "original_language": "en",
+    "original_title": "Primitive War",
+    "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
+    "popularity": 14.3534,
+    "poster_path": "/egDAs0vh2SzTR07eUzdcC1XYkTS.jpg",
+    "release_date": "2025-08-21",
+    "title": "Primitive War",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      80
+    ],
+    "id": 1273687,
+    "original_language": "ru",
+    "original_title": "Геля",
+    "overview": "Sanya is a trucker who combines his main job with stealing cars. He and his wife Anya are expecting the birth of a child any day now. Suddenly, Sanya receives an urgent order: the hijacking of a \"Gelendwagen\" (or simply \"Gelya\"). And for the sake of a comfortable future for his family, he agrees, promising his wife to be in time for childbirth. But everything is not going according to plan, and the case turns into a conflict with a criminal gang of premium car thieves. Now Sanya faces a task of increased complexity: not only to deal with criminals, but also not to be late to the hospital.",
+    "popularity": 7.1728,
+    "poster_path": "/c1NuvmoILJijgZ3PpLLxI7GUQyB.jpg",
+    "release_date": "2025-08-21",
+    "title": "Геля",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      27
+    ],
+    "id": 1510253,
+    "original_language": "th",
+    "original_title": "โศกาภิวัฒน์",
+    "overview": "At a luxurious mansion hidden deep within the forest, completely cut off from the outside world, eight siblings are raised under ironclad rules enforced by cruel and inhuman punishments, imposed by their mother, Lady Sokaphiwat. Freedom is the one thing they long for with all their hearts—unaware that the path they choose will bring horrors far greater than the torment they wish to escape.",
+    "popularity": 7.0946,
+    "poster_path": "/kbeROxqN4ABSWmOJJCeVqWEBk6x.jpg",
+    "release_date": "2025-08-21",
+    "title": "Sokaphiwat",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o1jOMbNjDjkUZorJ8LxDjSJIrRg.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1513319,
+    "original_language": "en",
+    "original_title": "Hollywood Grit",
+    "overview": "When his daughter vanishes from a Hollywood jazz club, a detective must battle mobsters, starlets, and his own demons to unearth the sinister truth lurking behind LA's neon lights.",
+    "popularity": 7.8133,
+    "poster_path": "/gFNQoqUok0cYKqZTmK8kVk5ZVbB.jpg",
+    "release_date": "2025-08-22",
+    "title": "Hollywood Grit",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1526018,
+    "original_language": "ru",
+    "original_title": "Жизнь по вызову. Фильм",
+    "overview": "Aleksandr Shmidt is the grey cardinal of the escort services market. But big money is not enough for him anymore - he craves real power. Shmidt's ambitions attract dangerous people, and an international cartel begins to hunt him. Shmidt faces a threat of such a scale for the first time. Now, not only his business, but also his life is at stake.",
+    "popularity": 8.4556,
+    "poster_path": "/9m9sAtuSEJFODu1tcnUYmHrnU0T.jpg",
+    "release_date": "2025-08-23",
+    "title": "Жизнь по вызову. Фильм",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/px5UTxAMZBw76zauTLFjcj7WPtC.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 1521136,
+    "original_language": "zh",
+    "original_title": "再见，坏蛋",
+    "overview": "",
+    "popularity": 6.893,
+    "poster_path": "/cAqeajy87btK8fSSJcrC8HzruM9.jpg",
+    "release_date": "2025-08-22",
+    "title": "再见，坏蛋",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1486092,
+    "original_language": "ru",
+    "original_title": "Ганди молчал по субботам",
+    "overview": "The life of 16-year-old Mot is thrown into disarray when his father leaves the family. In protest, Mot brings home a homeless woman and declares that he will live with her.",
+    "popularity": 7.1785,
+    "poster_path": "/577egbNgglys4UR5Sofl6tqEsaK.jpg",
+    "release_date": "2025-08-20",
+    "title": "Gandhi Was Silent on Saturdays",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
