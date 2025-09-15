@@ -76484,5 +76484,234 @@
     "video": false,
     "vote_average": 7.5,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i8QHgJKnsd8csNBo8fH9wYW2Y9E.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1321439,
+    "original_language": "en",
+    "original_title": "The Wrong Paris",
+    "overview": "Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy bachelor.",
+    "popularity": 109.0683,
+    "poster_path": "/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
+    "release_date": "2025-09-11",
+    "title": "The Wrong Paris",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 44
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/28zX1DO1NJWeS1e573lSJQ9kiVh.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 604079,
+    "original_language": "en",
+    "original_title": "The Long Walk",
+    "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "popularity": 74.7146,
+    "poster_path": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+    "release_date": "2025-09-10",
+    "title": "The Long Walk",
+    "video": false,
+    "vote_average": 7.01,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oYPm2zk8fBxm3UBEiaWMzUGHeFW.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "id": 1428213,
+    "original_language": "tl",
+    "original_title": "Kontrabida Academy",
+    "overview": "When a mysterious TV transports her to a school for on-screen villains, a restaurant worker finds new purpose — and a way to get back at her enemies.",
+    "popularity": 53.099,
+    "poster_path": "/uiW2ff73RZzPABKtnjW5wmt43CU.jpg",
+    "release_date": "2025-09-10",
+    "title": "Kontrabida Academy",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jvzPTf0nhsqAXodYT6ILKb99IA2.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      36
+    ],
+    "id": 1289936,
+    "original_language": "en",
+    "original_title": "Downton Abbey: The Grand Finale",
+    "overview": "When Mary finds herself at the center of a public scandal and the family faces financial strife, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future.",
+    "popularity": 39.6728,
+    "poster_path": "/jqIoQwfFaBZDJUIvjFwJTWlmRfO.jpg",
+    "release_date": "2025-09-10",
+    "title": "Downton Abbey: The Grand Finale",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8b6xQFJtVPeS88SCR3FxNIlNylF.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35
+    ],
+    "id": 1301072,
+    "original_language": "fr",
+    "original_title": "McWalter",
+    "overview": "McWalter, a legendary American elite agent, is falsely accused of a series of attacks all around the globe. Determined to clear his name, he goes on the run to solve the mystery, thwart a earthwise conspiracy, and save the world…",
+    "popularity": 26.4913,
+    "poster_path": "/mCpkLB39ZOaQMWJcAuYYdhZYe8Y.jpg",
+    "release_date": "2025-09-12",
+    "title": "McWalter",
+    "video": false,
+    "vote_average": 5.306,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m1vFtcv5x9UrZ7zfRro0ZTnobjx.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 1222479,
+    "original_language": "te",
+    "original_title": "మిరాయి",
+    "overview": "Following the historic Kalinga battle, where King Ashoka of the Maurya dynasty emerged as the winner, he chose to walk the path of peace instead of continuing warfare. Yet, the kingdom appointed nine warriors to protect some ancient scriptures rumored to have the ability to make someone divine or godlike.",
+    "popularity": 10.169,
+    "poster_path": "/28mjgY8UHW96JtOmpgc9lZt5ZFq.jpg",
+    "release_date": "2025-09-12",
+    "title": "Mirai",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wzjBMsWSBfGQdgV92hNWsk28pm8.jpg",
+    "genre_ids": [
+      18,
+      53,
+      12
+    ],
+    "id": 1539455,
+    "original_language": "mr",
+    "original_title": "दशावतार",
+    "overview": "When evil rises, divinity manifests to defeat it. An aging Dashavatar folk theater performer faces life's storms, guided by the wisdom of this traditional Konkan art form blending myth, music, and dance.",
+    "popularity": 7.3112,
+    "poster_path": "/61Fas5XznRHRoQiyqkXZDL3EFLe.jpg",
+    "release_date": "2025-09-12",
+    "title": "Dashavatar",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10749
+    ],
+    "id": 1144443,
+    "original_language": "es",
+    "original_title": "Sigue mi voz",
+    "overview": "After a health crisis that has kept her at home for 76 days, Klara does nothing but listen to her favorite radio program, Sigue Mi Voz.",
+    "popularity": 7.0972,
+    "poster_path": "/urScu0YvoR6eB23Vm0UenC2plmw.jpg",
+    "release_date": "2025-09-12",
+    "title": "Sigue mi voz",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sBEM8U5l7jq0BH7XiC7Zzs4d8e2.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "id": 1238188,
+    "original_language": "es",
+    "original_title": "El cautivo",
+    "overview": "In 1575, the young soldier Miguel de Cervantes is captured on the high seas by Barbary pirates and taken to Algiers as a hostage. Aware that a cruel death awaits him if his family does not pay his ransom soon, he finds refuge in his passion for storytelling.",
+    "popularity": 7.3877,
+    "poster_path": "/aI9XOKEXN6J3uwZ84wwBaKzqcMw.jpg",
+    "release_date": "2025-09-12",
+    "title": "The Captive",
+    "video": false,
+    "vote_average": 7.333,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6g3VdZTNu7Fa7pCkageHKDgabes.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1535377,
+    "original_language": "en",
+    "original_title": "Jordan Jensen: Take Me With You",
+    "overview": "In her hilarious debut special, Jordan Jensen delivers unapologetic takes on failing at femininity, the paradox that is “self love” and the horrors of trying to find it.",
+    "popularity": 6.5863,
+    "poster_path": "/vQ8T0pK0vfjUe5jUiOj6uZHbypJ.jpg",
+    "release_date": "2025-09-09",
+    "title": "Jordan Jensen: Take Me With You",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/msAYqcw0BMAnKAlSMZDdH02nSQa.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1534660,
+    "original_language": "tl",
+    "original_title": "Barurot",
+    "overview": "Marco is a tricycle driver who is not only fast on the road, but also with women - having multiple partners at the same time. But when he meets the mysterious Lucy, will Marco finally tame his wild desires?",
+    "popularity": 5.0587,
+    "poster_path": "/rCwhCTq7ztgTKTP6u25eWfTvUBo.jpg",
+    "release_date": "2025-09-12",
+    "title": "Barurot",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zEuXnDVLny3CHdoSk3WpvCsRyZD.jpg",
+    "genre_ids": [
+      10402,
+      35
+    ],
+    "id": 975225,
+    "original_language": "en",
+    "original_title": "Spinal Tap II: The End Continues",
+    "overview": "The now estranged bandmates of Spinal Tap are forced to reunite for one final concert, hoping it will solidify their place in the pantheon of rock 'n' roll.",
+    "popularity": 5.8555,
+    "poster_path": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+    "release_date": "2025-09-12",
+    "title": "Spinal Tap II: The End Continues",
+    "video": false,
+    "vote_average": 7.167,
+    "vote_count": 6
   }
 ]
