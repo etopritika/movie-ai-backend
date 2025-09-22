@@ -76713,5 +76713,316 @@
     "video": false,
     "vote_average": 7.167,
     "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9KSboWOt09J72aMY4x8SS1IaOHK.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12
+    ],
+    "id": 987400,
+    "original_language": "es",
+    "original_title": "Batman Azteca: Choque de imperios",
+    "overview": "In the time of the Aztec empire, tragedy strikes Yohualli Coatl when his father is murdered by Spanish conquistadors. To warn King Moctezuma and his high priest, Yoka, of imminent danger, Yohualli escapes to Tenochtitlán. There, he trains in the temple of the bat god Tzinacan with his mentor, developing equipment and weaponry to confront the Spanish invasion and avenge his father’s death. Along the way, he encounters key figures like the fierce Jaguar Woman and the conquistador Hernán Cortés.",
+    "popularity": 352.4158,
+    "poster_path": "/s0Mlo5w4INp3bUdsJo3RaSSMXWz.jpg",
+    "release_date": "2025-09-18",
+    "title": "Aztec Batman: Clash of Empires",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9ibwr02TiPvxN1jqLufKXvFVD1Y.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      14
+    ],
+    "id": 1429747,
+    "original_language": "th",
+    "original_title": "ซ้ำวัน กับ Someone",
+    "overview": "Trapped in a time loop, a young woman must navigate the ruins of her once-perfect life to find the key to breaking free.",
+    "popularity": 47.7262,
+    "poster_path": "/u36O7Sdbo34PIj0uN6C2671eaMJ.jpg",
+    "release_date": "2025-09-18",
+    "title": "Same Day with Someone",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      18
+    ],
+    "id": 1241921,
+    "original_language": "en",
+    "original_title": "A Big Bold Beautiful Journey",
+    "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
+    "popularity": 43.6337,
+    "poster_path": "/dYm4Ah0UAgBHkYEPZIhuhkzl6ue.jpg",
+    "release_date": "2025-09-17",
+    "title": "A Big Bold Beautiful Journey",
+    "video": false,
+    "vote_average": 6.556,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14
+    ],
+    "id": 1218925,
+    "original_language": "ja",
+    "original_title": "チェンソーマン レゼ篇",
+    "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+    "popularity": 43.4934,
+    "poster_path": "/mxgDa8Tdkaa3YzuQY9wu4VTtky1.jpg",
+    "release_date": "2025-09-19",
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "video": false,
+    "vote_average": 9.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 986097,
+    "original_language": "en",
+    "original_title": "HIM",
+    "overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
+    "popularity": 37.9807,
+    "poster_path": "/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
+    "release_date": "2025-09-18",
+    "title": "HIM",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rFgdmHbxEocgmzExT3StrRuY4xb.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "id": 1509871,
+    "original_language": "de",
+    "original_title": "She Said Maybe",
+    "overview": "When German-raised Mavi learns she belongs to a superrich Turkish dynasty, new family expectations quickly turn her world and love life upside down.",
+    "popularity": 29.0765,
+    "poster_path": "/ujNDflVpoFsBqlbVt58pc7lT1WR.jpg",
+    "release_date": "2025-09-18",
+    "title": "She Said Maybe",
+    "video": false,
+    "vote_average": 6.188,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
+    "genre_ids": [
+      28,
+      10752,
+      53,
+      36
+    ],
+    "id": 1328803,
+    "original_language": "en",
+    "original_title": "Prisoner of War",
+    "overview": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
+    "popularity": 24.7374,
+    "poster_path": "/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
+    "release_date": "2025-09-19",
+    "title": "Prisoner of War",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1sU4w7DLJbcKdYjPrLB9jeiIkfz.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "id": 1321624,
+    "original_language": "zh",
+    "original_title": "731",
+    "overview": "Based on true events set during WWII in Northeast China, an ordinary man is thrust into a turbulent fate against the backdrop of the inhumane bacterial experiments conducted by the Japanese Imperial Army's notorious Unit 731.",
+    "popularity": 24.2888,
+    "poster_path": "/sZNQmsAjeY2EomhT2xxJeqKMl2w.jpg",
+    "release_date": "2025-09-18",
+    "title": "731",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x8nHl86s4lqsqBiyEXJfvCjpxu2.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1535385,
+    "original_language": "en",
+    "original_title": "Rebel Royals: An Unlikely Love Story",
+    "overview": "Go behind the scenes of Märtha Louise and Shaman Durek Verrett's relationship in the lead-up to their divisive wedding in Norway.",
+    "popularity": 16.7074,
+    "poster_path": "/7vIkk6WNThpI89dyJMZ8IFrIz7n.jpg",
+    "release_date": "2025-09-16",
+    "title": "Rebel Royals: An Unlikely Love Story",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fMQ2E7EIRUgUGYMM2jimxcgnU5V.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 982843,
+    "original_language": "ko",
+    "original_title": "대홍수",
+    "overview": "A disastrous great flood sweeps the planet. On what may be the last day on Earth, a desperate fight ensues to save a child from a flooding apartment.",
+    "popularity": 17.5103,
+    "poster_path": "/mq13ikKnV5OO70fDbfpiWLB2Z9N.jpg",
+    "release_date": "2025-09-18",
+    "title": "The Great Flood",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1091043,
+    "original_language": "ta",
+    "original_title": "தண்டகாரண்யம்",
+    "overview": "A young man’s struggles to secure a government job.",
+    "popularity": 9.7992,
+    "poster_path": "/enkPbejfPmM8o2bgbhnLSX4fCAV.jpg",
+    "release_date": "2025-09-19",
+    "title": "Thandakaaranyam",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zhBUH1R3QJS6MMIegaL71FW47Bt.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1315702,
+    "original_language": "fr",
+    "original_title": "Dalloway",
+    "overview": "In the near future, during a health crisis, novelist Clarissa Katsef visits the Ludovico Foundation housing complex in search of inspiration. With the help of her AI assistant Dalloway, she finds fresh inspiration as she immerses herself in her writing.",
+    "popularity": 10.0999,
+    "poster_path": "/4sARiOn6lm3no29dbyqRGbuDsMg.jpg",
+    "release_date": "2025-09-17",
+    "title": "Dalloway",
+    "video": false,
+    "vote_average": 7.286,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nsa8Qwneg6yzlcr8J6Bch1kbQQk.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18,
+      14
+    ],
+    "id": 1299039,
+    "original_language": "ta",
+    "original_title": "கிஸ்",
+    "overview": "A musician is gifted with the supernatural ability to see a couple's destiny whenever they kiss. But when he sees the grim fate of the woman he loves, he must use his powers to defy destiny itself.",
+    "popularity": 9.1409,
+    "poster_path": "/faJlVgHULbQTrDnXN1ac2jqIDGK.jpg",
+    "release_date": "2025-09-19",
+    "title": "Kiss",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sd7TDuXcOeMXvH7wXXacilARStk.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1236470,
+    "original_language": "en",
+    "original_title": "The Lost Bus",
+    "overview": "A determined father risks everything to rescue a dedicated teacher and her students from a raging wildfire.",
+    "popularity": 8.0614,
+    "poster_path": "/zpygCOYY1DPBkeUsrrznLRN5js5.jpg",
+    "release_date": "2025-09-19",
+    "title": "The Lost Bus",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fK86d5662xX7ohRCTrlaL1KP5GO.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 999075,
+    "original_language": "zh",
+    "original_title": "左撇子女孩",
+    "overview": "A single mother and her two daughters relocate to Taipei to open a night market stall, each navigating the challenges of adapting to their new environment while striving to maintain family unity.",
+    "popularity": 6.8089,
+    "poster_path": "/pXlEThtgrTVtQEw1HQ9Qp8I1A3e.jpg",
+    "release_date": "2025-09-17",
+    "title": "Left-Handed Girl",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/asjK0Ot5ocLt7ZErj9wwA17BPsr.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1499082,
+    "original_language": "hi",
+    "original_title": "निशानची",
+    "overview": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+    "popularity": 7.6599,
+    "poster_path": "/aDI8pTr7QDs1QnDKCKsAoEampZj.jpg",
+    "release_date": "2025-09-19",
+    "title": "Nishaanchi",
+    "video": false,
+    "vote_average": 8.333,
+    "vote_count": 3
   }
 ]
