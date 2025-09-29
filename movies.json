@@ -77024,5 +77024,274 @@
     "video": false,
     "vote_average": 8.333,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ckT96Sn8r1IDNyIBJ1mDZ1Jh2kR.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1267319,
+    "original_language": "ko",
+    "original_title": "사마귀",
+    "overview": "Mantis, an ace assassin, returns to the contract killer industry after a hiatus, encountering his trainee friend Jae-yi and a retired legendary killer Dok-go, who now runs the organization.",
+    "popularity": 475.7892,
+    "poster_path": "/xS9bbciDC5lHPgl79SrPyzxKAXL.jpg",
+    "release_date": "2025-09-26",
+    "title": "Mantis",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pRWmekqHIcYkd1ueCJWsAWdhQfI.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1054867,
+    "original_language": "en",
+    "original_title": "One Battle After Another",
+    "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+    "popularity": 192.0745,
+    "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+    "release_date": "2025-09-23",
+    "title": "One Battle After Another",
+    "video": false,
+    "vote_average": 7.617,
+    "vote_count": 283
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wR5MsNaTG6Il1ljnNORVaZj3Rli.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1319965,
+    "original_language": "en",
+    "original_title": "All of You",
+    "overview": "Laura and Simon have been best friends since college. Over the years, they've realized their bond is more than platonic. Can they—and should they—risk everything to explore a love that has existed all along?",
+    "popularity": 98.599,
+    "poster_path": "/U2KFjtXN9NL9eCENB28w42Jakp.jpg",
+    "release_date": "2025-09-26",
+    "title": "All of You",
+    "video": false,
+    "vote_average": 6.479,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1289888,
+    "original_language": "fr",
+    "original_title": "French Lover",
+    "overview": "When a jaded actor meets a down-on-her-luck waitress in Paris, their unexpected love story begins — but will it survive the glare of the spotlight?",
+    "popularity": 93.2878,
+    "poster_path": "/jekag0zxQ15kuMEQsc58r6UN3Ny.jpg",
+    "release_date": "2025-09-25",
+    "title": "French Lover",
+    "video": false,
+    "vote_average": 5.244,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m2e8GUES92IaXRCLxWElJnlZ34w.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      10402
+    ],
+    "id": 1371189,
+    "original_language": "en",
+    "original_title": "Ruth & Boaz",
+    "overview": "A talented singer leaves the Atlanta music scene and starts over in small-town Tennessee, where she finds love and new purpose but can't escape the past.",
+    "popularity": 59.6997,
+    "poster_path": "/mtMJEIHjeHcLtvP0tFPAptk1Var.jpg",
+    "release_date": "2025-09-25",
+    "title": "Ruth & Boaz",
+    "video": false,
+    "vote_average": 6.692,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bxiQAJszNse2QKNGNe1tOL8i6bP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1545953,
+    "original_language": "tl",
+    "original_title": "Mayumi",
+    "overview": "A young woman sparks her friend’s first taste of desire, setting him on a path of sexual awakening. But as emotions deepen, their connection leads to unexpected heartbreak and self-discovery.",
+    "popularity": 24.2518,
+    "poster_path": "/hFjKtAzRjFcBmudFXvTC27STVXI.jpg",
+    "release_date": "2025-09-26",
+    "title": "Mayumi",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sSaUmM4bnZJ7PW5dlyRi7iONB65.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1010756,
+    "original_language": "en",
+    "original_title": "The Strangers: Chapter 2",
+    "overview": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
+    "popularity": 21.7887,
+    "poster_path": "/r2E1RJf3Mz7tF4t4IyaouT1nFFq.jpg",
+    "release_date": "2025-09-25",
+    "title": "The Strangers: Chapter 2",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/97TuoGRgYEyaWcXwtbVBTsBiPlW.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1080365,
+    "original_language": "te",
+    "original_title": "దె కాల్ హిమ్ ఓజి",
+    "overview": "After vanishing from Mumbai's underworld for a decade, mob boss Ojas Gambheera resurfaces—feared, unstoppable, and with a single goal: to reclaim his empire and exact vengeance on the current tyrant, Omi Bhau. As loyalties fracture and alliances shift, OG reignites a brutal criminal war, confronting both external threats and haunting buried betrayals.",
+    "popularity": 19.2701,
+    "poster_path": "/oWOJ4VMyF92IEcTmrQO0xFDqeyk.jpg",
+    "release_date": "2025-09-24",
+    "title": "They Call Him OG",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8GP1eCp2C2izK9TMtIdYrr77ZaP.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 1086260,
+    "original_language": "en",
+    "original_title": "The Astronaut",
+    "overview": "After returning from her first space mission, astronaut Sam Walker is placed under NASA’s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth",
+    "popularity": 13.7486,
+    "poster_path": "/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
+    "release_date": "2025-09-26",
+    "title": "The Astronaut",
+    "video": false,
+    "vote_average": 5.25,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1Kc2o8wTcsFDAzk6lOnbpm2ZByK.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1235746,
+    "original_language": "en",
+    "original_title": "Dead of Winter",
+    "overview": "A widowed fisherwoman, travelling alone through snowbound northern Minnesota, interrupts the kidnapping of a teenage girl. Hours from the nearest town and with no phone service, she realizes that she is the young girl's only hope.",
+    "popularity": 10.9962,
+    "poster_path": "/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+    "release_date": "2025-09-23",
+    "title": "Dead of Winter",
+    "video": false,
+    "vote_average": 7.333,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s6aB9kjxNg0mu2361IkCUSpyHJV.jpg",
+    "genre_ids": [
+      80,
+      53,
+      35
+    ],
+    "id": 639988,
+    "original_language": "ko",
+    "original_title": "어쩔수가없다",
+    "overview": "After being laid off by his company, a man devises a unique plan to secure a new job: eliminate his competition.",
+    "popularity": 12.356,
+    "poster_path": "/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+    "release_date": "2025-09-24",
+    "title": "No Other Choice",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5ZpOAxkbYsNCACJDkRU44SFiJ0J.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1530875,
+    "original_language": "en",
+    "original_title": "All the Devils Are Here",
+    "overview": "After a heist, four criminals lay low in a remote safehouse, waiting for orders. As paranoia builds, one thing becomes clear — the real threat may not be outside, but among them.",
+    "popularity": 8.8868,
+    "poster_path": "/2Acrt6eCQjgP6Whc941F6q9IDk4.jpg",
+    "release_date": "2025-09-25",
+    "title": "All the Devils Are Here",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8luISMhhevU4ZzKbMAhlWO9GRTI.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1212271,
+    "original_language": "en",
+    "original_title": "Eleanor the Great",
+    "overview": "Follows a 90-year-old woman trying to rebuild her life after the death of her best friend. As a result, she moves back to New York City after living in Florida for decades.",
+    "popularity": 5.9008,
+    "poster_path": "/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",
+    "release_date": "2025-09-26",
+    "title": "Eleanor the Great",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rwr72iFVJbcxPkWN97tOPzGuOVa.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1219620,
+    "original_language": "en",
+    "original_title": "All That's Left of You",
+    "overview": "After a Palestinian teen confronts Israeli soldiers at a West Bank protest, his mother recounts the series of events that led him to that fateful moment, starting with his grandfather’s forced displacement.",
+    "popularity": 5.1737,
+    "poster_path": "/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
+    "release_date": "2025-09-25",
+    "title": "All That's Left of You",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 4
   }
 ]
