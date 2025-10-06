@@ -104183,5 +104183,215 @@
     "video": false,
     "vote_average": 6.9,
     "vote_count": 71
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
+    "genre_ids": [
+      80
+    ],
+    "id": 941109,
+    "original_language": "en",
+    "original_title": "Play Dirty",
+    "overview": "Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.",
+    "popularity": 473.6023,
+    "poster_path": "/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
+    "release_date": "2025-09-30",
+    "title": "Play Dirty",
+    "video": false,
+    "vote_average": 6.435,
+    "vote_count": 155
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/10JW1S2lo1sBEJfdW2VDZOekXYf.jpg",
+    "genre_ids": [
+      36,
+      10752,
+      53
+    ],
+    "id": 1159939,
+    "original_language": "en",
+    "original_title": "The Partisan",
+    "overview": "A Polish spy who works for the British during the Second World War. After a betrayal, she is compromised in Warsaw and finds herself in a murky world of treachery.",
+    "popularity": 30.4075,
+    "poster_path": "/5IGomFSGR5MPl24QYpx7AsTOFNg.jpg",
+    "release_date": "2025-10-03",
+    "title": "The Partisan",
+    "video": false,
+    "vote_average": 6.25,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jtlah7LCCo2ZBOxNCvjUfWXzazg.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "id": 1546933,
+    "original_language": "es",
+    "original_title": "Rockstar: DUKI desde el fin del mundo",
+    "overview": "Argentine trap star Duki gives an intimate look at his past and career, from early rap battles to his rise as a verified hitmaker in this documentary.",
+    "popularity": 21.3587,
+    "poster_path": "/9CSTzX1pUrNLD7lsJ8h9hRFJtLQ.jpg",
+    "release_date": "2025-10-01",
+    "title": "Rockstar: DUKI from the End of the World",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1hDUJFAYkLJUCoiXzDi2cLmFh4m.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1083637,
+    "original_language": "kn",
+    "original_title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+    "overview": "During the reign of Kadamba’s, the first dynasty of Karnataka, Bangra, a fictional feudatory ruled by King Vijayendra. Known to have pledged his loyalty to the Kadambas, he holds the command over their sea trade. King Vijayendra known for his valour is a feared leader who celebrated slavery and atheism.",
+    "popularity": 19.5562,
+    "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+    "release_date": "2025-10-01",
+    "title": "Kantara: Chapter 1",
+    "video": false,
+    "vote_average": 9.2,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7HegXCtNSuqSYgpuoR46gtQvw2V.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1422096,
+    "original_language": "en",
+    "original_title": "Good Boy",
+    "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+    "popularity": 15.5571,
+    "poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+    "release_date": "2025-10-01",
+    "title": "Good Boy",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Au7F7bUEH8NXrEBUSailuGFo8Ht.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1489665,
+    "original_language": "en",
+    "original_title": "Radiohead X Nosferatu: A Symphony of Horror",
+    "overview": "This special presentation of Nosferatu: A Symphony of Horror (1922) pairs the original silent film with Radiohead’s “KID A (2000) / Amnesiac (2001) as its score, courtesy of Silents Synced. Silents Synced pairs classic silent movies with epic rock music, partnering with independent cinemas to create memorable, new silent film experiences. \"Nosferatu x Radiohead: A Silents Synced Film\" is directed and remixed by Josh Frank.",
+    "popularity": 8.3784,
+    "poster_path": "/w981zbjFihnpLMWmWrE8kokJe4z.jpg",
+    "release_date": "2025-10-02",
+    "title": "Radiohead X Nosferatu: A Symphony of Horror",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dLmMfL3iVtCVcMODIydZBomzpc4.jpg",
+    "genre_ids": [
+      878,
+      53,
+      27
+    ],
+    "id": 1332316,
+    "original_language": "en",
+    "original_title": "Scurry",
+    "overview": "Two strangers find themselves trapped underground when the city is attacked by a monstrous threat. Badly injured with limited resources they must navigate a treacherous, narrowing tunnel in hopes of finding an exit.",
+    "popularity": 12.4413,
+    "poster_path": "/tu7M6zojJPtgPUXnTcN9eBoWxOh.jpg",
+    "release_date": "2025-10-03",
+    "title": "Scurry",
+    "video": false,
+    "vote_average": 9.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7Wozg3sJBa4BscLGh2OPWQnq73a.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      53
+    ],
+    "id": 1290159,
+    "original_language": "en",
+    "original_title": "A House of Dynamite",
+    "overview": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
+    "popularity": 7.2178,
+    "poster_path": "/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
+    "release_date": "2025-10-03",
+    "title": "A House of Dynamite",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/buB346BA3BlPd8rDlrXBeuNl1Gq.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 478798,
+    "original_language": "cn",
+    "original_title": "風林火山",
+    "overview": "A massive explosion and shootout in snowy Causeway Bay, Hong Kong, reveals a pharmaceutical heir's plot. His father's death in hospital triggers a drug war, destabilizing both legitimate and criminal worlds.",
+    "popularity": 7.8679,
+    "poster_path": "/fNaUvdCzyNeMZFQOnfCWvMoxEeG.jpg",
+    "release_date": "2025-10-01",
+    "title": "Sons of the Neon Night",
+    "video": false,
+    "vote_average": 6.25,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7BVyUTP33BTXWlulZWGiRWJILkp.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1364608,
+    "original_language": "en",
+    "original_title": "Anemone",
+    "overview": "Explore the complex and profound ties that exist between brothers, fathers, and sons.",
+    "popularity": 5.0681,
+    "poster_path": "/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg",
+    "release_date": "2025-10-02",
+    "title": "Anemone",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 937941,
+    "original_language": "en",
+    "original_title": "Shelby Oaks",
+    "overview": "A woman’s obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
+    "popularity": 5.33,
+    "poster_path": "/iSasCj14rvH4NzJfSRegPtbBLC6.jpg",
+    "release_date": "2025-10-02",
+    "title": "Shelby Oaks",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
