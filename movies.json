@@ -104393,5 +104393,232 @@
     "video": false,
     "vote_average": 10.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a9SLDj7GPKxeuOjoYkgr5nz1IOl.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      53
+    ],
+    "id": 1290879,
+    "original_language": "en",
+    "original_title": "The Woman in Cabin 10",
+    "overview": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.",
+    "popularity": 192.9181,
+    "poster_path": "/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
+    "release_date": "2025-10-09",
+    "title": "The Woman in Cabin 10",
+    "video": false,
+    "vote_average": 6.178,
+    "vote_count": 149
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 533533,
+    "original_language": "en",
+    "original_title": "TRON: Ares",
+    "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+    "popularity": 173.6886,
+    "poster_path": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+    "release_date": "2025-10-08",
+    "title": "TRON: Ares",
+    "video": false,
+    "vote_average": 6.645,
+    "vote_count": 155
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uxRCrEMJlfCILQhkcDuDpadkQC9.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1352755,
+    "original_language": "en",
+    "original_title": "Maintenance Required",
+    "overview": "Charlie, the fiercely independent owner of an all-female mechanic shop, is forced to reevaluate her future when a flashy corporate competitor moves in across the street. Seeking comfort, she turns to an anonymous online confidant - unaware she's confiding in Beau, the very rival threatening her business. As sparks fly both online and off, the truth threatens to blow everything apart.",
+    "popularity": 114.4685,
+    "poster_path": "/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",
+    "release_date": "2025-10-07",
+    "title": "Maintenance Required",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 43
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c2dPK558peXs9QzacwzHYQqqS2r.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1277988,
+    "original_language": "pt",
+    "original_title": "Caramelo",
+    "overview": "After a life-changing diagnosis, a promising chef finds hope and humor with the help of a fur-midable dog friend.",
+    "popularity": 112.972,
+    "poster_path": "/ur3H6g9xmrLQX2Ioh9z3P904ZSC.jpg",
+    "release_date": "2025-10-08",
+    "title": "Caramelo",
+    "video": false,
+    "vote_average": 6.884,
+    "vote_count": 43
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hItxQ4gE3Eu7vq4HKw78y9YG8AS.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1550785,
+    "original_language": "en",
+    "original_title": "My Father, the BTK Killer",
+    "overview": "Raised by a man leading a monstrous double life, the daughter of the BTK serial killer shares her chilling story.",
+    "popularity": 18.9421,
+    "poster_path": "/47EblKlcEQ4lHdTVnay4P1d6thf.jpg",
+    "release_date": "2025-10-09",
+    "title": "My Father, the BTK Killer",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6kfP6PIxUVqtkJeBxkFGQ8UHZLS.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "id": 1242419,
+    "original_language": "en",
+    "original_title": "Roofman",
+    "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+    "popularity": 16.1991,
+    "poster_path": "/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg",
+    "release_date": "2025-10-08",
+    "title": "Roofman",
+    "video": false,
+    "vote_average": 7.286,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i9WyAlafg4Pz2FUHfJHIzo32Qwi.jpg",
+    "genre_ids": [
+      10749,
+      53,
+      10402
+    ],
+    "id": 1214684,
+    "original_language": "en",
+    "original_title": "Kiss of the Spider Woman",
+    "overview": "Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna.",
+    "popularity": 11.4624,
+    "poster_path": "/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg",
+    "release_date": "2025-10-09",
+    "title": "Kiss of the Spider Woman",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vkph8NwoqmMIJHTQg0ciKJaeM5S.jpg",
+    "genre_ids": [],
+    "id": 1474303,
+    "original_language": "en",
+    "original_title": "WWE Crown Jewel 2025",
+    "overview": "The 2025 Crown Jewel, also promoted as Crown Jewel: Perth, was a professional wrestling event produced by the American company WWE. It was the seventh Crown Jewel and took place on Saturday, October 11, 2025, at the RAC Arena in Perth, Western Australia, Australia. The event featured the crowning of the second men's and women's Crown Jewel Champions and was the first Crown Jewel held outside of Saudi Arabia, as all previous editions took place in Riyadh. It also marked John Cena's last appearance in Australia as an in-ring performer before his retirement at the end of 2025, and was headlined by Seth Rollins vs. Cody Rhodes in a Champions vs. Champions match for the men's Crown Jewel Championship.",
+    "popularity": 15.1343,
+    "poster_path": "/iA2SexIKmmZGbQaZK10YIen3AKv.jpg",
+    "release_date": "2025-10-11",
+    "title": "WWE Crown Jewel 2025",
+    "video": false,
+    "vote_average": 5.944,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uCrJCdtUxOVnxQkxBiU0RUjFVS4.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1508191,
+    "original_language": "en",
+    "original_title": "Ozzy: No Escape from Now",
+    "overview": "Ozzy Osbourne faces his identity and mortality after his world stops. Dealing with health issues and Parkinson's, he questions if he can perform again while music remains his life's cornerstone.",
+    "popularity": 10.1844,
+    "poster_path": "/7xlmn0xpEYiqGN7bINAbEUjNqbr.jpg",
+    "release_date": "2025-10-07",
+    "title": "Ozzy: No Escape from Now",
+    "video": false,
+    "vote_average": 9.222,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hb85dF0aoy8RwBLBemwR2QlVm0L.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1265063,
+    "original_language": "en",
+    "original_title": "After the Hunt",
+    "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
+    "popularity": 8.7834,
+    "poster_path": "/mshLA4kWmtWUbORgfQS3gQeH3kt.jpg",
+    "release_date": "2025-10-09",
+    "title": "After the Hunt",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p8KQNGanRS72mdob0UIM6TH15Dm.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1511122,
+    "original_language": "en",
+    "original_title": "The Drowned",
+    "overview": "After pulling off an art heist, three men arrive at a secluded coastal safe house to discover their fourth accomplice missing. Was one of them responsible, or is there a malevolent ancient myth lurking at the water's edge?",
+    "popularity": 10.5305,
+    "poster_path": "/ly9zrCqb4tbICx6rMkgSoECO32e.jpg",
+    "release_date": "2025-10-07",
+    "title": "The Drowned",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9EHPSGvKMpAsAV3tXyeEP2k635U.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1540867,
+    "original_language": "en",
+    "original_title": "SAQUON",
+    "overview": "SAQUON began as a video diary documenting his ACL recovery five years ago. But the camera kept rolling after his return, revealing an intimate journey through his frustrations over the lack of control of his career, quiet family moments, and ultimately, his dominant year with the Eagles, culminating in a storybook Super Bowl win on his birthday. This is Saquon like you have never seen him before.",
+    "popularity": 5.8707,
+    "poster_path": "/dNSfQmps989E4n1W6BbqlIbQKqx.jpg",
+    "release_date": "2025-10-09",
+    "title": "SAQUON",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
   }
 ]
