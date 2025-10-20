@@ -104620,5 +104620,318 @@
     "video": false,
     "vote_average": 8.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1156594,
+    "original_language": "es",
+    "original_title": "Culpa nuestra",
+    "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
+    "popularity": 1160.9712,
+    "poster_path": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+    "release_date": "2025-10-15",
+    "title": "Our Fault",
+    "video": false,
+    "vote_average": 7.992,
+    "vote_count": 257
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2yo2k8CmgZxfBQYAZ8TnHIYzEme.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1072699,
+    "original_language": "pl",
+    "original_title": "Druga Furioza",
+    "overview": "In the wake of murder, new Furioza leader Golden claims the reins of his violent and formidable hooligan gang and takes on a new focus across borders.",
+    "popularity": 407.1937,
+    "poster_path": "/dbe1zKVKNBIczdmRcm7jxEphYLz.jpg",
+    "release_date": "2025-10-14",
+    "title": "Inside Furioza",
+    "video": false,
+    "vote_average": 6.333,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ax2qCKU6tUhdkStiCnrDdXKA5xC.jpg",
+    "genre_ids": [
+      28,
+      12
+    ],
+    "id": 1086910,
+    "original_language": "en",
+    "original_title": "The Lost Princess",
+    "overview": "After an Ayahuasca vision transports him to a haunted castle, Alec meets Hanna who tales him the story of her mother's forced marriage and how the forbidden passion with her father was in danger when the princess pregnancy became obvious",
+    "popularity": 193.8143,
+    "poster_path": "/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
+    "release_date": "2025-10-16",
+    "title": "The Lost Princess",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 27
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1251717,
+    "original_language": "en",
+    "original_title": "Vicious",
+    "overview": "When Polly receives a mysterious box, it comes with one rule: place inside something she needs, something she hates, and something she loves. If she doesn’t obey, it will consume everything—and everyone—she’s ever known.",
+    "popularity": 125.5103,
+    "poster_path": "/dYxrsyUEdFOOq7xzIuvEb1858Sg.jpg",
+    "release_date": "2025-10-18",
+    "title": "Vicious",
+    "video": false,
+    "vote_average": 6.159,
+    "vote_count": 69
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1197137,
+    "original_language": "en",
+    "original_title": "Black Phone 2",
+    "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+    "popularity": 154.1022,
+    "poster_path": "/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
+    "release_date": "2025-10-15",
+    "title": "Black Phone 2",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4KIg3yxQcWbuXJ5xgiTLGguCtC.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "id": 927254,
+    "original_language": "en",
+    "original_title": "The Twits",
+    "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+    "popularity": 161.1194,
+    "poster_path": "/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg",
+    "release_date": "2025-10-17",
+    "title": "The Twits",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zGRYT2j2uoCcBWICP4u1BakqGT3.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1502943,
+    "original_language": "en",
+    "original_title": "Night of the Reaper",
+    "overview": "College student Deena visits her home town and is roped into a babysitting gig. Meanwhile, the local sheriff, after receiving a piece of evidence in the mail, falls into an increasingly desperate scavenger hunt involving a series of murders.",
+    "popularity": 120.109,
+    "poster_path": "/HVR8cNWzBVoqbEIIqVtLpDvVKn.jpg",
+    "release_date": "2025-10-16",
+    "title": "Night of the Reaper",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/OCNoxTB6sqZXmiazkZYyUA6Iz7.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      14
+    ],
+    "id": 1550223,
+    "original_language": "tl",
+    "original_title": "The Time That Remains",
+    "overview": "Surrounded by a string of deaths, an older woman relives her romance with a mysterious, ageless lover as an inspector closes in on their dark secret.",
+    "popularity": 49.6076,
+    "poster_path": "/pjtrhgskggN2uD3lF2A9QxHO2Wd.jpg",
+    "release_date": "2025-10-15",
+    "title": "The Time That Remains",
+    "video": false,
+    "vote_average": 6.75,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bFzgPvBeARjperha0bYgyPrwXev.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1557977,
+    "original_language": "pt",
+    "original_title": "Maré Branca: A Surreal História de Rabo de Peixe",
+    "overview": "In June 2001, hundreds of kilos of cocaine washed up in a Portuguese village. This gripping documentary reveals the long-lasting impact on the community.",
+    "popularity": 24.477,
+    "poster_path": "/6sek3ZIcX9Q7CVXOv1QIYVd93qM.jpg",
+    "release_date": "2025-10-16",
+    "title": "Turn of the Tide: The Surreal Story of Rabo de Peixe",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sy7Y4jCDsGPCzoQIEmxqAgPjAgr.jpg",
+    "genre_ids": [
+      18,
+      27,
+      878
+    ],
+    "id": 1062722,
+    "original_language": "en",
+    "original_title": "Frankenstein",
+    "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "popularity": 18.8204,
+    "poster_path": "/5fqmZYw3o22VoJpXx9bjQuc7ZPV.jpg",
+    "release_date": "2025-10-17",
+    "title": "Frankenstein",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mqh9RCkvhNbLlgrZjaGvVyIioUf.jpg",
+    "genre_ids": [
+      35,
+      18,
+      14
+    ],
+    "id": 1114967,
+    "original_language": "en",
+    "original_title": "Good Fortune",
+    "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+    "popularity": 16.3532,
+    "poster_path": "/nVXpuJiCk4VJeN9SZSzDZteTrGI.jpg",
+    "release_date": "2025-10-14",
+    "title": "Good Fortune",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/unuOdm4s0mhn8z3AJU1skOf3HGC.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1559491,
+    "original_language": "pt",
+    "original_title": "Os Infiéis",
+    "overview": "Faith, love, and irony collide when a priest's sacred duty is to marry the only woman he ever loved - to someone else.",
+    "popularity": 10.9546,
+    "poster_path": "/bmr9giBLgWqDFZkhWg1Z2d2nu18.jpg",
+    "release_date": "2025-10-15",
+    "title": "You Gotta Have Faith",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kDRkOFPkjYjubhiIcvurBKuLSRI.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      10749
+    ],
+    "id": 1321108,
+    "original_language": "ta",
+    "original_title": "டியூட்",
+    "overview": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
+    "popularity": 9.4716,
+    "poster_path": "/bfsfrUzyIiGz3i4MMpcuvDGNEaZ.jpg",
+    "release_date": "2025-10-17",
+    "title": "Dude",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nHKOcY1VrVLA4bIt8phzTx28bt0.jpg",
+    "genre_ids": [
+      53,
+      878,
+      80,
+      28
+    ],
+    "id": 1266798,
+    "original_language": "fr",
+    "original_title": "Chien 51",
+    "overview": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA’s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve.",
+    "popularity": 10.1657,
+    "poster_path": "/zZJACnkGZfSfHGvRxWFZe1dDxWR.jpg",
+    "release_date": "2025-10-15",
+    "title": "Dog 51",
+    "video": false,
+    "vote_average": 6.846,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AarN9NHen3V3z2H4Naw5Izc11x.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1559596,
+    "original_language": "tl",
+    "original_title": "Patikim ni Robb Guinto",
+    "overview": "VMX hottie Christy Imperial gives fans a taste of VMX GL Crush Robb Guinto's spiciest and tastiest scenes.",
+    "popularity": 7.9537,
+    "poster_path": "/6Tn90cNMzXLOHcWRSb1anRLZ5Bp.jpg",
+    "release_date": "2025-10-14",
+    "title": "Patikim ni Robb Guinto",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6xEk8ZbqCgmicmeICyYGospXU7R.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1257957,
+    "original_language": "ta",
+    "original_title": "பைசன் காளமாடன்",
+    "overview": "A young man fights to overcome violence plaguing his village and succeed as a professional kabaddi player.",
+    "popularity": 5.8412,
+    "poster_path": "/5IPFJ2XFbYjdIw4912ZufCMolX.jpg",
+    "release_date": "2025-10-17",
+    "title": "Bison Kaalamaadan",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 2
   }
 ]
