@@ -104933,5 +104933,259 @@
     "video": false,
     "vote_average": 9.0,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1306525,
+    "original_language": "id",
+    "original_title": "Abadi Nan Jaya",
+    "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+    "popularity": 278.2483,
+    "poster_path": "/wvWRCDR0wScmrJVAh2iipBSxkZw.jpg",
+    "release_date": "2025-10-22",
+    "title": "The Elixir",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 59
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5mPpUkGYzjdZdTB1BE0rSQk0X2v.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "id": 1362315,
+    "original_language": "en",
+    "original_title": "The Hand That Rocks the Cradle",
+    "overview": "Suburban couple Caitlin and Miguel Morales hire seemingly sweet Polly to take care of their newborn baby. But Polly's true motives have little to do with singing lullabies — much to the horror of the couple.",
+    "popularity": 128.1542,
+    "poster_path": "/hH953zlL3xdEDpizAquISRrSm1P.jpg",
+    "release_date": "2025-10-21",
+    "title": "The Hand That Rocks the Cradle",
+    "video": false,
+    "vote_average": 5.727,
+    "vote_count": 33
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iTdqaxy2SrzuwJYd6oeEL72Uevb.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1327862,
+    "original_language": "en",
+    "original_title": "Regretting You",
+    "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
+    "popularity": 90.8704,
+    "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+    "release_date": "2025-10-22",
+    "title": "Regretting You",
+    "video": false,
+    "vote_average": 6.958,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gbAcTyVtPfzCBs58xs6NYKHiPCp.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 1549292,
+    "original_language": "en",
+    "original_title": "LEGO Frozen: Operation Puffins",
+    "overview": "After the events of Frozen, Anna and Elsa want to start fresh in Arendelle, and make the castle feel a bit more comfortable. While they struggle to break free of the bounds of tradition, the Duke of Weselton has other plans for their beloved home alongside a flock of menacing puffins.",
+    "popularity": 43.5105,
+    "poster_path": "/cmW3OY1W1wwjpYEWZu1jJlOcZ56.jpg",
+    "release_date": "2025-10-23",
+    "title": "LEGO Frozen: Operation Puffins",
+    "video": false,
+    "vote_average": 8.667,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e5bFtChejaGio218NejT0jXgSux.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "id": 1196364,
+    "original_language": "hi",
+    "original_title": "थामा",
+    "overview": "Two destined lovers battle supernatural forces, family ties, and nature itself to defend their forbidden romance in a mystical world where ancient powers and prophecies threaten to keep them apart.",
+    "popularity": 29.6611,
+    "poster_path": "/d1SbIg1r1eowrCWsxHO6BJqQQwN.jpg",
+    "release_date": "2025-10-21",
+    "title": "Thamma",
+    "video": false,
+    "vote_average": 6.583,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
+    "genre_ids": [
+      35,
+      878,
+      80
+    ],
+    "id": 701387,
+    "original_language": "en",
+    "original_title": "Bugonia",
+    "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+    "popularity": 25.8913,
+    "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+    "release_date": "2025-10-23",
+    "title": "Bugonia",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 57
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7OwZxXuLPtCFjdqJdiTuEE1DE4J.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "id": 1230368,
+    "original_language": "en",
+    "original_title": "Springsteen: Deliver Me from Nowhere",
+    "overview": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
+    "popularity": 21.4886,
+    "poster_path": "/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+    "release_date": "2025-10-22",
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "video": false,
+    "vote_average": 7.069,
+    "vote_count": 37
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/85YkXvZNisXwCPAXqd6cdOIPbSl.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      53
+    ],
+    "id": 1434543,
+    "original_language": "hi",
+    "original_title": "Ek Deewane Ki Deewaniyat",
+    "overview": "A musical love story with dark shades of love exploring obsession, heartbreak, and deep emotional conflict.",
+    "popularity": 10.6844,
+    "poster_path": "/y3TEsi9egFJxYgBYZKPJTCGLFu5.jpg",
+    "release_date": "2025-10-21",
+    "title": "Ek Deewane Ki Deewaniyat",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A2p2U0oBfmZ8zDwxjgDEDC9KfxH.jpg",
+    "genre_ids": [
+      12,
+      14,
+      35,
+      36
+    ],
+    "id": 1076897,
+    "original_language": "fr",
+    "original_title": "Kaamelott - Deuxième volet, partie 1",
+    "overview": "After reclaiming Kaamelott from Lancelot's tyrannical rule, Arthur spares his life, defying Celtic gods. Knights must prove themselves for Table Round seats while Arthur faces new threats as king.",
+    "popularity": 9.9976,
+    "poster_path": "/qozUrQZwmsTEFfLziB6r6Swxdb0.jpg",
+    "release_date": "2025-10-22",
+    "title": "Kaamelott: The Second Chapter (Part I)",
+    "video": false,
+    "vote_average": 6.96,
+    "vote_count": 25
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pZr3484MENVj3m7toTUk7Cw4bnW.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14,
+      27
+    ],
+    "id": 1119090,
+    "original_language": "es",
+    "original_title": "Soy Frankelda",
+    "overview": "Frankelda, a frustrated young Mexican writer from the 19th Century, travels in the form of a ghost to a kingdom of her own invention inhabited by Spooks, which are all the monstrous characters she created in her horror tales. Her guide is Herneval, the Prince of Spooks, who takes her to help him save the balance between the Realm of Fiction and the Realm of Existence by using her talent as a writer.",
+    "popularity": 9.0917,
+    "poster_path": "/hDzllxB1TQ7uUxVvjnGHirJJovt.jpg",
+    "release_date": "2025-10-23",
+    "title": "I Am Frankelda",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bPRZkbtPWxvYe2zTvMcsj80EYVS.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1397375,
+    "original_language": "it",
+    "original_title": "La vita va così",
+    "overview": "Chronicles the intertwined lives of characters set in the picturesque landscapes of Sardinia, Italy, exploring human connections, emotions, and personal journeys.",
+    "popularity": 6.9584,
+    "poster_path": "/oxBTTX3jorHnkWUL4uQV0H4LKIq.jpg",
+    "release_date": "2025-10-23",
+    "title": "Life Goes This Way",
+    "video": false,
+    "vote_average": 7.583,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/loh2zQrxrpGDs1IG74oGQR4dVal.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1558981,
+    "original_language": "tl",
+    "original_title": "The Delivery Rider",
+    "overview": "A delivery driver accidentally witnesses a crime on the job with his eight-year-old surrogate son. Now, he must protect the child from violent forces.",
+    "popularity": 7.0005,
+    "poster_path": "/vUoqhCHbxVjYS07t5YjcX4cIsqs.jpg",
+    "release_date": "2025-10-23",
+    "title": "The Delivery Rider",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hjPWg7trJPSZ4tUEZhqGxX1HxUS.jpg",
+    "genre_ids": [
+      12,
+      878
+    ],
+    "id": 1233506,
+    "original_language": "fr",
+    "original_title": "L'Homme qui rétrécit",
+    "overview": "Paul, is an ordinary man who divides his life between his shipbuilding company, his wife Elise and their daughter Mia. During a sea trip, Paul finds himself confronted with a strange, unexplained meteorological phenomenon. From then on, Paul shrinks inexorably, without science being able to explain why or be of any help to him. When, by accident, he finds himself a prisoner in his own cellar, and while he is only a few centimeters tall, he will have to fight to survive in this banal environment that has become perilous. During this experience, Paul will find himself confronted with himself, with his humanity, and will try to answer the great questions of existence.",
+    "popularity": 5.0399,
+    "poster_path": "/zacPQSD2mwS2H5CkjSwPFHuDuuH.jpg",
+    "release_date": "2025-10-22",
+    "title": "The Incredible Shrinking Man",
+    "video": false,
+    "vote_average": 6.722,
+    "vote_count": 9
   }
 ]
