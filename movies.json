@@ -123678,5 +123678,122 @@
     "video": false,
     "vote_average": 6.003,
     "vote_count": 1326
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jwkI6wQhBN5xCRoG85T6SKceB8B.jpg",
+    "genre_ids": [
+      12,
+      16,
+      28,
+      10770,
+      35
+    ],
+    "id": 1147411,
+    "original_language": "fr",
+    "original_title": "Miraculous World : Tokyo, Stellar Force",
+    "overview": "Kagami drags Marinette to Tokyo to help the Stellars defeat a new supervillain, but Marinette soon realizes her friend has another, untold reason for this trip to Japan.",
+    "popularity": 13.1329,
+    "poster_path": "/sTE5CHNuagaYXNiLeuivch9RBmp.jpg",
+    "release_date": "2025-11-01",
+    "title": "Miraculous World: Tokyo, Stellar Force",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j8WzzoAJn5LrKpgFTe1gaQVTj8z.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1511417,
+    "original_language": "te",
+    "original_title": "బాహుబలి: ది ఎపిక్",
+    "overview": "When a mysterious child is found by a tribal couple near a roaring waterfall, they raise him as their own. As he grows, Sivudu is drawn to the world beyond the cliffs, where he discovers the ancient kingdom of Mahishmati, ruled by a cruel tyrant, haunted by rebellion, and bound to his past. What begins as a quest for love soon unravels a legacy of betrayal, sacrifice, and a forgotten prince.",
+    "popularity": 9.7513,
+    "poster_path": "/cKL08wD07yPPlJovALFnEhhqJdl.jpg",
+    "release_date": "2025-10-29",
+    "title": "Bāhubali: The Epic",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6qF087d61IjlVrbOuAQ9lPtKgW5.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1522923,
+    "original_language": "en",
+    "original_title": "Safe House",
+    "overview": "Six federal agents in hiding after LA terror attack grow suspicious of each other as they realize the perpetrator could be among them.",
+    "popularity": 12.4379,
+    "poster_path": "/xom1cuyIpN41E2rOhrqWWQTNPxZ.jpg",
+    "release_date": "2025-10-30",
+    "title": "Safe House",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/reXyqPdO2hMJwRzwD2NvQ4HdoWE.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1396869,
+    "original_language": "ml",
+    "original_title": "ഡീയസ് ഈറെ",
+    "overview": "Rohan's affluent lifestyle spirals out of control as he becomes convinced there is a supernatural entity in his home. As he starts to uncover the mystery, he is drawn into unexpected worlds and alliances, along with the horrors that lie ahead.",
+    "popularity": 8.203,
+    "poster_path": "/123DlTiiezgLaJruVe7RiSi0RFf.jpg",
+    "release_date": "2025-10-30",
+    "title": "Diés Iraé",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aWNN92ddMINSUO3r9BZZzciwqj8.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1352510,
+    "original_language": "ms",
+    "original_title": "Malam Terlarang",
+    "overview": "In 1987, a grieving 18-year-old girl begins to suspect that her family is haunted by a sinister entity following her sister's death. As she investigates the eerie disturbances, she uncovers horrifying truths about her family's past.",
+    "popularity": 5.8728,
+    "poster_path": "/6XwS7cLLHnwvoN4xxQ97BQA8BCx.jpg",
+    "release_date": "2025-10-27",
+    "title": "Malam Terlarang",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/t9jGgUvyqs727IBoHrLuqr26l1M.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 1358491,
+    "original_language": "fr",
+    "original_title": "Yoroï",
+    "overview": "After a gruelling final tour, Aurélien decides to settle in Japan with his wife Nanako, who is pregnant with their first child. As the young couple move into a traditional house in the Japanese countryside, Aurélien discovers an ancient suit of armour in a well, which is about to awaken strange creatures known as Yokaïs.",
+    "popularity": 5.1277,
+    "poster_path": "/u8O4dCSfDWRWYiD4VCXc7B9A3EU.jpg",
+    "release_date": "2025-10-29",
+    "title": "Yoroï",
+    "video": false,
+    "vote_average": 7.269,
+    "vote_count": 13
   }
 ]
