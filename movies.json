@@ -124294,5 +124294,253 @@
     "video": false,
     "vote_average": 7.0,
     "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      12
+    ],
+    "id": 967941,
+    "original_language": "en",
+    "original_title": "Wicked: For Good",
+    "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+    "popularity": 224.8457,
+    "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+    "release_date": "2025-11-19",
+    "title": "Wicked: For Good",
+    "video": false,
+    "vote_average": 6.744,
+    "vote_count": 197
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4FzoxZAJnhpoeYHexQCHorsWLxB.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1323475,
+    "original_language": "en",
+    "original_title": "Champagne Problems",
+    "overview": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
+    "popularity": 59.4948,
+    "poster_path": "/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
+    "release_date": "2025-11-18",
+    "title": "Champagne Problems",
+    "video": false,
+    "vote_average": 6.167,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3NNoi1GC26017b40g38QBQDZCe5.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      10402
+    ],
+    "id": 1237082,
+    "original_language": "es",
+    "original_title": "31 Minutos: Calurosa Navidad",
+    "overview": "Puppeton, the town of 31 Minutes, faces such an infernally hot Christmas that Santa Claus cancels his visit! Bodoque the rabbit heroically volunteers to rescue the presents from the North Pole, while his friends improvise a disastrous Christmas show. But what they don't expect is Bodoque giving in to some irresistible temptations along the way.",
+    "popularity": 36.4724,
+    "poster_path": "/dv9UrOoicRiMGkzr2oj2YwSFY2K.jpg",
+    "release_date": "2025-11-19",
+    "title": "31 Minutes: One Hot Christmas",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6PDjJkzRA1gNkUqpM9Su17N4B8y.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1363282,
+    "original_language": "en",
+    "original_title": "The Carman Family Deaths",
+    "overview": "A young man's dramatic rescue at sea spirals into accusations he murdered two members of his wealthy New England family.",
+    "popularity": 20.1829,
+    "poster_path": "/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg",
+    "release_date": "2025-11-18",
+    "title": "The Carman Family Deaths",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gFl2G8beHDD5jjKmEFwmzygrUFS.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 1208348,
+    "original_language": "en",
+    "original_title": "Rental Family",
+    "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese \"rental family\" agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+    "popularity": 20.7566,
+    "poster_path": "/1eo018cuyn0EDbR4C7yx74YEr8k.jpg",
+    "release_date": "2025-11-20",
+    "title": "Rental Family",
+    "video": false,
+    "vote_average": 7.25,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6CdrnONBaZsmoEMTn0A4S2Nj4t5.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1422166,
+    "original_language": "en",
+    "original_title": "The Age of Disclosure",
+    "overview": "Director Dan Farah got 34 senior members of the U.S. Government, military, and intelligence community to come on camera. He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war amongst major nations to reverse engineer technology of non-human origin. The film explores the profound impact the situation has on the future of humanity, while providing a look behind-the-scenes with those at the forefront of the bi-partisan disclosure effort.",
+    "popularity": 16.7856,
+    "poster_path": "/rVTGlKuJUeqgmznxhlpKDKClili.jpg",
+    "release_date": "2025-11-21",
+    "title": "The Age of Disclosure",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1294698,
+    "original_language": "fr",
+    "original_title": "Dossier 137",
+    "overview": "Stéphanie, a police officer working for Internal Affairs, is assigned to a case involving a young man severely wounded during a tense and chaotic demonstration in Paris. While she finds no evidence of illegitimate police violence, the case takes a personal turn when she discovers the victim is from her hometown.",
+    "popularity": 11.7043,
+    "poster_path": "/t93h1ptV098Q6vzl9gfEymJQ6Qp.jpg",
+    "release_date": "2025-11-19",
+    "title": "Case 137",
+    "video": false,
+    "vote_average": 6.654,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4UmO2mWij1dvLa3p0lwavsYMEuj.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "id": 1559572,
+    "original_language": "en",
+    "original_title": "ONE SHOT with Ed Sheeran",
+    "overview": "One singer. One city. One shot. Ed Sheeran rocks the streets of New York with his greatest hits in this groundbreaking, real-time music experience.",
+    "popularity": 11.8818,
+    "poster_path": "/iSYHqrzvIuDm2HQ3ozM2vLugpRk.jpg",
+    "release_date": "2025-11-20",
+    "title": "ONE SHOT with Ed Sheeran",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xiy1gzKfpA0CIlynMnrK1DTVFNz.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1476460,
+    "original_language": "it",
+    "original_title": "40 secondi",
+    "overview": "It explores the tragic events leading up to the murder of 21-year-old Willy Monteiro Duarte, highlighting the intertwining of chance encounters, rivalries, and latent tensions.",
+    "popularity": 7.5174,
+    "poster_path": "/es3ZKbvQ8133lGQDiSMravDWW6k.jpg",
+    "release_date": "2025-11-19",
+    "title": "40 secondi",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hueKlPQoDeJ4hXlyDYD9fRktCzy.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "id": 1162337,
+    "original_language": "en",
+    "original_title": "Blue Eyed Girl",
+    "overview": "Fortysomething Jane Messina is forced to re-evaluate her life after returning home to visit her two sisters and her sick father, making her wonder what could have been with her first love.",
+    "popularity": 7.2742,
+    "poster_path": "/vEJIQvqWEcDjJkQPaIDKnDPrZ5P.jpg",
+    "release_date": "2025-11-21",
+    "title": "Blue Eyed Girl",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wogrbLEhBJ56HNHutvvoGkqgBZA.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "id": 1580253,
+    "original_language": "en",
+    "original_title": "Hazbin Hotel: Live on Broadway",
+    "overview": "Hosted by series lead Erika Henningsen, at New York’s historic Majestic Theater, this concert event features performances of the show's hit songs from Seasons One and Two by Erika Henningsen, Blake Roman, Amir Talai, Christian Borle, Jessica Vosk, Jeremy Jordan, and Krystina Alabado, with special appearances by Stephanie Beatriz, Kimiko Glenn, Vivienne Medrano, Sam Haft, and Richard Horvitz.",
+    "popularity": 6.6317,
+    "poster_path": "/5GkJfdtw1aNh67Iunv8F6B3MR6K.jpg",
+    "release_date": "2025-11-17",
+    "title": "Hazbin Hotel: Live on Broadway",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2aJUafB1gX3i33cQOdwSmj5vpo.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1550706,
+    "original_language": "it",
+    "original_title": "La camera di consiglio",
+    "overview": "It's 1987, the final act of the Maxi Trial in Palermo, the largest criminal trial in Italian history. On this occasion, eight jurors, four women and four men, are locked in a deliberation chamber for thirty-six days. Their task is to determine the convictions or acquittals of 470 defendants accused of mafia crimes.",
+    "popularity": 5.6831,
+    "poster_path": "/jfLMtHALrmLpNzurZ2yvcq01ltW.jpg",
+    "release_date": "2025-11-20",
+    "title": "La camera di consiglio",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9IAJbkT8dGfE32xzPlRs4iIczLB.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "id": 1420270,
+    "original_language": "id",
+    "original_title": "Keadilan",
+    "overview": "Raka, a court security officer, and his pregnant wife, Nina, celebrate her success in passing the bar exam. But their joyous celebration is shattered when Nina is found brutally murdered. As the trial spirals towards an unjust outcome, Raka resolves to overturn the corrupt verdict and seek justice for his late wife.",
+    "popularity": 5.328,
+    "poster_path": "/l2d2mFW6tFwdqtoI4iEOjT5ffAz.jpg",
+    "release_date": "2025-11-20",
+    "title": "The Verdict",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 5
   }
 ]
