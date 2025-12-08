@@ -111308,5 +111308,235 @@
     "video": false,
     "vote_average": 5.2,
     "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7cQjb8cRbRjF5tM5gOCnqsvC0iT.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1561955,
+    "original_language": "ta",
+    "original_title": "ஸ்டீபன்",
+    "overview": "A psychiatrist evaluating a self-confessed serial killer unravels a twisted web of trauma, deceit, and psychological manipulation—only to question if the killer is truly guilty or just another victim in a larger, darker game.",
+    "popularity": 114.7928,
+    "poster_path": "/yUURUJzeSTc47T2VeNw7nZwZ8VJ.jpg",
+    "release_date": "2025-12-05",
+    "title": "Stephen",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yORrxgxIxsvBqFnpCPJ1j6MHX89.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 1441563,
+    "original_language": "en",
+    "original_title": "My Secret Santa",
+    "overview": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
+    "popularity": 61.3568,
+    "poster_path": "/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+    "release_date": "2025-12-02",
+    "title": "My Secret Santa",
+    "video": false,
+    "vote_average": 6.578,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      16
+    ],
+    "id": 1566269,
+    "original_language": "en",
+    "original_title": "The First Snow of Fraggle Rock",
+    "overview": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+    "popularity": 49.8881,
+    "poster_path": "/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+    "release_date": "2025-12-04",
+    "title": "The First Snow of Fraggle Rock",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yRYgvo2crAeHzqKwXMVtEaDx7Qq.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1291608,
+    "original_language": "hi",
+    "original_title": "धुरंधर",
+    "overview": "After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal devised an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi. A 20-year-old boy from Punjab, held captive for a revenge crime, is identified by Sanyal to execute his elaborate plan.",
+    "popularity": 42.4622,
+    "poster_path": "/qdtm0wQmLmAYmj2QZI9EDInZ6uG.jpg",
+    "release_date": "2025-12-05",
+    "title": "Dhurandhar",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v8tpkxm7AhLu69eaZKJLsNaSL5.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 1392796,
+    "original_language": "en",
+    "original_title": "Diary of a Wimpy Kid: The Last Straw",
+    "overview": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious near disasters, Greg's dad presents him with an ultimatum that just might challenge his wimpy ways for good.",
+    "popularity": 42.6428,
+    "poster_path": "/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
+    "release_date": "2025-12-04",
+    "title": "Diary of a Wimpy Kid: The Last Straw",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 1196207,
+    "original_language": "es",
+    "original_title": "La Navidad en sus manos 2",
+    "overview": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to save Christmas.",
+    "popularity": 38.491,
+    "poster_path": "/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
+    "release_date": "2025-12-05",
+    "title": "The Night My Dad Saved Christmas 2",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w9Z8FEwmyh9TSgn3YWfJ9DVcKou.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 1572017,
+    "original_language": "en",
+    "original_title": "Love and Wine",
+    "overview": "A privileged young man working at his wealthy father's business traps himself in a lie when he falls in love with a hard-working medical student, and tries to convince her that he comes from more humble beginnings like hers. What follows is a comedic whirlwind of chaos and heartfelt revelations.",
+    "popularity": 19.8739,
+    "poster_path": "/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg",
+    "release_date": "2025-12-05",
+    "title": "Love and Wine",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jNWTzvdYpvWBr7Ita4YRPtAeMT0.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "id": 1387382,
+    "original_language": "en",
+    "original_title": "Hunting Season",
+    "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
+    "popularity": 10.2718,
+    "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+    "release_date": "2025-12-05",
+    "title": "Hunting Season",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1175174,
+    "original_language": "en",
+    "original_title": "Fackham Hall",
+    "overview": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
+    "popularity": 9.4938,
+    "poster_path": "/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+    "release_date": "2025-12-01",
+    "title": "Fackham Hall",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9KZ0c6sPo8ssTvco409XR8PtYgm.jpg",
+    "genre_ids": [
+      28,
+      16,
+      14
+    ],
+    "id": 1588237,
+    "original_language": "en",
+    "original_title": "The Lost Chapter: Yuki's Revenge",
+    "overview": "Visionary director Quentin Tarantino had a dream of a Kill Bill chapter that never made it to the silver screen, a chapter known as “Yuki’s Revenge.” Over twenty years later, Tarantino and Epic have come together to bring the story to life in Fortnite.",
+    "popularity": 7.5931,
+    "poster_path": "/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
+    "release_date": "2025-12-05",
+    "title": "The Lost Chapter: Yuki's Revenge",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/t5hj8vAyAh1mxAMoPhcTyTfphMb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1576166,
+    "original_language": "tl",
+    "original_title": "Sana Sinabi Mo",
+    "overview": "When a young missionary uncovers his late father's long-held secret, he travels from the Philippines to Spain in search of his dad's forbidden love.",
+    "popularity": 8.7869,
+    "poster_path": "/AgcxVitzCNFA9DSGaw2oR8O0TVC.jpg",
+    "release_date": "2025-12-04",
+    "title": "I Wish You Had Told Me",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hfWv453ceXlQP3cCH8Z0LMYjx0A.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 1465986,
+    "original_language": "en",
+    "original_title": "Man Finds Tape",
+    "overview": "Pulled in by a series of strange and unexplainable video clips, a brother and sister team up to investigate the events captured in the footage, only to discover a shocking secret that’s overtaking their small-town Texas community.",
+    "popularity": 6.6919,
+    "poster_path": "/nWUcPpuSkSkBZoHUXlwX86bCIVc.jpg",
+    "release_date": "2025-12-05",
+    "title": "Man Finds Tape",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 6
   }
 ]
