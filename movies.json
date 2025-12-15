@@ -111538,5 +111538,138 @@
     "video": false,
     "vote_average": 6.2,
     "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1379963,
+    "original_language": "es",
+    "original_title": "Dímelo bajito",
+    "overview": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami's world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?",
+    "popularity": 120.1437,
+    "poster_path": "/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+    "release_date": "2025-12-11",
+    "title": "Tell Me Softly",
+    "video": false,
+    "vote_average": 6.38,
+    "vote_count": 25
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5OA1FwA11SztGEEqqBihStLmMH2.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 1255775,
+    "original_language": "en",
+    "original_title": "Merv",
+    "overview": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
+    "popularity": 63.3397,
+    "poster_path": "/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
+    "release_date": "2025-12-09",
+    "title": "Merv",
+    "video": false,
+    "vote_average": 5.86,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w4aTYTHpm97iTN1UGIC9kFZIuc7.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "id": 1562010,
+    "original_language": "en",
+    "original_title": "Taylor Swift | The Eras Tour | The Final Show",
+    "overview": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set.",
+    "popularity": 24.5605,
+    "poster_path": "/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+    "release_date": "2025-12-11",
+    "title": "Taylor Swift | The Eras Tour | The Final Show",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qG2uiyOgXkqWhAG7EpfNgwaYTJ3.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 801937,
+    "original_language": "en",
+    "original_title": "Silent Night, Deadly Night",
+    "overview": "After witnessing his parents’ brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
+    "popularity": 15.8029,
+    "poster_path": "/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+    "release_date": "2025-12-11",
+    "title": "Silent Night, Deadly Night",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nKwZoaflB5VQNn0StOBAHDxU8YR.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1206008,
+    "original_language": "en",
+    "original_title": "Ella McCay",
+    "overview": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
+    "popularity": 11.6041,
+    "poster_path": "/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+    "release_date": "2025-12-11",
+    "title": "Ella McCay",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zgKNlcPC3pfTikPOMQC1saywQ85.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1505013,
+    "original_language": "en",
+    "original_title": "Masaka Kids, A Rhythm Within",
+    "overview": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
+    "popularity": 7.323,
+    "poster_path": "/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
+    "release_date": "2025-12-08",
+    "title": "Masaka Kids, A Rhythm Within",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bM9G0UGcOnO4p9JgCvvhmkiFonh.jpg",
+    "genre_ids": [
+      28,
+      14,
+      27,
+      53
+    ],
+    "id": 1043197,
+    "original_language": "en",
+    "original_title": "Dust Bunny",
+    "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster she believes ate her entire family. To protect her, he'll need to battle an onslaught of assassins while accepting the fact that some monsters are real.",
+    "popularity": 8.4297,
+    "poster_path": "/jMcT1Quf34qZWNNE1rAqep8f9DW.jpg",
+    "release_date": "2025-12-11",
+    "title": "Dust Bunny",
+    "video": false,
+    "vote_average": 7.75,
+    "vote_count": 4
   }
 ]
