@@ -111671,5 +111671,201 @@
     "video": false,
     "vote_average": 7.75,
     "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+    "genre_ids": [
+      878,
+      12,
+      14
+    ],
+    "id": 83533,
+    "original_language": "en",
+    "original_title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "popularity": 499.2281,
+    "poster_path": "/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
+    "release_date": "2025-12-17",
+    "title": "Avatar: Fire and Ash",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 394
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "id": 1589891,
+    "original_language": "es",
+    "original_title": "La hora de los valientes",
+    "overview": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances.",
+    "popularity": 139.4606,
+    "poster_path": "/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+    "release_date": "2025-12-18",
+    "title": "A Time for Bravery",
+    "video": false,
+    "vote_average": 6.577,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ae0p8SqtMNNxbmbUHyCaE20D2aQ.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "id": 1368166,
+    "original_language": "en",
+    "original_title": "The Housemaid",
+    "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+    "popularity": 59.3662,
+    "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+    "release_date": "2025-12-18",
+    "title": "The Housemaid",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hsuT5b5EcDAVCY3Oe0Iyez2lTES.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1400032,
+    "original_language": "ja",
+    "original_title": "10DANCE",
+    "overview": "Two dancers, opposites in all but their art, agree to train together for a competition. At first, they clash, but soon become drawn to each other.",
+    "popularity": 53.8285,
+    "poster_path": "/sLNy9Npu1YoK1ednpXUlUt9vCBj.jpg",
+    "release_date": "2025-12-17",
+    "title": "10DANCE",
+    "video": false,
+    "vote_average": 6.615,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jzMhC6NB4KHqfSAgbW2BFslLuSh.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "id": 991494,
+    "original_language": "en",
+    "original_title": "The SpongeBob Movie: Search for SquarePants",
+    "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+    "popularity": 47.7454,
+    "poster_path": "/n92wqmgHhMU0Mzc49AzRUhyhQ65.jpg",
+    "release_date": "2025-12-16",
+    "title": "The SpongeBob Movie: Search for SquarePants",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tql3kTLmF2FFeSVIlafFJiZfcfk.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      80,
+      18
+    ],
+    "id": 1415974,
+    "original_language": "hi",
+    "original_title": "रात अकेली है - द बंसल मर्डर्स",
+    "overview": "When members of the Bansal family are found murdered, Inspector Jatil Yadav uncovers a trail of greed, betrayal and secrets tied to a deadly conspiracy.",
+    "popularity": 36.2004,
+    "poster_path": "/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",
+    "release_date": "2025-12-18",
+    "title": "Raat Akeli Hai - The Bansal Murders",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3pJx6MzdvdWQACLTYQtDW3IgzV0.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1588846,
+    "original_language": "tl",
+    "original_title": "Ekis",
+    "overview": "Erik Matti’s classic Ekis gets a bold reboot with an all-girls ensemble led by Angela Morena, Cheena Dizon, and Aliya Raymundo. A crew of female thugs launches a kidnap-for-ransom plot, but when things go wrong, escaping the chaos becomes impossible.",
+    "popularity": 24.6517,
+    "poster_path": "/vuUvGqqGabV422qzjGWPlhRuvN0.jpg",
+    "release_date": "2025-12-19",
+    "title": "Ekis",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jBOhqsbzEL7Ks3NWy98iI7YDzBh.jpg",
+    "genre_ids": [
+      53,
+      18,
+      35
+    ],
+    "id": 1317288,
+    "original_language": "en",
+    "original_title": "Marty Supreme",
+    "overview": "In 1950s New York City, Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+    "popularity": 21.6266,
+    "poster_path": "/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+    "release_date": "2025-12-19",
+    "title": "Marty Supreme",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mjYBT4p1IvcNrfyvDPFNkOCKSmm.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1584619,
+    "original_language": "en",
+    "original_title": "Murder in Monaco",
+    "overview": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra.",
+    "popularity": 12.9405,
+    "poster_path": "/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
+    "release_date": "2025-12-17",
+    "title": "Murder in Monaco",
+    "video": false,
+    "vote_average": 6.643,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lHSLTzz1rW3XcfJYTyCSdaPmosr.jpg",
+    "genre_ids": [
+      99,
+      36,
+      18
+    ],
+    "id": 1584125,
+    "original_language": "en",
+    "original_title": "Breakdown: 1975",
+    "overview": "In 1975, as America faced social and political upheaval, filmmakers turned chaos into art.",
+    "popularity": 6.7832,
+    "poster_path": "/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
+    "release_date": "2025-12-18",
+    "title": "Breakdown: 1975",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 3
   }
 ]
