@@ -111867,5 +111867,139 @@
     "video": false,
     "vote_average": 5.0,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
+    "genre_ids": [
+      12,
+      35,
+      27
+    ],
+    "id": 1234731,
+    "original_language": "en",
+    "original_title": "Anaconda",
+    "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "popularity": 106.8839,
+    "poster_path": "/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+    "release_date": "2025-12-24",
+    "title": "Anaconda",
+    "video": false,
+    "vote_average": 6.602,
+    "vote_count": 54
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a6QAauAiQd1ddFi4MzlbEv3Cha9.jpg",
+    "genre_ids": [
+      18,
+      10402,
+      10749
+    ],
+    "id": 1371185,
+    "original_language": "en",
+    "original_title": "Song Sung Blue",
+    "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+    "popularity": 29.4166,
+    "poster_path": "/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+    "release_date": "2025-12-25",
+    "title": "Song Sung Blue",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/t5rM9EEjJlLuq5mcn80cDHH1XeC.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      12
+    ],
+    "id": 1472638,
+    "original_language": "it",
+    "original_title": "Buen Camino",
+    "overview": "Checco's life is a comfortable and luxurious one, and it couldn't be otherwise, considering he's the only son of Eugenio Zalone, a wealthy sofa manufacturer. Stranded by the pool in his luxurious villas, with an unspecified number of Filipinos serving him, a very young Mexican model as a girlfriend, and vacationing on his yacht with friends who share his passion for not wanting to work; it seems like a truly enviable life, considering he lacks nothing, absolutely nothing. Actually, no. Something is missing. It's his underage daughter, Cristal, named after the famous French sparkling wine, who has suddenly disappeared without a trace. Urgently summoned to Rome by his ex-wife, Linda, he finds himself facing the responsibilities of fatherhood for the first time, trying to find the girl—a very complicated task, considering he knows absolutely nothing about Cristal and her life.",
+    "popularity": 26.9489,
+    "poster_path": "/5sHyD2AEaaX9tzRkBdWM5G9NeJ8.jpg",
+    "release_date": "2025-12-25",
+    "title": "Buen Camino",
+    "video": false,
+    "vote_average": 6.883,
+    "vote_count": 77
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rf77DGsOpm0Xi5h3nTAtwjmZYjp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1588965,
+    "original_language": "en",
+    "original_title": "Tom Segura: Teacher",
+    "overview": "Parenting fails. Blackout bar stories. Career regrets. Tom Segura explores the darkly funny side of life's most unpredictable lessons.",
+    "popularity": 10.9355,
+    "poster_path": "/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+    "release_date": "2025-12-24",
+    "title": "Tom Segura: Teacher",
+    "video": false,
+    "vote_average": 5.75,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pJptfzINz4foLJoUGlhPD2MwAmT.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "id": 1401281,
+    "original_language": "en",
+    "original_title": "The Testament of Ann Lee",
+    "overview": "The extraordinary true legend of Ann Lee, founder of the devotional sect known as the Shakers.",
+    "popularity": 5.6409,
+    "poster_path": "/1wleWp6BCniE9RSeaUjUezwZdF8.jpg",
+    "release_date": "2025-12-25",
+    "title": "The Testament of Ann Lee",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i6Mr1mfK9akrWD9UUB2cvVeFMzG.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1355140,
+    "original_language": "id",
+    "original_title": "Janur Ireng: Sewu Dino the Prequel",
+    "overview": "Sabdo and Intan lived happily despite their material poverty, but tragedy struck when their parents’ house was completely burned down. In their confusion over where to live, they were approached by Arjo Kuncoro, a man who claimed to be their uncle— a wealthy merchant who had everything. They were taken to the Kuncoro family home, but it turned out that Arjo had a sinister plan to exploit them both.",
+    "popularity": 6.0854,
+    "poster_path": "/1vw3ISK968CLRcqDSYd9iVMOMxZ.jpg",
+    "release_date": "2025-12-24",
+    "title": "Janur Ireng",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 645105,
+    "original_language": "cn",
+    "original_title": "再見UFO",
+    "overview": "Wah Fu Estate in Aberdeen is the home of many urban legends, but few were as outlandish as the one that happened in the 1980s: One night, residents turned their heads to the sky and saw a giant UFO hovering above them for five minutes. No one else could prove or explain the odd phenomenon, but it becomes the pivotal event for three young people in this long-awaited return to form for director Patrick Leung (La Brassiere, Simply Actors). This charming sci-fi comedy also marks the reunion of Tsui Tien-you, Wong Younam and Charlene Choi, who co-starred in 2002 teen comedy hit Summer Breeze of Love.",
+    "popularity": 5.1282,
+    "poster_path": "/qIrbprGedVYaL9lXvcsFzVgq31U.jpg",
+    "release_date": "2025-12-25",
+    "title": "Ciao UFO",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
   }
 ]
