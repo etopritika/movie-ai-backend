@@ -95773,5 +95773,141 @@
     "video": false,
     "vote_average": 7.5,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qth56RA3rkUlhbDRDKGeMJEssdi.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "id": 1034716,
+    "original_language": "en",
+    "original_title": "People We Meet on Vacation",
+    "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
+    "popularity": 137.421,
+    "poster_path": "/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+    "release_date": "2026-01-06",
+    "title": "People We Meet on Vacation",
+    "video": false,
+    "vote_average": 7.208,
+    "vote_count": 120
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gtKWn9l32PolrFwCuZQsujEAEoc.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53,
+      878
+    ],
+    "id": 840464,
+    "original_language": "en",
+    "original_title": "Greenland 2: Migration",
+    "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+    "popularity": 59.7975,
+    "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+    "release_date": "2026-01-07",
+    "title": "Greenland 2: Migration",
+    "video": false,
+    "vote_average": 6.828,
+    "vote_count": 29
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+    "genre_ids": [
+      35,
+      27,
+      14
+    ],
+    "id": 1022453,
+    "original_language": "te",
+    "original_title": "ది రాజాసాబ్",
+    "overview": "A young heir embraces both his royal heritage and rebellious spirit as he rises to power, establishing unprecedented rules during his reign as Raja Saab.",
+    "popularity": 44.9243,
+    "poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+    "release_date": "2026-01-08",
+    "title": "The Rajasaab",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b2qSURjTrHTJRKYEJ0gIKOACZdC.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1599078,
+    "original_language": "en",
+    "original_title": "Marcello Hernández: American Boy",
+    "overview": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
+    "popularity": 16.7135,
+    "poster_path": "/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+    "release_date": "2026-01-07",
+    "title": "Marcello Hernández: American Boy",
+    "video": false,
+    "vote_average": 5.75,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yMgpIzfqHZXbEN8ar9EAHJvdYJj.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10749
+    ],
+    "id": 965483,
+    "original_language": "ta",
+    "original_title": "பராசக்தி",
+    "overview": "1965, Tamil Nadu: Chezhiyan becomes entangled in an agitation that threatens the very livelihood of the people of the Madras State. His attempts to protect his passionate student brother put him into a life and death struggle with an intelligence agent whose fanaticism is only met by his ruthlessness.",
+    "popularity": 8.9386,
+    "poster_path": "/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg",
+    "release_date": "2026-01-09",
+    "title": "Parasakthi",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cGfQSdC2OoovVcCW1tchZCWxYIA.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1610413,
+    "original_language": "en",
+    "original_title": "One Last Adventure: The Making of Stranger Things 5",
+    "overview": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
+    "popularity": 7.1756,
+    "poster_path": "/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+    "release_date": "2026-01-11",
+    "title": "One Last Adventure: The Making of Stranger Things 5",
+    "video": false,
+    "vote_average": 9.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rBCadB5fDbMiGynNWyvGTOPsTIC.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1193128,
+    "original_language": "ar",
+    "original_title": "قضية الغرباء",
+    "overview": "A Syrian doctor and her daughter flee Aleppo, setting off a chain of events that binds five strangers together. A smuggler, a soldier, a poet, and a coast guard captain collide in a crisis that tests their courage, their choices, and their humanity.",
+    "popularity": 7.3817,
+    "poster_path": "/4PsyWVELCnBHkocrj3rMeJcYQ7F.jpg",
+    "release_date": "2026-01-09",
+    "title": "I Was a Stranger",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
   }
 ]
