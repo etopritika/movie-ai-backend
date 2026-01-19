@@ -95909,5 +95909,222 @@
     "video": false,
     "vote_average": 8.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80,
+      18,
+      9648
+    ],
+    "id": 1306368,
+    "original_language": "en",
+    "original_title": "The Rip",
+    "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+    "popularity": 577.3256,
+    "poster_path": "/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+    "release_date": "2026-01-13",
+    "title": "The Rip",
+    "video": false,
+    "vote_average": 7.193,
+    "vote_count": 345
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "id": 1272837,
+    "original_language": "en",
+    "original_title": "28 Years Later: The Bone Temple",
+    "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+    "popularity": 113.7752,
+    "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+    "release_date": "2026-01-14",
+    "title": "28 Years Later: The Bone Temple",
+    "video": false,
+    "vote_average": 6.976,
+    "vote_count": 126
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+    "genre_ids": [
+      28
+    ],
+    "id": 1584215,
+    "original_language": "en",
+    "original_title": "The Internship",
+    "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
+    "popularity": 36.5777,
+    "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+    "release_date": "2026-01-13",
+    "title": "The Internship",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gsLYR8uALrt2p33iOpqReNW6XyQ.jpg",
+    "genre_ids": [
+      35,
+      28,
+      10749
+    ],
+    "id": 1282440,
+    "original_language": "hi",
+    "original_title": "हैप्पी पटेल: खतरानक जासूस",
+    "overview": "Happy Patel, a chronically unsuccessful MI7 operative, is finally assigned a mission in Goa, where he uncovers his Indian roots and must rescue a high-profile scientist from crime lord Mama. Unaware of his Indian heritage and armed with a comically British accent, Happy’s blunders trigger a string of chaotic mishaps that could lead him to expose a criminal network.",
+    "popularity": 86.4385,
+    "poster_path": "/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg",
+    "release_date": "2026-01-16",
+    "title": "Happy Patel: Khatarnak Jasoos",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+    "genre_ids": [
+      53,
+      27,
+      28,
+      9648,
+      878
+    ],
+    "id": 1412598,
+    "original_language": "en",
+    "original_title": "Killer Whale",
+    "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
+    "popularity": 29.5884,
+    "poster_path": "/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
+    "release_date": "2026-01-16",
+    "title": "Killer Whale",
+    "video": false,
+    "vote_average": 6.024,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iKFZFt8Z3RIwQHrIkmzULdKlYIi.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1611487,
+    "original_language": "en",
+    "original_title": "Kill Tony: Once Upon a Time in Texas",
+    "overview": "One minute. One mic. No mercy. Tony Hinchcliffe and a panel of famous guests put up-and-coming comedians to the test at a relentless Austin showcase.",
+    "popularity": 8.5566,
+    "poster_path": "/kepiMVDrjSvNM9afWewWxlWXXK6.jpg",
+    "release_date": "2026-01-12",
+    "title": "Kill Tony: Once Upon a Time in Texas",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sqmkeZ3bdfIrnYV6azaNdIyTS9w.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1407432,
+    "original_language": "te",
+    "original_title": "అనగనగా ఒక రాజు",
+    "overview": "A lazy, entitled brat who wants to lead an easy life is in for a rude shock that changes the course of his life.",
+    "popularity": 8.3288,
+    "poster_path": "/iCzGY1JD4DXqAjDKhsesKzs9vdK.jpg",
+    "release_date": "2026-01-14",
+    "title": "Anaganaga Oka Raju",
+    "video": false,
+    "vote_average": 7.75,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nUMDDTiywGAj0BJQynbyNJpE2Dw.jpg",
+    "genre_ids": [
+      9648
+    ],
+    "id": 1425567,
+    "original_language": "en",
+    "original_title": "A Murder Between Friends",
+    "overview": "A legendary TV star solves a murder mystery at her country estate.",
+    "popularity": 5.3548,
+    "poster_path": "/8HTRoofEnSQQG5iMnc1KeZYpkIe.jpg",
+    "release_date": "2026-01-13",
+    "title": "A Murder Between Friends",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Ae1C7ipxPeXUNvjXJHkP34NhlGh.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      28
+    ],
+    "id": 1112564,
+    "original_language": "ta",
+    "original_title": "வா வாத்தியார்",
+    "overview": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
+    "popularity": 6.2477,
+    "poster_path": "/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg",
+    "release_date": "2026-01-14",
+    "title": "Vaa Vaathiyaar",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
+    "genre_ids": [
+      36,
+      18,
+      80
+    ],
+    "id": 1376415,
+    "original_language": "fr",
+    "original_title": "L’affaire Bojarski",
+    "overview": "In post-war France, Jan Bojarski, a young Polish refugee, became the greatest counterfeiter of all time, the \"Cézanne of counterfeit money\". For more than fifteen years, this man led a double life, unbeknownst to his family, making counterfeits in a garden shed that were \"truer\" than the bills issued by the Banque de France... All these years, this peerless counterfeiter managed to avoid being caught by the police, and became the bête noire of Commissaire Mattei in a hunt that, for these two obsessives, turned into a duel.",
+    "popularity": 5.2393,
+    "poster_path": "/4PcYBJbvPNpsIE6SMTMVUAfSyBp.jpg",
+    "release_date": "2026-01-14",
+    "title": "The Money Maker",
+    "video": false,
+    "vote_average": 6.813,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5Q2CWHZTk48lb8QOMninYmzUfvc.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "id": 1497348,
+    "original_language": "id",
+    "original_title": "Alas Roban",
+    "overview": "The lives of Sita and her daughter, Gendis, change after a terrifying night. Their journey through Alas Roban is filled with fear and relentless terror. Can they uncover what's happening there?",
+    "popularity": 9.6071,
+    "poster_path": "/84Az3SHKRJDg971KQ0j9nZWYTcf.jpg",
+    "release_date": "2026-01-15",
+    "title": "Alas Roban",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
   }
 ]
