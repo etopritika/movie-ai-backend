@@ -96126,5 +96126,180 @@
     "video": false,
     "vote_average": 6.0,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "id": 1443762,
+    "original_language": "it",
+    "original_title": "Il falsario",
+    "overview": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere — from art galleries to state secrets. Between art, crime, and power, his signature ends up everywhere — even in the history of Italy.",
+    "popularity": 91.6692,
+    "poster_path": "/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
+    "release_date": "2026-01-22",
+    "title": "The Big Fake",
+    "video": false,
+    "vote_average": 6.381,
+    "vote_count": 42
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53
+    ],
+    "id": 1236153,
+    "original_language": "en",
+    "original_title": "Mercy",
+    "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+    "popularity": 75.088,
+    "poster_path": "/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+    "release_date": "2026-01-19",
+    "title": "Mercy",
+    "video": false,
+    "vote_average": 6.778,
+    "vote_count": 54
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lqQfj9sOZ9fT3waHvUUtmbnJjwT.jpg",
+    "genre_ids": [
+      16,
+      10402,
+      14,
+      878
+    ],
+    "id": 1575337,
+    "original_language": "ja",
+    "original_title": "超かぐや姫！",
+    "overview": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+    "popularity": 58.5997,
+    "poster_path": "/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+    "release_date": "2026-01-22",
+    "title": "Cosmic Princess Kaguya!",
+    "video": false,
+    "vote_average": 8.636,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 680493,
+    "original_language": "en",
+    "original_title": "Return to Silent Hill",
+    "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+    "popularity": 58.8495,
+    "poster_path": "/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+    "release_date": "2026-01-21",
+    "title": "Return to Silent Hill",
+    "video": false,
+    "vote_average": 5.155,
+    "vote_count": 42
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nPuXMmWmHJySh0cyOs0MjEQA67w.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10752
+    ],
+    "id": 1213898,
+    "original_language": "hi",
+    "original_title": "बॉर्डर २",
+    "overview": "During the events of the 1971 Indo-Pak war, a new generation of young Indian warriors were getting ready to defend the nation from an even bigger threat to the Indian motherland.",
+    "popularity": 28.8458,
+    "poster_path": "/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg",
+    "release_date": "2026-01-23",
+    "title": "Border 2",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n2WschLfgBrF2Dj0SkdCL94q2jC.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1595481,
+    "original_language": "en",
+    "original_title": "Kidnapped: Elizabeth Smart",
+    "overview": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+    "popularity": 18.4793,
+    "poster_path": "/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
+    "release_date": "2026-01-20",
+    "title": "Kidnapped: Elizabeth Smart",
+    "video": false,
+    "vote_average": 7.091,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/493MuzSs6iLyKM7aqsA30eODfsV.jpg",
+    "genre_ids": [
+      27,
+      53,
+      35
+    ],
+    "id": 1198994,
+    "original_language": "en",
+    "original_title": "Send Help",
+    "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+    "popularity": 23.4632,
+    "poster_path": "/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
+    "release_date": "2026-01-22",
+    "title": "Send Help",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vgLSR0QX39nLEbqgGlqVDIRx2JF.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1538718,
+    "original_language": "en",
+    "original_title": "Disneyland Handcrafted",
+    "overview": "Oscar and Emmy nominated filmmaker Leslie Iwerks returns with an all-new Disney documentary giving viewers an up-close look at the dedication, effort, and passion that was required to realize a dream that would go on to inspire millions around the world.",
+    "popularity": 16.2955,
+    "poster_path": "/81szv19zvs5fGqXtWau6tXzfC4T.jpg",
+    "release_date": "2026-01-22",
+    "title": "Disneyland Handcrafted",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qNzaUytqmf5YmOmbM5nTskA69oS.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1370424,
+    "original_language": "en",
+    "original_title": "He's Watching You",
+    "overview": "The film transports us to the sleepy town of Page Hollow, where a string of gruesome murders shatters the quiet community. Shortly after the first killings, outcast high school photographer Cameron discovers a collection of mysterious VHS tapes that may contain cryptic clues to the murders. His discovery launches him into a harrowing race against time, down a path of terrifying revelations - where the killer may be closer than he ever imagined.",
+    "popularity": 9.4974,
+    "poster_path": "/lGrxMTGzoO120uuHuYxwbv5Ypcw.jpg",
+    "release_date": "2026-01-23",
+    "title": "He's Watching You",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 5
   }
 ]
