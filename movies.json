@@ -74713,5 +74713,79 @@
     "video": false,
     "vote_average": 7.012,
     "vote_count": 129
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zoFh14ok1KZpB29M0nOGGNX5nW8.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1622706,
+    "original_language": "en",
+    "original_title": "Royal Rumble 2026",
+    "overview": "The Road to WrestleMania begins at Royal Rumble, and the top Superstars in WWE are set to compete for a championship bout at WrestleMania. The matches will begin with two superstars in the ring. At equally timed intervals, a new superstar enters the fray. Elimination only occurs when a superstar has gone over the top rope and both feet have touched the floor. This continues until there is just one superstar left standing as the winner of the Royal Rumble Match. Also, AJ Styles will put his incredible career on the line against Gunther and Drew McIntyre will defend his WWE championship against Sami Zayn.",
+    "popularity": 11.2047,
+    "poster_path": "/f9NOLejYqlbiAUFs6gvEads79OK.jpg",
+    "release_date": "2026-01-31",
+    "title": "Royal Rumble 2026",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      35
+    ],
+    "id": 1370123,
+    "original_language": "es",
+    "original_title": "Aída y vuelta",
+    "overview": "'Aída y vuelta' deals with the filming of an episode of the series with storylines that take place both within the fiction with the characters of 'Aída' and outside of it with the actors themselves and their relationships, which reflects on topics such as the limits of comedy, the work of a comedian and fame.",
+    "popularity": 12.1119,
+    "poster_path": "/3k4FKVgaxUZo1CITvj2nFDyNNKy.jpg",
+    "release_date": "2026-01-30",
+    "title": "Aída y vuelta",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1623111,
+    "original_language": "en",
+    "original_title": "Mouth of the Wolf: Amanda Knox Returns to Italy",
+    "overview": "Amanda Knox returns to Italy to confront Giuliano Mignini, the prosecutor who locked her up for a murder she did not commit",
+    "popularity": 6.9551,
+    "poster_path": "/uwEkGeaxdhDxFurYayzs10bxONH.jpg",
+    "release_date": "2026-01-26",
+    "title": "Mouth of the Wolf: Amanda Knox Returns to Italy",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/atF22WebvvvMaED3Imuj5QsPaFy.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 1585580,
+    "original_language": "en",
+    "original_title": "A Super Progressive Movie",
+    "overview": "When their rainbow malfunctions, four progressives journey beyond the insulated “Naarm Bubble” into a real world led by Prime Minister Pauline Hanson, searching for their ideology’s most powerful weapon: the Victimhood.",
+    "popularity": 6.3346,
+    "poster_path": "/iHqvrXObO2RD27qdY2FrdZdlIGs.jpg",
+    "release_date": "2026-01-26",
+    "title": "A Super Progressive Movie",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 3
   }
 ]
