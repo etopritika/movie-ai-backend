@@ -74787,5 +74787,199 @@
     "video": false,
     "vote_average": 8.0,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/knn3OIa9T4yeLjkmeQgJ8JLwdG0.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10402,
+      10770
+    ],
+    "id": 1548113,
+    "original_language": "en",
+    "original_title": "The Muppet Show",
+    "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+    "popularity": 77.8463,
+    "poster_path": "/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+    "release_date": "2026-02-03",
+    "title": "The Muppet Show",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 46
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dFdFQaffaBNBNM5hzinc6Q0oWDZ.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1433842,
+    "original_language": "en",
+    "original_title": "Relationship Goals",
+    "overview": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
+    "popularity": 57.7629,
+    "poster_path": "/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+    "release_date": "2026-02-04",
+    "title": "Relationship Goals",
+    "video": false,
+    "vote_average": 5.548,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1618945,
+    "original_language": "en",
+    "original_title": "Yoh! Bestie",
+    "overview": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fiancée in tow, she's forced to face a new emotion — jealousy.",
+    "popularity": 44.4177,
+    "poster_path": "/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+    "release_date": "2026-02-06",
+    "title": "Yoh! Bestie",
+    "video": false,
+    "vote_average": 5.923,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1010755,
+    "original_language": "en",
+    "original_title": "The Strangers: Chapter 3",
+    "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+    "popularity": 28.3732,
+    "poster_path": "/yPegTig8dQNYiW2UW21LTNChGkK.jpg",
+    "release_date": "2026-02-05",
+    "title": "The Strangers: Chapter 3",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fTG8itSb1a4O2BgUMjXdwO64qTz.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1291335,
+    "original_language": "en",
+    "original_title": "Solo Mio",
+    "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
+    "popularity": 21.6896,
+    "poster_path": "/fFjCz7pX9gZofqgbEnYxk3C1Ixo.jpg",
+    "release_date": "2026-02-05",
+    "title": "Solo Mio",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qhSfXdkrIzwYsyQ3Z9ehFmO3zjy.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1620991,
+    "original_language": "en",
+    "original_title": "The Investigation of Lucy Letby",
+    "overview": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
+    "popularity": 21.6166,
+    "poster_path": "/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
+    "release_date": "2026-02-04",
+    "title": "The Investigation of Lucy Letby",
+    "video": false,
+    "vote_average": 6.375,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sd0QuOnKX0aM89nz886aQaixwCx.jpg",
+    "genre_ids": [
+      12,
+      35
+    ],
+    "id": 1145899,
+    "original_language": "fr",
+    "original_title": "Marsupilami",
+    "overview": "David is tasked to deliver a mysterious package from South America, only to find out he is carrying a baby Marsupilami!",
+    "popularity": 14.8135,
+    "poster_path": "/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
+    "release_date": "2026-02-04",
+    "title": "Marsupilami",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sEcWQzk7uTBNMrWnMGD6hfDmrEo.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "id": 1600421,
+    "original_language": "ko",
+    "original_title": "스트레이 키즈 : 더 도미네이트 익스피리언스",
+    "overview": "Featuring the global K-Pop sensation Stray Kids and a live performance from their record-breaking world tour, alongside exclusive behind-the-scenes footage and intimate interviews with the band, Stray Kids: The dominATE Experience is an epic concert film that gives fans both a spectacular front-row seat and unique access to their favourite band.",
+    "popularity": 13.6202,
+    "poster_path": "/f1MvTJ25dq924ww9UOnLkj3qqs8.jpg",
+    "release_date": "2026-02-04",
+    "title": "Stray Kids: The dominATE Experience",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q6WKi7IRAYNSkZnw00tNwi5eJIA.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "id": 1436061,
+    "original_language": "de",
+    "original_title": "Fabian und die mörderische Hochzeit",
+    "overview": "Hapless conman Fabian ends up in the middle of a quirky wedding party while on the run. He soon realizes that the wedding has more to offer than just festivities - the precious wedding gift to the bride! When a corpse turns up in the garden pavilion, Fabian becomes more than just accidentally involved in solving the mystery.",
+    "popularity": 10.1523,
+    "poster_path": "/2T4gc5njZ0JJVYLn6Q8VxS9RoM6.jpg",
+    "release_date": "2026-02-06",
+    "title": "Fabian and the Deadly Wedding",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xcBlMEvzuaHoWANKYn5PGvcW4OC.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "id": 1110034,
+    "original_language": "no",
+    "original_title": "Kraken",
+    "overview": "Marine biologist Johanne is doing research on a fish farm in Vangsnes, a rural community located by the fjord, when she encounters several strange occurrences. Along with the brutal deaths of two local teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see? At the bottom of the deepest fjord rests a mythical monster as large as a mountain, with a myriad of arms ready to crush and devour anything they can grab.",
+    "popularity": 9.1351,
+    "poster_path": "/jVsflOu9WpMqUJ3WwVX2mITi86S.jpg",
+    "release_date": "2026-02-06",
+    "title": "Kraken",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
   }
 ]
