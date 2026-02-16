@@ -74981,5 +74981,201 @@
     "video": false,
     "vote_average": 5.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1317672,
+    "original_language": "en",
+    "original_title": "Love Me Love Me",
+    "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+    "popularity": 205.1834,
+    "poster_path": "/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
+    "release_date": "2026-02-12",
+    "title": "Love Me Love Me",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 66
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1316092,
+    "original_language": "en",
+    "original_title": "“Wuthering Heights”",
+    "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+    "popularity": 179.0089,
+    "poster_path": "/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+    "release_date": "2026-02-11",
+    "title": "“Wuthering Heights”",
+    "video": false,
+    "vote_average": 6.807,
+    "vote_count": 158
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "id": 1171145,
+    "original_language": "en",
+    "original_title": "Crime 101",
+    "overview": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless detective trails them hoping to thwart the multi-million dollar heist they are planning.",
+    "popularity": 96.2964,
+    "poster_path": "/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
+    "release_date": "2026-02-11",
+    "title": "Crime 101",
+    "video": false,
+    "vote_average": 7.171,
+    "vote_count": 38
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      28
+    ],
+    "id": 1297842,
+    "original_language": "en",
+    "original_title": "GOAT",
+    "overview": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball – a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world. Will's new teammates aren't thrilled about having a little goat on their roster, but Will is determined to revolutionize the sport and prove once and for all that 'smalls can ball'!",
+    "popularity": 100.6133,
+    "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+    "release_date": "2026-02-11",
+    "title": "GOAT",
+    "video": false,
+    "vote_average": 7.24,
+    "vote_count": 25
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yjOSpDQe8tzr8easpjTFVoQXsOX.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12,
+      35
+    ],
+    "id": 1119449,
+    "original_language": "en",
+    "original_title": "Good Luck, Have Fun, Don't Die",
+    "overview": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
+    "popularity": 46.5677,
+    "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+    "release_date": "2026-02-13",
+    "title": "Good Luck, Have Fun, Don't Die",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5UYCuHb0kfFzrZ5l9SKzScguDbu.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1429605,
+    "original_language": "en",
+    "original_title": "F Valentine's Day",
+    "overview": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+    "popularity": 26.5894,
+    "poster_path": "/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+    "release_date": "2026-02-12",
+    "title": "F Valentine's Day",
+    "video": false,
+    "vote_average": 6.045,
+    "vote_count": 33
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4FP1VC8igFCrARf7bEpjScVjusy.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "id": 1570282,
+    "original_language": "ja",
+    "original_title": "This is I",
+    "overview": "Bullied for wanting to be an idol, Kenji finds belonging in a cabaret and help from a trailblazing doctor, emerging onstage as her true self, Ai Haruna.",
+    "popularity": 18.9273,
+    "poster_path": "/3aMYB238ZU2GPjP7YAvcIzPjQaN.jpg",
+    "release_date": "2026-02-10",
+    "title": "This Is I",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zBMXbCIeRRflY4BjiKOrfF1phTH.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1592032,
+    "original_language": "zh",
+    "original_title": "怒袭",
+    "overview": "A former special forces soldier infiltrates northern Myanmar to rescue his missing daughter, fighting against scam gangs and organ traffickers in a final showdown with the crime boss.",
+    "popularity": 11.9188,
+    "poster_path": "/4mTK8drt1EWo1AzqBrV4mJA04Wh.jpg",
+    "release_date": "2026-02-12",
+    "title": "Furious Attack",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7yuHdP85F2ZxhKbSoPgCBT9uJT3.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1515615,
+    "original_language": "en",
+    "original_title": "Kissing Is the Easy Part",
+    "overview": "Honor student Sean agrees to tutor rebellious Flora for a college recommendation letter. Their growing attraction complicates more than just their academic goals.",
+    "popularity": 9.8773,
+    "poster_path": "/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
+    "release_date": "2026-02-13",
+    "title": "Kissing Is the Easy Part",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "id": 1268127,
+    "original_language": "ko",
+    "original_title": "휴민트",
+    "overview": "An espionage action film depicting North and South Korean secret agents clashing while investigating crimes occurring on the Vladivostok border.",
+    "popularity": 6.083,
+    "poster_path": "/vUw2VOItNTZfGHSSZWqxstUB8ok.jpg",
+    "release_date": "2026-02-11",
+    "title": "HUMINT",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
   }
 ]
