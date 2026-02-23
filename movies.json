@@ -75177,5 +75177,236 @@
     "video": false,
     "vote_average": 7.0,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 1428862,
+    "original_language": "es",
+    "original_title": "Cortafuego",
+    "overview": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
+    "popularity": 106.049,
+    "poster_path": "/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg",
+    "release_date": "2026-02-19",
+    "title": "Firebreak",
+    "video": false,
+    "vote_average": 6.107,
+    "vote_count": 28
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xBORKTaQJTq3l7EdnTTnrZnYzYa.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "id": 1327688,
+    "original_language": "en",
+    "original_title": "One Mile: Chapter One",
+    "overview": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
+    "popularity": 69.4961,
+    "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+    "release_date": "2026-02-20",
+    "title": "One Mile: Chapter One",
+    "video": false,
+    "vote_average": 7.711,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fAF3VGFBpItWNROmiGob60n0y5.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1242937,
+    "original_language": "en",
+    "original_title": "The Dreadful",
+    "overview": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.",
+    "popularity": 39.3727,
+    "poster_path": "/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
+    "release_date": "2026-02-20",
+    "title": "The Dreadful",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "id": 1305781,
+    "original_language": "zh",
+    "original_title": "镖人：风起大漠",
+    "overview": "Dao Ma, the \"second most wanted fugitive,\" is entrusted by his benefactor, the chief of Mo family clan, to take on a mysterious escort mission-escorting the \"most wanted fugitive\" to Chang'an.",
+    "popularity": 43.3437,
+    "poster_path": "/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg",
+    "release_date": "2026-02-17",
+    "title": "Blades of the Guardians",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1268609,
+    "original_language": "ko",
+    "original_title": "파반느",
+    "overview": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of love.",
+    "popularity": 32.5027,
+    "poster_path": "/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
+    "release_date": "2026-02-19",
+    "title": "Pavane",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qHBnPZA3J6hSl9a3Q1JAQzDeo2L.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "id": 1405769,
+    "original_language": "en",
+    "original_title": "I Can Only Imagine 2",
+    "overview": "After the breakout success of the song \"I Can Only Imagine,\" MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fan base, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son, Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife, Shannon, before fame costs him what matters most.",
+    "popularity": 24.0153,
+    "poster_path": "/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
+    "release_date": "2026-02-19",
+    "title": "I Can Only Imagine 2",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vuaPZ4IbsIRr2wDARZT7rFQ5CgP.jpg",
+    "genre_ids": [
+      35,
+      53,
+      18
+    ],
+    "id": 467905,
+    "original_language": "en",
+    "original_title": "How to Make a Killing",
+    "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+    "popularity": 16.6485,
+    "poster_path": "/yQ7OP2HYxl9YmkWNMkuUA2YaF5.jpg",
+    "release_date": "2026-02-19",
+    "title": "How to Make a Killing",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h6tGwt2luW8keksY677qCxyFxTZ.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 1462229,
+    "original_language": "zh",
+    "original_title": "飞驰人生3",
+    "overview": "Bearing the glory of being the \"King of Bayanbulak,\" Zhang Chi once again embarks on his racing journey, aiming not only to win the race but also to achieve something beyond the competition itself.",
+    "popularity": 8.6915,
+    "poster_path": "/hypEABFazVTU4zTZYcVFmaPYdIH.jpg",
+    "release_date": "2026-02-17",
+    "title": "Pegasus 3",
+    "video": false,
+    "vote_average": 7.167,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uNyYrVnB9BpT7lLq6u8WDIRHFx2.jpg",
+    "genre_ids": [
+      10402
+    ],
+    "id": 1531626,
+    "original_language": "en",
+    "original_title": "Descendants/ZOMBIES Worlds Collide - Concert Special",
+    "overview": "Celebrating the high-energy music from the iconic Descendants and ZOMBIES franchises, the Descendants/ZOMBIES Worlds Collide Tour thrilled sold-out crowds in over 40 arenas across North America last summer. Now, families and fans of all ages can relive the excitement - singing and dancing along with their favorite stars from the comfort of home.",
+    "popularity": 8.9594,
+    "poster_path": "/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg",
+    "release_date": "2026-02-19",
+    "title": "Descendants/ZOMBIES Worlds Collide - Concert Special",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "id": 1445363,
+    "original_language": "en",
+    "original_title": "EPiC: Elvis Presley in Concert",
+    "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+    "popularity": 8.0203,
+    "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+    "release_date": "2026-02-18",
+    "title": "EPiC: Elvis Presley in Concert",
+    "video": false,
+    "vote_average": 9.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uZMVcWGzGxmXQGVk3hwu9Ne9lVt.jpg",
+    "genre_ids": [
+      878,
+      28,
+      18,
+      27,
+      53
+    ],
+    "id": 1340110,
+    "original_language": "en",
+    "original_title": "Redux Redux",
+    "overview": "In an attempt to avenge her daughter’s death, Irene Kelly travels across parallel universes, killing her daughter’s murderer again and again. As she becomes consumed by her quest for revenge, her humanity begins to slip away—until the cycle is disrupted when she rescues Mia, a sharp-witted teenager already marked by the killer.",
+    "popularity": 6.4805,
+    "poster_path": "/2LlddzprXEnWsM3WN0Cjnq6GUvd.jpg",
+    "release_date": "2026-02-20",
+    "title": "Redux Redux",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1YOLU0ZJ7lc4AiaJaLmofXIN6or.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1447971,
+    "original_language": "zh",
+    "original_title": "惊蛰无声",
+    "overview": "After a critical intelligence leak, a national security unit launches an intensive investigation. But successive setbacks in their arrest operations reveal a shocking truth: the trail leads back to within the unit itself. Amidst a storm of trust and betrayal, a silent battle begins to unfold...",
+    "popularity": 6.4715,
+    "poster_path": "/qs7YjSkD2lv6d0efg3EiqeMsqOw.jpg",
+    "release_date": "2026-02-17",
+    "title": "Scare Out",
+    "video": false,
+    "vote_average": 5.714,
+    "vote_count": 7
   }
 ]
