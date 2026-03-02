@@ -120832,5 +120832,23 @@
     "video": false,
     "vote_average": 5.943,
     "vote_count": 758
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/93VeFrvu1x2uaHexeBpSmITNPuf.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1494712,
+    "original_language": "de",
+    "original_title": "Das Millionenschnitzel",
+    "overview": "",
+    "popularity": 7.893,
+    "poster_path": "/l4UXYZNa1BUKXnfny00WSrypYMo.jpg",
+    "release_date": "2026-02-27",
+    "title": "Das Millionenschnitzel",
+    "video": false,
+    "vote_average": 6.167,
+    "vote_count": 3
   }
 ]
