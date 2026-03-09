@@ -120850,5 +120850,198 @@
     "video": false,
     "vote_average": 6.167,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
+    "genre_ids": [
+      878,
+      27,
+      35
+    ],
+    "id": 1159831,
+    "original_language": "en",
+    "original_title": "The Bride!",
+    "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+    "popularity": 102.9913,
+    "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+    "release_date": "2026-03-04",
+    "title": "The Bride!",
+    "video": false,
+    "vote_average": 6.441,
+    "vote_count": 93
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jhfJZ82qzcMV4Kr7G0uczdU4n2v.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1629382,
+    "original_language": "fr",
+    "original_title": "Banlieusards 3",
+    "overview": "Grieving and facing the consequences of their crimes, the Traoré brothers get one last chance to forge a new path.",
+    "popularity": 55.3625,
+    "poster_path": "/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
+    "release_date": "2026-03-04",
+    "title": "Street Flow 3",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/filZFYKr17wIJ4j1Cz115DOdegh.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10752
+    ],
+    "id": 875828,
+    "original_language": "en",
+    "original_title": "Peaky Blinders: The Immortal Man",
+    "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+    "popularity": 44.9604,
+    "poster_path": "/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+    "release_date": "2026-03-05",
+    "title": "Peaky Blinders: The Immortal Man",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zeCuk7kwfhzRZMN2KoYTYODgpU3.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648,
+      27
+    ],
+    "id": 1381027,
+    "original_language": "en",
+    "original_title": "The Good Boy",
+    "overview": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
+    "popularity": 30.1133,
+    "poster_path": "/b3lnPhLbkk37fYFtQy1gGixd8Jz.jpg",
+    "release_date": "2026-03-06",
+    "title": "The Good Boy",
+    "video": false,
+    "vote_average": 8.778,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eZJ3z1aAcHzoYmPSxuJjaYRMgi3.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "id": 1262547,
+    "original_language": "hi",
+    "original_title": "सूबेदार",
+    "overview": "Haunted by loss and drifting away from his daughter, a retired Subedaar Arjun Maurya’s newly found civilian life is jolted by one reckless act. As old wounds reopen, he must summon the warrior within to face a new kind of war - one that hits too close to his heart.",
+    "popularity": 22.7428,
+    "poster_path": "/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg",
+    "release_date": "2026-03-05",
+    "title": "Subedaar",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dXP31AMumH57TNCmGD8YYDIdjWx.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1022046,
+    "original_language": "en",
+    "original_title": "Youngblood",
+    "overview": "Hockey prodigy Dean Youngblood joins the Hamilton Bulldogs and has to deal with toxic behavior during his journey to the National Hockey League draft.",
+    "popularity": 9.3688,
+    "poster_path": "/nOHlXaFggaqMZdCbscDT0EET2sT.jpg",
+    "release_date": "2026-03-06",
+    "title": "Youngblood",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rHB0KfqqUTDCLuSEUw9Z1G2AC3n.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1309083,
+    "original_language": "en",
+    "original_title": "Dolly",
+    "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
+    "popularity": 9.0206,
+    "poster_path": "/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg",
+    "release_date": "2026-03-06",
+    "title": "Dolly",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pYcO7MQgrygQERoWub0R35Nh5ec.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1383731,
+    "original_language": "en",
+    "original_title": "Protector",
+    "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "popularity": 6.8389,
+    "poster_path": "/hUv1DarjEMmQM38i9DvW9pHYPZ4.jpg",
+    "release_date": "2026-03-05",
+    "title": "Protector",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/my0Be7yOeJzSaVBh77b7cyXE97a.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "id": 1071640,
+    "original_language": "cn",
+    "original_title": "衝鋒: 火拼",
+    "overview": "The Yau Tsim Mong area, the core commercial area of Hong Kong, has recently experienced a series of robberies. Many jewelry stores in the area have been ransacked by gangsters. Police unit is given the mission to take the gangsters into a custody, but the operation is not so easy.",
+    "popularity": 7.9637,
+    "poster_path": "/xqu6u29ToxZos0PojcgXy2hEx9b.jpg",
+    "release_date": "2026-03-05",
+    "title": "Ultimate Revenge",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      53,
+      80,
+      28
+    ],
+    "id": 1428294,
+    "original_language": "te",
+    "original_title": "మృత్యుంజయ",
+    "overview": "",
+    "popularity": 6.1357,
+    "poster_path": "/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+    "release_date": "2026-03-06",
+    "title": "Mrithyunjay",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
   }
 ]
