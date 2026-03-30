@@ -121343,5 +121343,158 @@
     "video": false,
     "vote_average": 6.667,
     "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1523145,
+    "original_language": "ru",
+    "original_title": "Твоё сердце будет разбито",
+    "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+    "popularity": 1340.8675,
+    "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+    "release_date": "2026-03-26",
+    "title": "Your Heart Will Be Broken",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+    "genre_ids": [
+      28,
+      35,
+      27
+    ],
+    "id": 1292695,
+    "original_language": "en",
+    "original_title": "They Will Kill You",
+    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "popularity": 57.2095,
+    "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+    "release_date": "2026-03-25",
+    "title": "They Will Kill You",
+    "video": false,
+    "vote_average": 6.661,
+    "vote_count": 59
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rDTLhM1leJm5zsgEwVeEjcZL6iE.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1276704,
+    "original_language": "es",
+    "original_title": "53 domingos",
+    "overview": "Three siblings get together to decide what to do with their 86‑year‑old father, who has started behaving in a very peculiar way. Should they move him into a nursing home? Have him live with one of them? What begins as a polite family meeting quickly spirals into a wildly funny and unexpected situation that soon gets completely out of control.",
+    "popularity": 52.5062,
+    "poster_path": "/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
+    "release_date": "2026-03-27",
+    "title": "53 Sundays",
+    "video": false,
+    "vote_average": 5.824,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "id": 1637319,
+    "original_language": "en",
+    "original_title": "Hannah Montana 20th Anniversary Special",
+    "overview": "Filmed in front of a live studio audience and hosted by Alex Cooper of 'Call Her Daddy' fame, Miley Cyrus reflects on the creation and impact of the series, with never-before-seen archival footage, and some of the show's most memorable sets will be 'brought back to life' — including the Stewart family living room and the legendary Hannah Montana closet.",
+    "popularity": 38.9299,
+    "poster_path": "/2BZ0bij5ORSvfDepCDD8CqVcpaG.jpg",
+    "release_date": "2026-03-23",
+    "title": "Hannah Montana 20th Anniversary Special",
+    "video": false,
+    "vote_average": 7.422,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pKDLacpGBX296jYa0ttzQNAsHbn.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 1450527,
+    "original_language": "en",
+    "original_title": "Forbidden Fruits",
+    "overview": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours – with fellow fruits Cherry and Fig. But, when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate.",
+    "popularity": 20.015,
+    "poster_path": "/qK6yk1wJp6vAJRJOyIMcxoNw8pe.jpg",
+    "release_date": "2026-03-26",
+    "title": "Forbidden Fruits",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l7NTdhTin8quQ8V2ukD4Zd48EPX.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "id": 1628116,
+    "original_language": "ko",
+    "original_title": "BTS: 더 리턴",
+    "overview": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
+    "popularity": 17.3015,
+    "poster_path": "/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg",
+    "release_date": "2026-03-27",
+    "title": "BTS: THE RETURN",
+    "video": false,
+    "vote_average": 7.857,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      12
+    ],
+    "id": 1140521,
+    "original_language": "en",
+    "original_title": "The Magic Faraway Tree",
+    "overview": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+    "popularity": 8.5693,
+    "poster_path": "/mtS8mW6aLuartATut8TrD39zTIG.jpg",
+    "release_date": "2026-03-26",
+    "title": "The Magic Faraway Tree",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/93trMzyRiamyK5r9UFlLNAOO85b.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1596335,
+    "original_language": "en",
+    "original_title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "overview": "A father-to-be tries to figure out what is happening with all this AI insanity, and explores the most powerful technology humanity has ever created... and what's at stake if we get it wrong.",
+    "popularity": 6.2897,
+    "poster_path": "/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
+    "release_date": "2026-03-27",
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
   }
 ]
