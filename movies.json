@@ -133978,5 +133978,293 @@
     "video": false,
     "vote_average": 7.1,
     "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1290417,
+    "original_language": "en",
+    "original_title": "Thrash",
+    "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+    "popularity": 268.2426,
+    "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+    "release_date": "2026-04-10",
+    "title": "Thrash",
+    "video": false,
+    "vote_average": 5.993,
+    "vote_count": 151
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9mgKDddLVQouKpXcb4ul1tUwUO9.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1641319,
+    "original_language": "en",
+    "original_title": "Sniper: No Nation",
+    "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage.",
+    "popularity": 265.2707,
+    "poster_path": "/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+    "release_date": "2026-04-07",
+    "title": "Sniper: No Nation",
+    "video": false,
+    "vote_average": 5.957,
+    "vote_count": 23
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1049471,
+    "original_language": "en",
+    "original_title": "Outcome",
+    "overview": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
+    "popularity": 163.5881,
+    "poster_path": "/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+    "release_date": "2026-04-06",
+    "title": "Outcome",
+    "video": false,
+    "vote_average": 5.175,
+    "vote_count": 57
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/glZi1TnYHf3y0SthGg941XwcBNA.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1304313,
+    "original_language": "en",
+    "original_title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "popularity": 31.5874,
+    "poster_path": "/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
+    "release_date": "2026-04-07",
+    "title": "Lee Cronin's The Mummy",
+    "video": false,
+    "vote_average": 8.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7RaAal20Vim8lh4pOErJ5nuLeTo.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1631917,
+    "original_language": "tl",
+    "original_title": "18th Rose",
+    "overview": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans.",
+    "popularity": 32.5868,
+    "poster_path": "/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
+    "release_date": "2026-04-09",
+    "title": "18th Rose",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1472951,
+    "original_language": "en",
+    "original_title": "Infiltrate",
+    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
+    "popularity": 53.3403,
+    "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+    "release_date": "2026-04-10",
+    "title": "Infiltrate",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1455079,
+    "original_language": "en",
+    "original_title": "You, Me & Tuscany",
+    "overview": "A free-spirited American chef and reserved British lawyer embark on a whirlwind romance during a destination wedding in coastal Italy.",
+    "popularity": 21.009,
+    "poster_path": "/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+    "release_date": "2026-04-09",
+    "title": "You, Me & Tuscany",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+    "genre_ids": [
+      10749,
+      878,
+      35
+    ],
+    "id": 1209511,
+    "original_language": "ta",
+    "original_title": "லவ் இன்சூரன்ஸ் கம்பெனி",
+    "overview": "In the year 2040, a love-based app that is premised on ensuring love for all people is used widely by the population. When Vibe Vassey, the voice behind the app's AI, finds out about it's misconception to true love. He begins on a quest to prove that love does not come from a screen, it comes from within.",
+    "popularity": 21.0186,
+    "poster_path": "/5h35Cef8Poahc69PgzrKOm7eg5M.jpg",
+    "release_date": "2026-04-10",
+    "title": "Love Insurance Kompany",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
+    "genre_ids": [
+      28,
+      10749,
+      53
+    ],
+    "id": 1220522,
+    "original_language": "te",
+    "original_title": "డెకాయిట్",
+    "overview": "A man is convicted for a crime he didn't commit owing to a betrayal by his better half. He hunts her down seeking vengeance, as their stories intertwine with a series of robberies.",
+    "popularity": 15.2047,
+    "poster_path": "/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
+    "release_date": "2026-04-10",
+    "title": "Dacoit",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8SEs6yUgrE5shU8tqXuR2MQIdlc.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1641962,
+    "original_language": "en",
+    "original_title": "Untold: Chess Mates",
+    "overview": "Magnus Carlsen, widely regarded as the greatest chess player of all time, is challenged by Hans Niemann, a rising star who capitalizes on the meteoric growth of online chess. Niemann’s ascension culminated in an epic, controversy-shrouded victory over Carlsen at the 2022 Sinquefield Cup, which eventually led to allegations and revelations of cheating. Determined to clear his name, Niemann fights his way back to the top of the chess world, setting the stage for a high-stakes rematch with Carlsen in 2024.",
+    "popularity": 11.3834,
+    "poster_path": "/oC68KgbyFiraKJRdUedQI9aXBF.jpg",
+    "release_date": "2026-04-07",
+    "title": "Untold: Chess Mates",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      878
+    ],
+    "id": 1625253,
+    "original_language": "en",
+    "original_title": "Football 17776",
+    "overview": "In the distant future, three sentient space probes observe two humans traveling to watch an evolved form of American football.",
+    "popularity": 8.7533,
+    "poster_path": "/p1X84NZKkwW72Fq7owNKRHmo5V7.jpg",
+    "release_date": "2026-04-07",
+    "title": "Football 17776",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Yjxlvqb1QxyUGCOzm9SIkq53Wr.jpg",
+    "genre_ids": [
+      80,
+      28,
+      9648
+    ],
+    "id": 1480790,
+    "original_language": "zh",
+    "original_title": "追恶",
+    "overview": "In the late 1990s, detective Chi Feng navigates a violent turf war between rival trafficking syndicates to dismantle both criminal groups and rescue a group of abducted women.",
+    "popularity": 9.8295,
+    "poster_path": "/8tR18t50eaZU4UI3rPJuZknroJ4.jpg",
+    "release_date": "2026-04-10",
+    "title": "The Sin Trade",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dbn9NfGWKw8eHJFjzkm4VC72odt.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 855435,
+    "original_language": "en",
+    "original_title": "Faces of Death",
+    "overview": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film.",
+    "popularity": 9.3002,
+    "poster_path": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
+    "release_date": "2026-04-10",
+    "title": "Faces of Death",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1292415,
+    "original_language": "en",
+    "original_title": "Beast",
+    "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against it's brutal champion Xavier Grau.",
+    "popularity": 5.6092,
+    "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "release_date": "2026-04-10",
+    "title": "Beast",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2VjuEsiw2Zk9ucD5grsf68Mqrm4.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      9648,
+      35
+    ],
+    "id": 1129104,
+    "original_language": "en",
+    "original_title": "Flavia",
+    "overview": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
+    "popularity": 5.7483,
+    "poster_path": "/85RPmvLKhKH0LVk6SclSK2yHOy9.jpg",
+    "release_date": "2026-04-12",
+    "title": "Flavia",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
   }
 ]
