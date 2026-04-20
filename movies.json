@@ -134266,5 +134266,256 @@
     "video": false,
     "vote_average": 7.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+    "genre_ids": [
+      35,
+      28,
+      12
+    ],
+    "id": 1084577,
+    "original_language": "en",
+    "original_title": "Balls Up",
+    "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+    "popularity": 214.69,
+    "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+    "release_date": "2026-04-15",
+    "title": "Balls Up",
+    "video": false,
+    "vote_average": 5.488,
+    "vote_count": 81
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cW8iKmWA6JAHgvNMyvrjqWd1dNp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1511057,
+    "original_language": "en",
+    "original_title": "Roommates",
+    "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
+    "popularity": 78.4163,
+    "poster_path": "/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+    "release_date": "2026-04-13",
+    "title": "Roommates",
+    "video": false,
+    "vote_average": 6.514,
+    "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "id": 1659087,
+    "original_language": "en",
+    "original_title": "180",
+    "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
+    "popularity": 70.7408,
+    "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+    "release_date": "2026-04-16",
+    "title": "180",
+    "video": false,
+    "vote_average": 5.147,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3gI8gS7YIpmEzUehg3cZVQ62phl.jpg",
+    "genre_ids": [
+      35,
+      80,
+      28
+    ],
+    "id": 1416391,
+    "original_language": "hi",
+    "original_title": "टोस्टर",
+    "overview": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift.",
+    "popularity": 44.0893,
+    "poster_path": "/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
+    "release_date": "2026-04-15",
+    "title": "Toaster",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1243741,
+    "original_language": "en",
+    "original_title": "Ballistic",
+    "overview": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
+    "popularity": 23.34,
+    "poster_path": "/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+    "release_date": "2026-04-17",
+    "title": "Ballistic",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1nHaO4rTv1E6xVJYIMGP9nmLxE9.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1242332,
+    "original_language": "en",
+    "original_title": "Normal",
+    "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+    "popularity": 20.0486,
+    "poster_path": "/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
+    "release_date": "2026-04-16",
+    "title": "Normal",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tWgcmID3U63WdWcoXEPcJA81HL7.jpg",
+    "genre_ids": [
+      16,
+      28,
+      18
+    ],
+    "id": 1669929,
+    "original_language": "es",
+    "original_title": "La huella del oro",
+    "overview": "",
+    "popularity": 13.8327,
+    "poster_path": "/ldroECj55Ay4Qh4gUlbKEttly4i.jpg",
+    "release_date": "2026-04-13",
+    "title": "The Gold Trail",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hQFl9Ph7KXcRDc3BbN9mGkNivNh.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1623125,
+    "original_language": "en",
+    "original_title": "A Gorilla Story: Told by David Attenborough",
+    "overview": "David Attenborough tells the remarkable story of his first encounter with the baby gorilla Pablo, how that gorilla grew up to be a top Silverback and how Pablo's direct descendants are doing today.",
+    "popularity": 16.1898,
+    "poster_path": "/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
+    "release_date": "2026-04-17",
+    "title": "A Gorilla Story: Told by David Attenborough",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 1239134,
+    "original_language": "hi",
+    "original_title": "Bhooth Bangla",
+    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+    "popularity": 13.7795,
+    "poster_path": "/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+    "release_date": "2026-04-16",
+    "title": "Bhooth Bangla",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+    "genre_ids": [
+      28,
+      53,
+      9648,
+      18
+    ],
+    "id": 1414413,
+    "original_language": "en",
+    "original_title": "Brothers Under Fire",
+    "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+    "popularity": 8.4755,
+    "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+    "release_date": "2026-04-15",
+    "title": "Brothers Under Fire",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
+    "genre_ids": [
+      10749,
+      53
+    ],
+    "id": 1620996,
+    "original_language": "es",
+    "original_title": "La caja azul",
+    "overview": "Pablo is a young, wealthy but solitary man traumatized by a fatal car accident. He meets Lara through a dating app tied to an exchange of the titular blue box. As their relationship grows, Lara draws Pablo out of his shell. But an anonymous warning alerts Pablo that Lara may not be all that she seems. What begins as an intimate connection gradually turns into a tense psychological game of cat and mouse, forcing Pablo to confront both his past and the true nature of the woman he is falling in love with.",
+    "popularity": 7.1013,
+    "poster_path": "/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg",
+    "release_date": "2026-04-16",
+    "title": "The Blue Box",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gyYTuYSwiqGNaqNomscb6oSZ8Mt.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1641965,
+    "original_language": "en",
+    "original_title": "Untold: Jail Blazers",
+    "overview": "Volatile players. Criminal charges. National headlines. Portland's championship-caliber NBA team implodes spectacularly in this unflinching documentary.",
+    "popularity": 7.75,
+    "poster_path": "/vmp45llJTRr6JLaIamt3RlfxgTH.jpg",
+    "release_date": "2026-04-14",
+    "title": "Untold: Jail Blazers",
+    "video": false,
+    "vote_average": 6.333,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jCCqS6qKVhofuQCKBfsRvP3zP7R.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1404684,
+    "original_language": "fr",
+    "original_title": "Juste une illusion",
+    "overview": "1985. Vincent, almost 13, lives in the suburbs of Paris in a middle-class family, between a distant older brother and parents in constant conflict. Although he is no longer a child and not yet an adult, the film follows his reflections and doubts about identity, friendship, family, and his questions about religion, desire, and love.",
+    "popularity": 7.9381,
+    "poster_path": "/my4QdEBuhYpYLR4M7AkJWJGcxxx.jpg",
+    "release_date": "2026-04-15",
+    "title": "Juste une illusion",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 36
   }
 ]
