@@ -134517,5 +134517,164 @@
     "video": false,
     "vote_average": 7.0,
     "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1318447,
+    "title": "Apex",
+    "original_language": "en",
+    "original_title": "Apex",
+    "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+    "popularity": 599.9176,
+    "poster_path": "/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+    "release_date": "2026-04-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.534,
+    "vote_count": 276
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+    "genre_ids": [
+      10402,
+      18
+    ],
+    "id": 936075,
+    "title": "Michael",
+    "original_language": "en",
+    "original_title": "Michael",
+    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "popularity": 273.1355,
+    "poster_path": "/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+    "release_date": "2026-04-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 261
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a2PyqyjREwjnrjdJyJtHfSQOxyf.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1669051,
+    "title": "Kesong Puti",
+    "original_language": "tl",
+    "original_title": "Kesong Puti",
+    "overview": "Have a taste of VMX Newest Temptation Apphle Celso. Lena, a Kesong Puti vendor, meets a charming dairy supplier Manny. Their chemistry sparks a daring secret that transforms her humble cheese into their town’s obsession.",
+    "popularity": 13.2608,
+    "poster_path": "/8zYU8hlKR5111IToxXvv5575tZG.jpg",
+    "release_date": "2026-04-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6KMv3pPMkPlHoDdy461x3qep6GX.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1641966,
+    "title": "Untold: The Shooting at Hawthorne Hill",
+    "original_language": "en",
+    "original_title": "Untold: The Shooting at Hawthorne Hill",
+    "overview": "A retired Olympic equestrian takes on a new dressage student at his idyllic farm in New Jersey. Over time, tensions mount between the two, leading to 911 calls, cryptic social media posts, and accusations of spying. The feud culminates in a shocking act of violence and a trial that rocked the prestigious and sophisticated world of dressage.",
+    "popularity": 10.9525,
+    "poster_path": "/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg",
+    "release_date": "2026-04-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j4jmAkT8Ui4bq5z7eRoGVEc5r8Y.jpg",
+    "genre_ids": [
+      35,
+      28,
+      53
+    ],
+    "id": 1390300,
+    "title": "Over Your Dead Body",
+    "original_language": "en",
+    "original_title": "Over Your Dead Body",
+    "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+    "popularity": 6.4591,
+    "poster_path": "/l5iroeWTrP9tspGYQonagH7Tcds.jpg",
+    "release_date": "2026-04-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cegR4D5Nn5onG9HKdDzunLeiOB8.jpg",
+    "genre_ids": [
+      99,
+      10751
+    ],
+    "id": 1648678,
+    "title": "Orangutan",
+    "original_language": "en",
+    "original_title": "Orangutan",
+    "overview": "Narrated by Josh Gad, journey high into the rainforest canopy of Southeast Asia where a magnificent and mysterious community filled with playful personalities lives. Witness the exhilarating action, heartwarming encounters, and a closeup look at a stunning jungle teeming with wildlife as the inquisitive adolescent orangutan Indah prepares to leave her family and venture out on her own for the first time.",
+    "popularity": 5.4254,
+    "poster_path": "/mrk4Mbuqer9TBSoaYDWtetXuKtr.jpg",
+    "release_date": "2026-04-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fO1pM3aCB0oAP7Hvlrrtwp54Xe4.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1677550,
+    "title": "KillTonyMania",
+    "original_language": "en",
+    "original_title": "KillTonyMania",
+    "overview": "Kill Tony tag teams with WrestleMania 42, as Tony Hinchcliffe, WWE icons and comedy heavyweights put upstart stand-ups to the test in Las Vegas.",
+    "popularity": 7.0508,
+    "poster_path": "/AeexCrmaoj0aYAoaBRkWnGhmojZ.jpg",
+    "release_date": "2026-04-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.75,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jiISkXckJnRjgXGvVXOf7XnukI3.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "id": 898704,
+    "title": "Desert Warrior",
+    "original_language": "en",
+    "original_title": "Desert Warrior",
+    "overview": "Set in seventh-century Arabia, Princess Hind (Aiysha Hart) defies her fate, refusing to become a concubine to the ruthless Emperor Kisra (Sir Ben Kingsley). Fleeing into the desert with her father, she is hunted by a merciless army and forced to trust a legendary bandit (Anthony Mackie) with secrets of his own. Rising from fugitive to fearless warrior, Hind unites warring tribes for a final stand - the Battle of Dhi Qar, a clash that will change history forever.",
+    "popularity": 5.3143,
+    "poster_path": "/3JHYiYhOPoME3E5pscYpE4dQfbT.jpg",
+    "release_date": "2026-04-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
   }
 ]
