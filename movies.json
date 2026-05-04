@@ -139556,5 +139556,132 @@
     "video": false,
     "vote_average": 6.506,
     "vote_count": 3860
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751,
+      14
+    ],
+    "id": 1007757,
+    "title": "Swapped",
+    "original_language": "en",
+    "original_title": "Swapped",
+    "overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    "popularity": 311.8469,
+    "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "release_date": "2026-05-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.194,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jYtorwqV8sTTxGQSiuQQVI2Wkwo.jpg",
+    "genre_ids": [
+      16,
+      12,
+      878
+    ],
+    "id": 1665092,
+    "title": "吞噬星空剧场版：决战原始星",
+    "original_language": "zh",
+    "original_title": "吞噬星空剧场版：决战原始星",
+    "overview": "",
+    "popularity": 33.7911,
+    "poster_path": "/sksOXCnevAsFMHEvNcm3f9Ruo3D.jpg",
+    "release_date": "2026-05-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/plDfFp8LWIh8c8WK5Xlgvwytgqs.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      18
+    ],
+    "id": 539745,
+    "title": "Animal Farm",
+    "original_language": "en",
+    "original_title": "Animal Farm",
+    "overview": "A satirical allegory of revolution and power that traces how a movement for equality is systematically corrupted. As the pigs consolidate control, truth is erased, dissent is crushed, and the farm descends into a ruthless dictatorship — fulfilling Orwell’s warning about the dangers of communism.",
+    "popularity": 15.1198,
+    "poster_path": "/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+    "release_date": "2026-04-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1300501,
+    "title": "Patriot",
+    "original_language": "ml",
+    "original_title": "പേട്രിയറ്റ്",
+    "overview": "When a famous Malayali YouTuber tries to expose a corrupt regional politician from Kerala and his malpractices, he is soon forced to go on the run and clear his name of all the false allegations that are levelled against him.",
+    "popularity": 7.5162,
+    "poster_path": "/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+    "release_date": "2026-05-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1499071,
+    "title": "Cold War 1994",
+    "original_language": "cn",
+    "original_title": "寒戰1994",
+    "overview": "Flashback to 1994, before Hong Kong’s handover to China. As the Special Branch of the Royal Hong Kong Police Force prepares to disband, the kidnapping of a powerful business tycoon ignites a dangerous covert power struggle within the force. Caught in the conflict are two officers: the passionate and righteous M.B. Lee and the cold-blooded and ambitious Peter Choi. Four formidable factions — the city’s wealthiest family, the Poon’s, the police, the triads, and the British authorities — are drawn into a deadly vortex of ambition, betrayal, and hidden agendas. As old alliances fracture and new ones form, Hong Kong stands on the brink of a seismic power reshuffle that will cast a long shadow into the future.",
+    "popularity": 6.3924,
+    "poster_path": "/usscmbtR0OH1BzHp5AKzBLVCAMe.jpg",
+    "release_date": "2026-05-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      9648,
+      53,
+      80
+    ],
+    "id": 1658653,
+    "title": "Vanishing Point",
+    "original_language": "zh",
+    "original_title": "消失的人",
+    "overview": "On an ordinary morning, Tang Ning's son disappears in the stairwell; In the next unit, Lin Yutong, a young woman living alone, is assaulted in her sleep; Yan Wu, a gambling addict, is covered in blood and lies to hide a corpse. In this seemingly peaceful and inconspicuous apartment building, every \"acquaintance\" you pass by could be a monstrous demon hiding its fangs. When the human heart is more terrifying than ghosts, the door you enter and leave every day could be the entrance to hell......",
+    "popularity": 5.811,
+    "poster_path": "/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
+    "release_date": "2026-05-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
   }
 ]
