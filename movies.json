@@ -139884,5 +139884,266 @@
     "video": false,
     "vote_average": 9.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cccXiN28CPjcMVhji5LnogF4Njp.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "id": 1439930,
+    "title": "The Punisher: One Last Kill",
+    "original_language": "en",
+    "original_title": "The Punisher: One Last Kill",
+    "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+    "popularity": 716.6387,
+    "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+    "release_date": "2026-05-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.564,
+    "vote_count": 845
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/90WhwOuABgkRkUmhSK1fY8vBOvq.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1122573,
+    "title": "In the Grey",
+    "original_language": "en",
+    "original_title": "In the Grey",
+    "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "popularity": 36.8999,
+    "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "release_date": "2026-05-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 29
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      10751
+    ],
+    "id": 1684226,
+    "title": "Bride of the Year",
+    "original_language": "af",
+    "original_title": "Bruid van die Jaar",
+    "overview": "When Lienkie's dream of budding a family of her own come crashing down, she hatches a devious plan to win \"Bride of the Year\" and get back at her ex.",
+    "popularity": 46.9898,
+    "poster_path": "/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg",
+    "release_date": "2026-05-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1628367,
+    "title": "Kartavya",
+    "original_language": "hi",
+    "original_title": "कर्तव्य",
+    "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+    "popularity": 35.3822,
+    "poster_path": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
+    "release_date": "2026-05-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.667,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1662317,
+    "title": "The Crash",
+    "original_language": "en",
+    "original_title": "The Crash",
+    "overview": "A teen slams her car into a building, killing her boyfriend and his friend. What seems like a tragic accident becomes a murder case.",
+    "popularity": 15.5428,
+    "poster_path": "/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
+    "release_date": "2026-05-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1620034,
+    "title": "Marty, Life Is Short",
+    "original_language": "en",
+    "original_title": "Marty, Life Is Short",
+    "overview": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
+    "popularity": 24.7193,
+    "poster_path": "/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg",
+    "release_date": "2026-05-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.375,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jTNpjysWEdK6foi7eSeevCkiSRf.jpg",
+    "genre_ids": [
+      80,
+      28,
+      14,
+      18
+    ],
+    "id": 1367220,
+    "title": "Karuppu",
+    "original_language": "ta",
+    "original_title": "கருப்பு",
+    "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
+    "popularity": 24.0599,
+    "poster_path": "/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+    "release_date": "2026-05-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dTEbfFiaYupyhgFg9ZC4NpH5p8G.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1678844,
+    "title": "The Bus: A French Football Mutiny",
+    "original_language": "fr",
+    "original_title": "Le Bus : Les Bleus en grève",
+    "overview": "This documentary revisits the French football team's controversial 2010 World Cup and the bus strike that sparked global headlines and national outrage.",
+    "popularity": 8.2978,
+    "poster_path": "/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
+    "release_date": "2026-05-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w5BlNUVpNkiijs4IvbU2CDESyJh.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1398050,
+    "title": "Driver's Ed",
+    "original_language": "en",
+    "original_title": "Driver's Ed",
+    "overview": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.",
+    "popularity": 7.6224,
+    "poster_path": "/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+    "release_date": "2026-05-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/weFG1yMIwVsjGr5YfdpltxpBh09.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1684240,
+    "title": "Jamie Vardy",
+    "original_language": "en",
+    "original_title": "Jamie Vardy",
+    "overview": "From part-time footballer to prime league legends, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
+    "popularity": 7.7405,
+    "poster_path": "/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+    "release_date": "2026-05-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.042,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1xrQwkcF8HV0f3CfG0qOko9bRoy.jpg",
+    "genre_ids": [
+      35,
+      18,
+      36
+    ],
+    "id": 1442669,
+    "title": "La Vénus électrique",
+    "original_language": "fr",
+    "original_title": "La Vénus électrique",
+    "overview": "Artist Antoine has lost all inspiration and slipped into alcoholism since the death of his wife Irène, a loss he blames himself for. Suzanne is a penniless sideshow performer pretending to be a clairvoyant, whom Antoine consults in a bid to connect with Irène. Antoine’s dealer Armand, desperate to keep Antoine from falling apart, urges Suzanne to keep the ruse alive. She stages a series of improvised hypnosis sessions, claiming she can channel Irène in exchange for having her debts paid by Armand.",
+    "popularity": 6.5519,
+    "poster_path": "/srJFksTcU1yxs7bpWgsrMcogRVF.jpg",
+    "release_date": "2026-05-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.375,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1320660,
+    "title": "Pati Patni Aur Woh Do",
+    "original_language": "hi",
+    "original_title": "पति पत्नी और वो दो",
+    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "popularity": 6.2298,
+    "poster_path": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "release_date": "2026-05-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1510767,
+    "title": "Athiradi",
+    "original_language": "ml",
+    "original_title": "അതിരടി",
+    "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
+    "popularity": 7.1454,
+    "poster_path": "/AgghZr1txyNREiK0WQi3bePW1ax.jpg",
+    "release_date": "2026-05-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 4
   }
 ]
