@@ -141788,5 +141788,243 @@
     "video": false,
     "vote_average": 6.5,
     "vote_count": 1203
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1057265,
+    "title": "Peddi",
+    "original_language": "te",
+    "original_title": "పెద్ది",
+    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+    "popularity": 883.1946,
+    "poster_path": "/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+    "release_date": "2026-06-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.464,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1358005,
+    "title": "Office Romance",
+    "original_language": "en",
+    "original_title": "Office Romance",
+    "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+    "popularity": 237.2745,
+    "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+    "release_date": "2026-06-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.687,
+    "vote_count": 99
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1308553,
+    "title": "Hai Jawani Toh Ishq Hona Hai",
+    "original_language": "hi",
+    "original_title": "है जवानी तो इश्क होना है",
+    "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+    "popularity": 270.6137,
+    "poster_path": "/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+    "release_date": "2026-06-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1273221,
+    "title": "Scary Movie",
+    "original_language": "en",
+    "original_title": "Scary Movie",
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "popularity": 171.6801,
+    "poster_path": "/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
+    "release_date": "2026-06-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.761,
+    "vote_count": 165
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3QEwa9vZFC8PyZgFOKYPZx55nv8.jpg",
+    "genre_ids": [
+      35,
+      53,
+      18
+    ],
+    "id": 1628448,
+    "title": "Maa Behen",
+    "original_language": "hi",
+    "original_title": "माँ बहन",
+    "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+    "popularity": 160.5372,
+    "poster_path": "/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+    "release_date": "2026-06-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nItaRm9Kaz7xVkcIaFmxjlnfrME.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1285959,
+    "title": "The Passenger",
+    "original_language": "en",
+    "original_title": "The Passenger",
+    "overview": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
+    "popularity": 20.5964,
+    "poster_path": "/heFjHLMVmYZWC4uhvPNI0idckwU.jpg",
+    "release_date": "2026-06-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/svMVeFhIrqCUiFLyMtNLJpSAJ06.jpg",
+    "genre_ids": [
+      9648,
+      878
+    ],
+    "id": 1083884,
+    "title": "Signal One",
+    "original_language": "en",
+    "original_title": "Signal One",
+    "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
+    "popularity": 13.6784,
+    "poster_path": "/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+    "release_date": "2026-06-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yKeYZOmBMQUMKpMlJJF8q4riYpl.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1693002,
+    "title": "The Murder of Rachel Nickell",
+    "original_language": "en",
+    "original_title": "The Murder of Rachel Nickell",
+    "overview": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.",
+    "popularity": 11.1855,
+    "poster_path": "/db9nxdSqZ8Mh6RDRreF1HFsz9hx.jpg",
+    "release_date": "2026-06-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.889,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ovzRhiBZjaZXTX5dd36yL9BvGyr.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "id": 1165366,
+    "title": "De Gaulle: Tilting Iron",
+    "original_language": "fr",
+    "original_title": "La Bataille de Gaulle : L’âge de fer",
+    "overview": "June, 1940. France collapses and signs the armistice. In the midst of the chaos, one man refuses to give up. Alone against the odds, this unknown general flees to London to save what remains of freedom.",
+    "popularity": 8.6793,
+    "poster_path": "/tFdosLwBWPwaslsyQP4yUSezxOg.jpg",
+    "release_date": "2026-06-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5RV8HvB5CJXsiA9j49gQvCWPkdo.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1497463,
+    "title": "All That We Never Were",
+    "original_language": "es",
+    "original_title": "Todo lo que nunca fuimos",
+    "overview": "19-year-old Leah navigates a coming-of-age journey in the wake of a tragic car accident that claims her parents. Relocated to a coastal town under the care of her brother’s best friend Axel, Leah grapples with grief, haunting nightmares and a fractured sense of self.",
+    "popularity": 8.003,
+    "poster_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+    "release_date": "2026-06-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.75,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xr8cnK9SdDKdqYiWlBthQcvBJvH.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 1245859,
+    "title": "Savage House",
+    "original_language": "en",
+    "original_title": "Savage House",
+    "overview": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+    "popularity": 6.3755,
+    "poster_path": "/tFWewN33etDjCiteqEkgORNnqcF.jpg",
+    "release_date": "2026-06-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8hUPAKKxU20sq8oyAUnK19zCzsi.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1693201,
+    "title": "Poldi",
+    "original_language": "de",
+    "original_title": "Poldi",
+    "overview": "Footballer, entrepreneur, fan favorite and true community hero — Lukas Podolski reflects on his journey and what comes next in this intimate documentary.",
+    "popularity": 6.499,
+    "poster_path": "/euscz6PC9uHa2oLybmBUtgdyafh.jpg",
+    "release_date": "2026-06-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.167,
+    "vote_count": 3
   }
 ]
