@@ -142187,5 +142187,270 @@
     "video": false,
     "vote_average": 7.0,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1392469,
+    "title": "Cocktail 2",
+    "original_language": "hi",
+    "original_title": "कॉकटेल २",
+    "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+    "popularity": 495.6012,
+    "poster_path": "/sJB5guRMyS6jLo0cLsY8cYBAjzQ.jpg",
+    "release_date": "2026-06-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      12
+    ],
+    "id": 1084244,
+    "title": "Toy Story 5",
+    "original_language": "en",
+    "original_title": "Toy Story 5",
+    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "popularity": 335.2611,
+    "poster_path": "/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+    "release_date": "2026-06-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 192
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1477317,
+    "title": "Your Fault: London",
+    "original_language": "en",
+    "original_title": "Your Fault: London",
+    "overview": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
+    "popularity": 193.8964,
+    "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+    "release_date": "2026-06-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.567,
+    "vote_count": 89
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zZQQ5dd7jq1PfUnWTT9qH4RMf5a.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "id": 1451344,
+    "title": "Husbands in Action",
+    "original_language": "ko",
+    "original_title": "남편들",
+    "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+    "popularity": 121.4054,
+    "poster_path": "/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
+    "release_date": "2026-06-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.806,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 614945,
+    "title": "Voicemails for Isabelle",
+    "original_language": "en",
+    "original_title": "Voicemails for Isabelle",
+    "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+    "popularity": 129.88,
+    "poster_path": "/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+    "release_date": "2026-06-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 97
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "id": 1227241,
+    "title": "Maa Inti Bangaram",
+    "original_language": "te",
+    "original_title": "మా ఇంటి బంగారం",
+    "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+    "popularity": 76.3926,
+    "poster_path": "/kcSxKmOqmF9NzYYQ5nAikIIq1pK.jpg",
+    "release_date": "2026-06-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uHONwBKXLRIT8hxZlAdiLbHVsWv.jpg",
+    "genre_ids": [
+      53,
+      28,
+      80
+    ],
+    "id": 1413976,
+    "title": "Citizen Vigilante",
+    "original_language": "en",
+    "original_title": "Citizen Vigilante",
+    "overview": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both the criminals and the corrupt officials. As his vigilantism increases, so does his public profile, winning public support as a hero figure, as well as the attention of Henry, an Interpol chief, who views him as a threat to society.",
+    "popularity": 26.4938,
+    "poster_path": "/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+    "release_date": "2026-06-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.818,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yw8FhuMvhJSy4zotEuCyk5bZ230.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1284465,
+    "title": "The Death of Robin Hood",
+    "original_language": "en",
+    "original_title": "The Death of Robin Hood",
+    "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+    "popularity": 20.07,
+    "poster_path": "/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg",
+    "release_date": "2026-06-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.25,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xCh7IKmZ9wIYx1hqVYZPsCb71cv.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1397485,
+    "title": "Girls Like Girls",
+    "original_language": "en",
+    "original_title": "Girls Like Girls",
+    "overview": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
+    "popularity": 18.2217,
+    "poster_path": "/lFjtAAK5jCPXdcKIgpVJ54Hm0G0.jpg",
+    "release_date": "2026-06-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ekFr4AyEpwyIHK1R3VOYDXN2PqL.jpg",
+    "genre_ids": [
+      27,
+      10749
+    ],
+    "id": 1564614,
+    "title": "Leviticus",
+    "original_language": "en",
+    "original_title": "Leviticus",
+    "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
+    "popularity": 17.4638,
+    "poster_path": "/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
+    "release_date": "2026-06-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mGhUQkhlzwReHlZFXDBavtjpjwK.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 1716513,
+    "title": "Extreme Makeover: Homer Edition",
+    "original_language": "en",
+    "original_title": "Extreme Makeover: Homer Edition",
+    "overview": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+    "popularity": 7.1041,
+    "poster_path": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+    "release_date": "2026-06-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.769,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1305672,
+    "title": "I Know Who You Are",
+    "original_language": "zh",
+    "original_title": "抓特务",
+    "overview": "On the day of the 1949 Founding Ceremony, Xiao Dali (Lei Jiayin), who has just entered the city to be reorganized as the head of the public security police station, discovers that Feng Jingbo (Hu Ge), an elementary school teacher, is suspected of being suspicious. With the high alertness of a soldier and the sense of responsibility of a public security warrior, he is hard-partnered with Feng Jingbo as a neighbor, exhausting his life through trials and tribulations, and carrying out a nearly four-decade tracking without complaint or regret. The movie is based on Zhang Ce's novel.",
+    "popularity": 5.9119,
+    "poster_path": "/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
+    "release_date": "2026-06-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 1061798,
+    "title": "Jim Queen and the Quest for Chloroqueer",
+    "original_language": "fr",
+    "original_title": "Jim Queen",
+    "overview": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshiped him.",
+    "popularity": 5.7071,
+    "poster_path": "/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
+    "release_date": "2026-06-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.273,
+    "vote_count": 11
   }
 ]
