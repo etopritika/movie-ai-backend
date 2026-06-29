@@ -142452,5 +142452,153 @@
     "video": false,
     "vote_average": 8.273,
     "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+    "genre_ids": [
+      28,
+      35,
+      12,
+      80
+    ],
+    "id": 1169516,
+    "title": "Welcome to the Jungle",
+    "original_language": "hi",
+    "original_title": "Welcome to the Jungle",
+    "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+    "popularity": 597.0734,
+    "poster_path": "/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+    "release_date": "2026-06-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 1081003,
+    "title": "Supergirl",
+    "original_language": "en",
+    "original_title": "Supergirl",
+    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "popularity": 314.5953,
+    "poster_path": "/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+    "release_date": "2026-06-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.174,
+    "vote_count": 213
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "id": 1315772,
+    "title": "Minions & Monsters",
+    "original_language": "en",
+    "original_title": "Minions & Monsters",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "popularity": 88.0015,
+    "poster_path": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+    "release_date": "2026-06-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 950028,
+    "title": "The Invite",
+    "original_language": "en",
+    "original_title": "The Invite",
+    "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+    "popularity": 16.8363,
+    "poster_path": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+    "release_date": "2026-06-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/om1hoP6W0j54esiYMi9meYZ90Vq.jpg",
+    "genre_ids": [
+      28,
+      35,
+      99
+    ],
+    "id": 1612018,
+    "title": "Jackass: Best and Last",
+    "original_language": "en",
+    "original_title": "Jackass: Best and Last",
+    "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+    "popularity": 17.4778,
+    "poster_path": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+    "release_date": "2026-06-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "id": 1165369,
+    "title": "De Gaulle: Liberté",
+    "original_language": "fr",
+    "original_title": "La Bataille de Gaulle : J’écris ton nom",
+    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+    "popularity": 7.6505,
+    "poster_path": "/tcypmwT43pt5jWiUyy2BomyPD1Y.jpg",
+    "release_date": "2026-06-26",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zp8hs6KYg6WXShicqYyUSbjWkxL.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "id": 1717264,
+    "title": "I suffer from depression and my final straw was a man who couldn't light a cigarette",
+    "original_language": "tr",
+    "original_title": "Mesele çakmak değil",
+    "overview": "Set in a tavern in Kadıköy, A young man is supposed to light his friend’s cigarette, but he just can’t get the lighter to work. What seems like a small, almost meaningless moment starts to break the flow of everything around him.",
+    "popularity": 5.6216,
+    "poster_path": "/rSuN4hg2igakTspwKTpMKfkH4hG.jpg",
+    "release_date": "2026-06-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
