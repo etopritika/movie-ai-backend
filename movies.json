@@ -131687,5 +131687,127 @@
     "video": false,
     "vote_average": 5.968,
     "vote_count": 328
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1424435,
+    "title": "Wings of Dread",
+    "original_language": "zh",
+    "original_title": "万米危机",
+    "overview": "Air police officer Gu Chaoyang encounters a hijacking crisis on his flight back to China. With his extremely high professional ethics, he fights desperately to stop the hijacker, and a life-and-death struggle that takes place at an altitude of ten thousand meters begins.",
+    "popularity": 69.085,
+    "poster_path": "/iCnTJwkAMwIvaZgwpPHJJHfV0Er.jpg",
+    "release_date": "2026-07-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1122030,
+    "title": "Alpha",
+    "original_language": "hi",
+    "original_title": "ऐल्फा",
+    "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+    "popularity": 36.9871,
+    "poster_path": "/fQRbBCbqortBDx3PixdpU50oVDj.jpg",
+    "release_date": "2026-07-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+    "genre_ids": [
+      36,
+      28,
+      12,
+      10752
+    ],
+    "id": 1308767,
+    "title": "Young Washington",
+    "original_language": "en",
+    "original_title": "Young Washington",
+    "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+    "popularity": 28.0412,
+    "poster_path": "/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
+    "release_date": "2026-07-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.667,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+    "genre_ids": [
+      80,
+      18,
+      36
+    ],
+    "id": 1155818,
+    "title": "Satluj",
+    "original_language": "hi",
+    "original_title": "ਸਤਲੁਜ",
+    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and extrajudicial killings during the nadir of Punjab’s period of insurgency.",
+    "popularity": 60.7494,
+    "poster_path": "/hm4ou83RwLVwNj3HsmQuqC1qkWy.jpg",
+    "release_date": "2026-07-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+    "genre_ids": [
+      28
+    ],
+    "id": 1705729,
+    "title": "Man of War",
+    "original_language": "en",
+    "original_title": "Man of War",
+    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+    "popularity": 26.4724,
+    "poster_path": "/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+    "release_date": "2026-07-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1662958,
+    "title": "Louis C.K.: Ridiculous",
+    "original_language": "en",
+    "original_title": "Louis C.K.: Ridiculous",
+    "overview": "From a bee getting shot in New York City to paying strangers to take his aging father, Louis C.K. unleashes the ridiculous thoughts in his mind.",
+    "popularity": 7.5507,
+    "poster_path": "/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
+    "release_date": "2026-06-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.143,
+    "vote_count": 7
   }
 ]
