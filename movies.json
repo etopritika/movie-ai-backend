@@ -131809,5 +131809,226 @@
     "video": false,
     "vote_average": 5.143,
     "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35,
+      12
+    ],
+    "id": 1108427,
+    "title": "Moana",
+    "original_language": "en",
+    "original_title": "Moana",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "popularity": 328.2038,
+    "poster_path": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+    "release_date": "2026-07-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 67
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1212763,
+    "title": "Evil Dead Burn",
+    "original_language": "en",
+    "original_title": "Evil Dead Burn",
+    "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+    "popularity": 135.9054,
+    "poster_path": "/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "release_date": "2026-07-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.99,
+    "vote_count": 96
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1484913,
+    "title": "Ikka",
+    "original_language": "hi",
+    "original_title": "Ikka",
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+    "popularity": 44.2866,
+    "poster_path": "/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+    "release_date": "2026-07-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.389,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "id": 1710008,
+    "title": "Nothing to Lose",
+    "original_language": "fr",
+    "original_title": "Jusqu'au bout",
+    "overview": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him — no matter the cost.",
+    "popularity": 34.5675,
+    "poster_path": "/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
+    "release_date": "2026-07-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.25,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1715492,
+    "title": "Shipwrecked: Nightmare at Sea",
+    "original_language": "en",
+    "original_title": "Shipwrecked: Nightmare at Sea",
+    "overview": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+    "popularity": 24.3581,
+    "poster_path": "/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+    "release_date": "2026-07-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.088,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
+    "genre_ids": [
+      18,
+      35,
+      28
+    ],
+    "id": 1491920,
+    "title": "Kung Fu Soccer",
+    "original_language": "zh",
+    "original_title": "功夫女足",
+    "overview": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
+    "popularity": 26.1086,
+    "poster_path": "/6QgJQrClh9ej357yzLWgCxrjAmJ.jpg",
+    "release_date": "2026-07-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jniLnTgiByfdrRvb9UUlCQy4mfo.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10749
+    ],
+    "id": 1408170,
+    "title": "Lenin",
+    "original_language": "te",
+    "original_title": "లెనిన్",
+    "overview": "Young, urban-raised Vladimir Lenin's peaceful romance with Bharti inadvertently sparks a violent, large-scale village conflict.",
+    "popularity": 16.1836,
+    "poster_path": "/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+    "release_date": "2026-07-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1722713,
+    "title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+    "original_language": "es",
+    "original_title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+    "overview": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
+    "popularity": 13.972,
+    "poster_path": "/y8PN5CRJZf6PSbY5teEMR4eBHcw.jpg",
+    "release_date": "2026-07-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.75,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/izU1W6ljGsjoSpBC1SSyl72112f.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "id": 1566481,
+    "title": "Marave",
+    "original_language": "fr",
+    "original_title": "Marave",
+    "overview": "It follows Manolo, a gentle, naive fairground worker. When their father gets sick, Manolo reunites with his older brother Georges, a con man who abandoned the family twenty years ago. Desperate to prove he is not a failure, Georges schemes to turn the physically strong Manolo into an MMA (Mixed Martial Arts) champion.",
+    "popularity": 10.4562,
+    "poster_path": "/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
+    "release_date": "2026-07-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1310677,
+    "title": "Hana Korea",
+    "original_language": "ko",
+    "original_title": "하나 코리아",
+    "overview": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
+    "popularity": 5.0609,
+    "poster_path": "/3jsyjgLCPfUPI3d0P9iJrVUrULg.jpg",
+    "release_date": "2026-07-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/saKufX0yW9JyejqrTjzXu9X5Nq4.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1596260,
+    "title": "Night Nurse",
+    "original_language": "en",
+    "original_title": "Night Nurse",
+    "overview": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
+    "popularity": 5.5708,
+    "poster_path": "/ijZE5bT0FK638p4FtLozd9SFFKQ.jpg",
+    "release_date": "2026-07-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
