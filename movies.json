@@ -132030,5 +132030,127 @@
     "video": false,
     "vote_average": 10.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "id": 1368337,
+    "title": "The Odyssey",
+    "original_language": "en",
+    "original_title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "popularity": 746.6132,
+    "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "release_date": "2026-07-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.815,
+    "vote_count": 679
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+    "genre_ids": [
+      14,
+      10751,
+      10770
+    ],
+    "id": 1318621,
+    "title": "Descendants: Wicked Wonderland",
+    "original_language": "en",
+    "original_title": "Descendants: Wicked Wonderland",
+    "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
+    "popularity": 169.3593,
+    "poster_path": "/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+    "release_date": "2026-07-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 57
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1468683,
+    "title": "Heartstopper Forever",
+    "original_language": "en",
+    "original_title": "Heartstopper Forever",
+    "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+    "popularity": 53.1957,
+    "poster_path": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+    "release_date": "2026-07-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.856,
+    "vote_count": 97
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+    "genre_ids": [
+      878,
+      9648,
+      28
+    ],
+    "id": 1058424,
+    "title": "Hope",
+    "original_language": "ko",
+    "original_title": "호프",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "popularity": 34.5624,
+    "poster_path": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+    "release_date": "2026-07-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.083,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fXUxAL8w724dI9yT5UbwJuk29K9.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1731494,
+    "title": "The Odyssey: The Making of an Epic",
+    "original_language": "en",
+    "original_title": "The Odyssey: The Making of an Epic",
+    "overview": "Go behind the scenes of Christopher Nolan's mythic action epic, The Odyssey. This special documentary explores the monumental undertaking of adapting Homer’s foundational saga for the big screen, charting a grueling 91-day principal photography schedule across six countries. From the revolutionary use of brand-new IMAX film technology to the massive coordination of over 5,300 custom-designed costumes, discover how a star-studded cast led by Matt Damon, Tom Holland, and Anne Hathaway brought the dangerous, timeless world of ancient Greek gods and monsters to life.",
+    "popularity": 6.303,
+    "poster_path": "/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+    "release_date": "2026-07-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9NkPCbhywlcINLUKQOGNHNp1ALk.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1473505,
+    "title": "Kill Trip",
+    "original_language": "en",
+    "original_title": "Kill Trip",
+    "overview": "On the way to a Texas music festival, a group of friends catches a ride with a magnetic van driver. But when people start vanishing, the real headliner becomes survival.",
+    "popularity": 7.1446,
+    "poster_path": "/qHEXW63p1NcuoyCGQHDroi4HV9V.jpg",
+    "release_date": "2026-07-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2
   }
 ]
