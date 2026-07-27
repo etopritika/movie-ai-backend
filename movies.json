@@ -132152,5 +132152,269 @@
     "video": false,
     "vote_average": 7.5,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "id": 980431,
+    "title": "Avatar Aang: The Last Airbender",
+    "original_language": "en",
+    "original_title": "Avatar Aang: The Last Airbender",
+    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+    "popularity": 236.1374,
+    "poster_path": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "release_date": "2026-07-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 9.398,
+    "vote_count": 250
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 1630409,
+    "title": "The Debt Collector",
+    "original_language": "th",
+    "original_title": "คนเดือดทวงแค้น",
+    "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
+    "popularity": 214.3933,
+    "poster_path": "/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
+    "release_date": "2026-07-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "id": 949838,
+    "title": "72 HOURS",
+    "original_language": "en",
+    "original_title": "72 HOURS",
+    "overview": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
+    "popularity": 109.6598,
+    "poster_path": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "release_date": "2026-07-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.632,
+    "vote_count": 121
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1235877,
+    "title": "Jana Nayagan",
+    "original_language": "ta",
+    "original_title": "ஜன நாயகன்",
+    "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+    "popularity": 91.0798,
+    "poster_path": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+    "release_date": "2026-07-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tJQhL95q63ITeBy5OTGPx51sFks.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1361774,
+    "title": "The Dink",
+    "original_language": "en",
+    "original_title": "The Dink",
+    "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+    "popularity": 75.0623,
+    "poster_path": "/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+    "release_date": "2026-07-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.298,
+    "vote_count": 42
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "id": 1487861,
+    "title": "Elize: Shadows of a Woman",
+    "original_language": "pt",
+    "original_title": "Elize: Sombras de uma Mulher",
+    "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+    "popularity": 66.9419,
+    "poster_path": "/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+    "release_date": "2026-07-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 42
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "id": 1659155,
+    "title": "The Truthers",
+    "original_language": "es",
+    "original_title": "Los creyentes",
+    "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+    "popularity": 52.9506,
+    "poster_path": "/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+    "release_date": "2026-07-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cYEu96qXUFilbHPw7yP3qi0SQle.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 87513,
+    "title": "Motor City",
+    "original_language": "en",
+    "original_title": "Motor City",
+    "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+    "popularity": 24.669,
+    "poster_path": "/lGovcOtxugJPhfJjFKud9EbWtOA.jpg",
+    "release_date": "2026-07-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+    "genre_ids": [
+      27,
+      14,
+      9648
+    ],
+    "id": 1232569,
+    "title": "Pinocchio: Unstrung",
+    "original_language": "en",
+    "original_title": "Pinocchio: Unstrung",
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "popularity": 22.523,
+    "poster_path": "/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
+    "release_date": "2026-07-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i7H0lDSNVWdQJ5vVUudkpMp7iaE.jpg",
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "id": 1469342,
+    "title": "Her Private Hell",
+    "original_language": "en",
+    "original_title": "Her Private Hell",
+    "overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+    "popularity": 18.8794,
+    "poster_path": "/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
+    "release_date": "2026-07-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1723460,
+    "title": "A Toxic Love Story",
+    "original_language": "en",
+    "original_title": "A Toxic Love Story",
+    "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+    "popularity": 17.368,
+    "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+    "release_date": "2026-07-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1728954,
+    "title": "My Grandfather Charles Manson",
+    "original_language": "en",
+    "original_title": "My Grandfather Charles Manson",
+    "overview": "Sophia was always the good girl growing up and her father's rock, but her quest to identify her unknown grandfather results in a shocking discovery: He is Charles Manson, history's most notorious criminal; and he bears striking physical similarities to her beloved father. Sophia's discovery propels her into an underworld of Manson family members and unreliable narrators as she traces her grandfather's life. Along the way, her genetics unlock never-before-released records and audio recordings that illuminate Manson's pathology in startling ways. But the more Sophia uncovers, the more her relationship with her father is strained. For Sophia, there's no turning back. What has she inherited, and how will she reckon with her family legacy?",
+    "popularity": 8.8864,
+    "poster_path": "/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+    "release_date": "2026-07-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+    "genre_ids": [
+      28
+    ],
+    "id": 1628071,
+    "title": "Ip Man: Kung Fu Legend",
+    "original_language": "zh",
+    "original_title": "宗师叶问2",
+    "overview": "In 1950s Hong Kong, British merchants and Chinese triads have joined forces to expand their territory, forcibly demolishing factories without regard for public welfare. This move draws fierce opposition from Ip Man, standing up for the workers, he faces pressure from all sides. Framed for murder, he is sent to prison. Within the prison walls, the triads set multiple deadly traps. Can Ip Man overcome these trials, escape the danger, and clear his name?",
+    "popularity": 7.9346,
+    "poster_path": "/m3Low6jJrKXHSYFpXNkmYsG1Q6I.jpg",
+    "release_date": "2026-07-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 3
   }
 ]
