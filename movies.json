@@ -99287,5 +99287,189 @@
     "video": false,
     "vote_average": 8.1,
     "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 1284041,
+    "title": "The Last House",
+    "original_language": "en",
+    "original_title": "The Last House",
+    "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+    "popularity": 353.8834,
+    "poster_path": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+    "release_date": "2026-08-06",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.644,
+    "vote_count": 303
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1477712,
+    "title": "Ice Cream Man",
+    "original_language": "en",
+    "original_title": "Ice Cream Man",
+    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "popularity": 60.6443,
+    "poster_path": "/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+    "release_date": "2026-08-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
+    "genre_ids": [
+      10749,
+      28,
+      18
+    ],
+    "id": 1479832,
+    "title": "DC",
+    "original_language": "ta",
+    "original_title": "டிசி",
+    "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+    "popularity": 40.3363,
+    "poster_path": "/5W6KQtQRFjubNlpw50w92znghRo.jpg",
+    "release_date": "2026-08-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 1329016,
+    "title": "Tony",
+    "original_language": "en",
+    "original_title": "Tony",
+    "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "popularity": 20.2202,
+    "poster_path": "/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+    "release_date": "2026-08-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "genre_ids": [
+      16,
+      14,
+      18,
+      28
+    ],
+    "id": 1679730,
+    "title": "THE RIBBON HERO",
+    "original_language": "ja",
+    "original_title": "THE RIBBON HERO リボンヒーロー",
+    "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+    "popularity": 20.2393,
+    "poster_path": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+    "release_date": "2026-08-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oU2H07DQVjGMp2vUgrYzso36v15.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "id": 675871,
+    "title": "Super Troopers 3",
+    "original_language": "en",
+    "original_title": "Super Troopers 3",
+    "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
+    "popularity": 14.8222,
+    "poster_path": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+    "release_date": "2026-08-06",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hEVjc0rdp7XzvqKyysPu73TLDdw.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "id": 1391021,
+    "title": "Once Upon a Time in the Middle East",
+    "original_language": "zh",
+    "original_title": "欢迎来龙餐馆",
+    "overview": "Xu Fu travels to the Middle East to work as a chef in a Chinese restaurant to pay off family debts, where he meets floor manager Ma Junsheng. Their Dragon Restaurant rises to fame, attracting crowds with authentic‑tasting Chinese food. But war breaks out, and local conditions take a drastic turn for the worse. No one can remain unaffected. What lies ahead for them? And how will the Dragon Restaurant hold on amid the war?",
+    "popularity": 23.2646,
+    "poster_path": "/wAuGgXjA7GV8NrKfmUKl2AP8vqG.jpg",
+    "release_date": "2026-08-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4D7rf8XqGsKXebUKgT2jidGstKp.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 1739639,
+    "title": "RAGEBAIT",
+    "original_language": "en",
+    "original_title": "RAGEBAIT",
+    "overview": "On Halloween night, a socially parasitic live streamer becomes the target of a malevolent entity after a mysterious viewer curses his stream and forces him to watch a collection of cursed videos from missing content creators.",
+    "popularity": 6.8158,
+    "poster_path": "/lcUufwF6o3n6VF6PMLt0uUZLTOM.jpg",
+    "release_date": "2026-08-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xLJgxU9hTga9tsFw960g1h1uDvx.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1421594,
+    "title": "Inside the Trustor Scandal",
+    "original_language": "sv",
+    "original_title": "Trustorhärvan",
+    "overview": "For the first time since 1997, Joachim Posener finally emerges from hiding and allows himself to be interviewed about his life and the Trustor affair. Twenty-seven years ago, he disappeared without a trace, and ever since, he has been on the international most wanted list. Now, Karin af Klintberg searches for him to find out how he lives and where he's been hiding all these years. But perhaps above all, to uncover what everyone is wondering: Was he guilty? Through new and opposing testimonies from never-before-heard voices, Karin simultaneously continues the search for the truth about the coup. How could five people swindle 600 million kr and still go free? And where did the money actually go?",
+    "popularity": 10.2497,
+    "poster_path": "/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
+    "release_date": "2026-08-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.75,
+    "vote_count": 4
   }
 ]
