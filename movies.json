@@ -99680,5 +99680,287 @@
     "video": false,
     "vote_average": 9.0,
     "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1288445,
+    "title": "Mutiny",
+    "original_language": "en",
+    "original_title": "Mutiny",
+    "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "popularity": 532.9923,
+    "poster_path": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+    "release_date": "2026-08-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 125
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "id": 1538273,
+    "title": "Pyaar Prema Kalyanam",
+    "original_language": "ta",
+    "original_title": "ப்யார் ப்ரேமா கல்யாணம்",
+    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+    "popularity": 103.5313,
+    "poster_path": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "release_date": "2026-08-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1291595,
+    "title": "Insidious: Out of the Further",
+    "original_language": "en",
+    "original_title": "Insidious: Out of the Further",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "popularity": 102.7501,
+    "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "release_date": "2026-08-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+    "genre_ids": [
+      80,
+      28,
+      53
+    ],
+    "id": 1621552,
+    "title": "Facing El Chapo",
+    "original_language": "es",
+    "original_title": "La captura",
+    "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+    "popularity": 234.2102,
+    "poster_path": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+    "release_date": "2026-08-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.609,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "id": 1676318,
+    "title": "Back to the 90s",
+    "original_language": "de",
+    "original_title": "Back to the 90s",
+    "overview": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
+    "popularity": 39.5128,
+    "poster_path": "/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg",
+    "release_date": "2026-08-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1341138,
+    "title": "Spa Weekend",
+    "original_language": "en",
+    "original_title": "Spa Weekend",
+    "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+    "popularity": 27.16,
+    "poster_path": "/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+    "release_date": "2026-08-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iyJc33L3SCOkNrt7lTHITcZtGkx.jpg",
+    "genre_ids": [
+      16,
+      14,
+      35,
+      12
+    ],
+    "id": 1732625,
+    "title": "LEGO Disney Princess: Magical Mayhem",
+    "original_language": "en",
+    "original_title": "LEGO Disney Princess: Magical Mayhem",
+    "overview": "During a heavy rainstorm, the Princess characters and their sidekick friends take in animals in need while enjoying a cozy day in their castle. But when the animals run amok, chaos erupts. Sleuthing reveals a mischievous villain behind it all, and with teamwork, quick thinking, and help from an unexpected friend, the Princess characters must restore order and save their home.",
+    "popularity": 32.1588,
+    "poster_path": "/xNA3Ub2MsAvbyg1GlDrrUQI2Kru.jpg",
+    "release_date": "2026-08-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.75,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/155LhAj1BYgDM8mhWLViL3pjp1a.jpg",
+    "genre_ids": [
+      35,
+      12,
+      10751
+    ],
+    "id": 1204680,
+    "title": "Coyote vs. Acme",
+    "original_language": "en",
+    "original_title": "Coyote vs. Acme",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "popularity": 25.4287,
+    "poster_path": "/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+    "release_date": "2026-08-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.429,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "id": 1036081,
+    "title": "Khalifa: The Ruler",
+    "original_language": "ml",
+    "original_title": "ഖലീഫ: The Ruler",
+    "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+    "popularity": 13.3145,
+    "poster_path": "/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+    "release_date": "2026-08-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1741201,
+    "title": "Chompoo: Lost​ &​ Forgotten​",
+    "original_language": "th",
+    "original_title": "คดีชมพู่:​ เด็กหายที่ถูกลืม",
+    "overview": "When a young girl vanishes from a remote village, the frantic police hunt become a media frenzy. But who turned a suspected criminal into a celebrity?",
+    "popularity": 9.7495,
+    "poster_path": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+    "release_date": "2026-08-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1510517,
+    "title": "Atlas King",
+    "original_language": "en",
+    "original_title": "Atlas King",
+    "overview": "Ex-fighter returns from exile to bury his best friend and confront old rivalries. Reuniting with his godson, a streetwise enforcer entangled with a powerful crime syndicate, the two hatch a high-stakes heist in a desperate bid to escape the grip of a ruthless mob bos",
+    "popularity": 9.06,
+    "poster_path": "/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+    "release_date": "2026-08-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1626188,
+    "title": "Novak Djokovic: The Wolf in Winter",
+    "original_language": "en",
+    "original_title": "Novak Djokovic: The Wolf in Winter",
+    "overview": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
+    "popularity": 7.4126,
+    "poster_path": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+    "release_date": "2026-08-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "id": 1508168,
+    "title": "Bethlehem Kudumba Unit",
+    "original_language": "ml",
+    "original_title": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+    "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+    "popularity": 8.0197,
+    "poster_path": "/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+    "release_date": "2026-08-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1567937,
+    "title": "V",
+    "original_language": "cn",
+    "original_title": "空枪",
+    "overview": "An ambitious young man, Geng Jie, ventures to Xicheng, achieves success through daring enterprise, but finds himself entangled in a difficult struggle for survival and drawn into a dangerous vortex after meeting a flight attendant and pursuing a stable life.",
+    "popularity": 7.1588,
+    "poster_path": "/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+    "release_date": "2026-08-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 2
   }
 ]
