@@ -131265,5 +131265,254 @@
     "video": false,
     "vote_average": 5.8,
     "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1386315,
+    "title": "The Runner",
+    "original_language": "en",
+    "original_title": "The Runner",
+    "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+    "popularity": 325.554,
+    "poster_path": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+    "release_date": "2026-09-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.752,
+    "vote_count": 301
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+    "genre_ids": [
+      10770,
+      10751,
+      878,
+      28,
+      35
+    ],
+    "id": 1506560,
+    "title": "Clash of the Thundermans",
+    "original_language": "en",
+    "original_title": "Clash of the Thundermans",
+    "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+    "popularity": 214.2234,
+    "poster_path": "/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+    "release_date": "2026-09-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+    "genre_ids": [
+      16,
+      878,
+      12,
+      10751,
+      28
+    ],
+    "id": 1731694,
+    "title": "LEGO Star Wars: The Mandalorian",
+    "original_language": "en",
+    "original_title": "LEGO Star Wars: The Mandalorian",
+    "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+    "popularity": 60.0394,
+    "poster_path": "/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+    "release_date": "2026-09-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.053,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+    "genre_ids": [
+      36,
+      80,
+      18,
+      53
+    ],
+    "id": 1380417,
+    "title": "By Any Means",
+    "original_language": "en",
+    "original_title": "By Any Means",
+    "overview": "In 1960s Mississippi, young Black FBI agent Wayne Strider is sent to investigate a wave of brutal killings targeting civil rights leaders. Forced to work alongside notorious mafia hitman Greg Scarpa, Strider finds himself pulled into a deadly hunt where the lines of justice and vengeance begin to blur.",
+    "popularity": 31.7126,
+    "poster_path": "/f4hdIed8vh10O8TkQ1CkHS8MQ3G.jpg",
+    "release_date": "2026-09-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.091,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nTkQBI8ldvPByIkxsemGxtKlr8E.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "id": 1378537,
+    "title": "Mirzapur: The Movie",
+    "original_language": "hi",
+    "original_title": "मिर्ज़ापुर - द मूवी",
+    "overview": "The battle for Mirzapur’s throne intensifies as old enemies resurface and a new threat emerges in the form of Babban Babua, a ruthless businessman from Jaisalmer with ambitions of his own. As the Tripathis face enemies from both the past and present, loyalties are tested while Guddu and Bablu Pandit fight to establish themselves in the power struggle for Mirzapur.",
+    "popularity": 19.4539,
+    "poster_path": "/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+    "release_date": "2026-09-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1752159,
+    "title": "Turning Point: Generation 9/11",
+    "original_language": "en",
+    "original_title": "Turning Point: Generation 9/11",
+    "overview": "A quarter-century after September 11th, the attacks' ripple effects persist across generations. Orphaned children, War on Terror journalists, young Afghans, and U.S. Marines shaped by the 2021 withdrawal share their stories.",
+    "popularity": 15.9822,
+    "poster_path": "/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+    "release_date": "2026-09-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.857,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "id": 1530121,
+    "title": "The Girl in the River",
+    "original_language": "en",
+    "original_title": "The Girl in the River",
+    "overview": "A seasoned criminologist and a young female psychologist are lured to a remote Mississippi town to investigate the murder of a little girl and the disappearance of her twin sister.",
+    "popularity": 16.2816,
+    "poster_path": "/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+    "release_date": "2026-09-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xQbHmeJdT95pSDMzP92CrvjceBh.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "id": 1742458,
+    "title": "Confinement",
+    "original_language": "en",
+    "original_title": "Confinement",
+    "overview": "Pregnant and recently widowed, Stella is taken in by her late husband’s estranged family. But beneath their generosity lies something deeply unsettling, leaving Stella fighting for her life as their obsession with her unborn child turns deadly.",
+    "popularity": 12.4443,
+    "poster_path": "/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
+    "release_date": "2026-09-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1739202,
+    "title": "Untold: Raygun: Breaking Badly",
+    "original_language": "en",
+    "original_title": "Untold: Raygun: Breaking Badly",
+    "overview": "Nobody, least of all Rachael Gunn, expected to be an Olympian. But as Raygun’s performance at the 2024 Paris Olympics went viral overnight, so did an avalanche of memes, misinformation, and conspiracy theories questioning how she ever got there.",
+    "popularity": 9.9127,
+    "poster_path": "/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+    "release_date": "2026-09-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "id": 1744876,
+    "title": "Fito Páez: The World Within a Song",
+    "original_language": "es",
+    "original_title": "Fito Páez: El mundo cabe en una canción",
+    "overview": "A documentary film that observes, listens to, and interacts with Fito Páez from a place of profound intimacy. The camera, almost invisible, witnesses his every move, accompanying him for over a year during recordings, rehearsals, tours, and performances in major cities across Latin America, Europe, and the United States. It is also a journey through the life of one of the greatest Spanish-language artists: his loves and heartbreaks, children and friendships, excesses, tragedies, failures, and successes.",
+    "popularity": 8.6574,
+    "poster_path": "/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg",
+    "release_date": "2026-09-03",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.111,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vBLVwTwtAquT9G6k2oBuj9wThA6.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "id": 1364401,
+    "title": "Come with Me",
+    "original_language": "en",
+    "original_title": "Come with Me",
+    "overview": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
+    "popularity": 7.5849,
+    "poster_path": "/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg",
+    "release_date": "2026-09-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1760262,
+    "title": "Instadocs: The Decoy Plane",
+    "original_language": "en",
+    "original_title": "Instadocs: The Decoy Plane",
+    "overview": "A critical threat. A clandestine escape. And a Turkish catering truck? With firsthand accounts, \"Instadocs\" digs into what happened aboard Air Force One.",
+    "popularity": 8.9093,
+    "poster_path": "/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+    "release_date": "2026-09-04",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 4
   }
 ]
