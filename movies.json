@@ -131817,5 +131817,290 @@
     "video": false,
     "vote_average": 9.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+    "genre_ids": [
+      27,
+      878,
+      12
+    ],
+    "id": 1423191,
+    "title": "Resident Evil",
+    "original_language": "en",
+    "original_title": "Resident Evil",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "popularity": 525.4108,
+    "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+    "release_date": "2026-09-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.343,
+    "vote_count": 230
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1641629,
+    "title": "You+Me - Against the World",
+    "original_language": "fr",
+    "original_title": "Toi+Moi - Seuls contre tous",
+    "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+    "popularity": 88.8837,
+    "poster_path": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+    "release_date": "2026-09-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 1318467,
+    "title": "The Last Kiss",
+    "original_language": "en",
+    "original_title": "The Last Kiss",
+    "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+    "popularity": 80.1672,
+    "poster_path": "/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+    "release_date": "2026-09-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.417,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1514863,
+    "title": "Best of the Best",
+    "original_language": "en",
+    "original_title": "Best of the Best",
+    "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+    "popularity": 53.413,
+    "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "release_date": "2026-09-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.167,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kgZFECKytirVvmIbWF6slEoWZng.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1451944,
+    "title": "Lust Stories 3",
+    "original_language": "hi",
+    "original_title": "Lust Stories 3",
+    "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
+    "popularity": 54.1179,
+    "poster_path": "/feBkcOeda0X505mPyyyeGuuS9Ct.jpg",
+    "release_date": "2026-09-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "genre_ids": [
+      12,
+      53,
+      18
+    ],
+    "id": 1263337,
+    "title": "Heart of the Beast",
+    "original_language": "en",
+    "original_title": "Heart of the Beast",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "popularity": 35.4449,
+    "poster_path": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "release_date": "2026-09-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zLeq2fbHU6UdA7mhsYnIULORTgq.jpg",
+    "genre_ids": [
+      18,
+      53,
+      80
+    ],
+    "id": 1433583,
+    "title": "The Weight",
+    "original_language": "en",
+    "original_title": "The Weight",
+    "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+    "popularity": 26.5524,
+    "poster_path": "/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+    "release_date": "2026-09-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.682,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5LINHN9KrzfYZxogKlTCcvR1Gki.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1643135,
+    "title": "Run Hide Fight: Infidels",
+    "original_language": "en",
+    "original_title": "Run Hide Fight: Infidels",
+    "overview": "After Islamist terrorists hijack a college's pro-Palestine encampment with the goal of enforcing Sharia law on students and executing dissidents whom they deem \"infidels\", a group of students, a security guard, and a Delta Force veteran team up to fight back.",
+    "popularity": 22.0726,
+    "poster_path": "/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
+    "release_date": "2026-09-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6zSEAfAlwku2bpmQNUkeGtpI5uh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1706702,
+    "title": "Daniel and the Fiery Furnace",
+    "original_language": "en",
+    "original_title": "Daniel and the Fiery Furnace",
+    "overview": "During the Jewish exile to Babylon, Daniel and his friends face trials as Babylon's armies conquer Jerusalem. Under King Nebuchadnezzar, they gain royal favor but make enemies. Their faith is tested at the fiery furnace.",
+    "popularity": 11.2783,
+    "poster_path": "/leE7dixdbzHXUBJdQgW1fFHz0ru.jpg",
+    "release_date": "2026-09-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+    "genre_ids": [
+      878,
+      18,
+      53
+    ],
+    "id": 1751701,
+    "title": "After Impact",
+    "original_language": "en",
+    "original_title": "After Impact",
+    "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
+    "popularity": 7.4573,
+    "poster_path": "/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+    "release_date": "2026-09-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.833,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ozpCKXUhZjhH3mM6GzC5dnvXcSF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1473148,
+    "title": "Gentle Monster",
+    "original_language": "de",
+    "original_title": "Gentle Monster",
+    "overview": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
+    "popularity": 5.7341,
+    "poster_path": "/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
+    "release_date": "2026-09-17",
+    "softcore": false,
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tNBIV77HHlM7rJzmZE5VqA1ciEA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1760576,
+    "title": "Zakir Khan: Papa Yaar",
+    "original_language": "hi",
+    "original_title": "Zakir Khan: Papa Yaar",
+    "overview": "Zakir Khan reflects on his childhood and the special bond he shares with his father, turning personal memories and family experiences into heartfelt comedy. With his signature blend of observational humour, poetry and emotional storytelling, he explores the unspoken sides of fatherhood and the relationship between a father and son.",
+    "popularity": 8.6726,
+    "poster_path": "/layTkFN24JouxXQpYyMIn8WxBrB.jpg",
+    "release_date": "2026-09-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/idDjW45hpz155Z4eb5hPu4WrouT.jpg",
+    "genre_ids": [
+      14,
+      18,
+      35,
+      28,
+      10402,
+      10749
+    ],
+    "id": 1763711,
+    "title": "Hyper Misao Produce ~HYPE!4~",
+    "original_language": "ja",
+    "original_title": "ハイパーミサヲプロデュース興行『HYPE!4』",
+    "overview": "Chika Nanase trains by herself during a night at the Kanda Myōjin shrine in Tokyo, and after finishing her prayer, she finds Hyper Misao's mask on the ground in front of her. Next thing she knows, she is pulled into another world - instead of Kanda Myōjin, Nanase is now in a realm called Can Do Myōjin! Surprisingly emotional shenanigans ensue.",
+    "popularity": 6.4335,
+    "poster_path": "/kU3TDb8bolL9BM2JaMg3Hu5645w.jpg",
+    "release_date": "2026-09-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 890216,
+    "title": "Pacific",
+    "original_language": "es",
+    "original_title": "Pacífico",
+    "overview": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
+    "popularity": 5.2677,
+    "poster_path": "/d82R7azyhAtxQME2Vngrc89OcD4.jpg",
+    "release_date": "2026-09-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
