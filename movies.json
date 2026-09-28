@@ -132102,5 +132102,268 @@
     "video": false,
     "vote_average": 10.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1032863,
+    "title": "The Love Hypothesis",
+    "original_language": "en",
+    "original_title": "The Love Hypothesis",
+    "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+    "popularity": 329.2336,
+    "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+    "release_date": "2026-09-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.196,
+    "vote_count": 326
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1607127,
+    "title": "One Last Shot",
+    "original_language": "en",
+    "original_title": "One Last Shot",
+    "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+    "popularity": 182.4947,
+    "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+    "release_date": "2026-09-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.603,
+    "vote_count": 63
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "id": 1492640,
+    "title": "UNABOMBER",
+    "original_language": "en",
+    "original_title": "UNABOMBER",
+    "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+    "popularity": 180.2172,
+    "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+    "release_date": "2026-09-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.99,
+    "vote_count": 155
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+    "genre_ids": [
+      80,
+      53,
+      18
+    ],
+    "id": 1375441,
+    "title": "Primetime",
+    "original_language": "en",
+    "original_title": "Primetime",
+    "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+    "popularity": 94.564,
+    "poster_path": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "release_date": "2026-09-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.23,
+    "vote_count": 50
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "id": 1376856,
+    "title": "The Paradise",
+    "original_language": "te",
+    "original_title": "ది ప్యారడైస్",
+    "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+    "popularity": 25.512,
+    "poster_path": "/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
+    "release_date": "2026-09-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1291366,
+    "title": "The Deputy",
+    "original_language": "en",
+    "original_title": "The Deputy",
+    "overview": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
+    "popularity": 18.6809,
+    "poster_path": "/qL654LNOfBu49e12jnnQIv6mny.jpg",
+    "release_date": "2026-09-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "id": 1422041,
+    "title": "La bola negra",
+    "original_language": "es",
+    "original_title": "La bola negra",
+    "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+    "popularity": 17.832,
+    "poster_path": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+    "release_date": "2026-09-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.389,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nkINWVL8x1KwdpO0dUbYhS3Y1iP.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1503762,
+    "title": "Sense and Sensibility",
+    "original_language": "en",
+    "original_title": "Sense and Sensibility",
+    "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "popularity": 13.46,
+    "poster_path": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "release_date": "2026-09-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1483525,
+    "title": "Possible Love",
+    "original_language": "ko",
+    "original_title": "가능한 사랑",
+    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+    "popularity": 11.6245,
+    "poster_path": "/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+    "release_date": "2026-09-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wNj3vgm13CyKb04xIq7NQ8zTY1e.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1126097,
+    "title": "Charlie Harper",
+    "original_language": "en",
+    "original_title": "Charlie Harper",
+    "overview": "The journey of two young souls, Charlie and Harper, as they meet, leave their respective homes, and attempt to build a life together in a new city. As the driven and ambitious Harper works to build a career as a chef, and the brilliant-yet-stuck Charlie struggles to get himself on track, their relationship faces growing challenges.",
+    "popularity": 9.3759,
+    "poster_path": "/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
+    "release_date": "2026-09-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xnGBwwD9QjeQeRKzDEVp0cNAEFe.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1529372,
+    "title": "Don't Be Shy!",
+    "original_language": "hi",
+    "original_title": "डोंट बी शाय!",
+    "overview": "Quintessential Mean Girl, Shyamili ‘Shy’ Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected… Mayank’s new girlfriend - Tara.",
+    "popularity": 12.2706,
+    "poster_path": "/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg",
+    "release_date": "2026-09-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "id": 1437396,
+    "title": "Your Mother Your Mother Your Mother",
+    "original_language": "en",
+    "original_title": "Your Mother Your Mother Your Mother",
+    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
+    "popularity": 8.6595,
+    "poster_path": "/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "release_date": "2026-09-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1755291,
+    "title": "NAZA",
+    "original_language": "en",
+    "original_title": "NAZA",
+    "overview": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+    "popularity": 7.8874,
+    "poster_path": "/uLsG2CW8oHnmXWdtPyruSegI8rF.jpg",
+    "release_date": "2026-09-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
   }
 ]
