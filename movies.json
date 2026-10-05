@@ -148546,5 +148546,285 @@
     "video": false,
     "vote_average": 6.2,
     "vote_count": 263
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "id": 1599191,
+    "title": "Renegade Immortal: Battle of the Immortal Slayer",
+    "original_language": "zh",
+    "original_title": "仙逆剧场版：弑仙之战",
+    "overview": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
+    "popularity": 432.5374,
+    "poster_path": "/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+    "release_date": "2026-10-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1458857,
+    "title": "Doing Life",
+    "original_language": "en",
+    "original_title": "Doing Life",
+    "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+    "popularity": 73.5983,
+    "poster_path": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+    "release_date": "2026-10-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 56
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 1437195,
+    "title": "Livestream from Hell",
+    "original_language": "en",
+    "original_title": "Livestream from Hell",
+    "overview": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
+    "popularity": 51.3116,
+    "poster_path": "/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+    "release_date": "2026-09-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.769,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1763619,
+    "title": "Crazy Rich, Incredibly Broke",
+    "original_language": "ar",
+    "original_title": "المهايطية",
+    "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
+    "popularity": 41.8028,
+    "poster_path": "/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+    "release_date": "2026-10-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1439171,
+    "title": "Traces of Justice",
+    "original_language": "zh",
+    "original_title": "神探之痕迹",
+    "overview": "The film follows criminal police officer Cui Xun over half a century of investigative work. Alongside his colleagues, he solved numerous major cases while staying true to his original aspiration of 'serving the people.' This legendary detective not only witnessed the evolution of China's public security system but also stood as a living testament to the rise of New China.",
+    "popularity": 40.2568,
+    "poster_path": "/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+    "release_date": "2026-10-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648,
+      80
+    ],
+    "id": 1269325,
+    "title": "Drishyam: The Conclusion",
+    "original_language": "hi",
+    "original_title": "दृश्यम्: आख़िरी हिस्सा",
+    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+    "popularity": 39.4518,
+    "poster_path": "/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+    "release_date": "2026-10-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1244523,
+    "title": "Beware Boiúna",
+    "original_language": "en",
+    "original_title": "Beware Boiúna",
+    "overview": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boiúna, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives and who dies.",
+    "popularity": 33.2403,
+    "poster_path": "/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+    "release_date": "2026-10-01",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1336166,
+    "title": "Rolling Loud: The Movie",
+    "original_language": "en",
+    "original_title": "Rolling Loud: The Movie",
+    "overview": "Desperate to reconnect with his 13-year-old son, Hank secretly takes him to Rolling Loud against his wife's wishes. When Zion disappears inside the massive festival, Hank teams with two unlikely allies and plunges into an increasingly insane search—while hiding the truth from his wife and confronting the harder truth that his son is growing up.",
+    "popularity": 21.1164,
+    "poster_path": "/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+    "release_date": "2026-10-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1752355,
+    "title": "Schumacher ’94 – The Birth of a Legend",
+    "original_language": "de",
+    "original_title": "Schumacher ’94 – Die Geburt einer Legende",
+    "overview": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
+    "popularity": 19.2482,
+    "poster_path": "/em19DrMkLSinf04NEhiRxTnVupI.jpg",
+    "release_date": "2026-10-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.167,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1610703,
+    "title": "Infirmary",
+    "original_language": "en",
+    "original_title": "Infirmary",
+    "overview": "A guard vanished on his first night at an old psych hospital in 2023. His bodycam footage shows unexplainable incidents that continue to baffle investigators.",
+    "popularity": 13.4591,
+    "poster_path": "/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+    "release_date": "2026-10-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1596303,
+    "title": "The Last First: Winter K2",
+    "original_language": "en",
+    "original_title": "The Last First: Winter K2",
+    "overview": "A historic race to become the first to summit K2 in winter unravels into tragedy, exposing how ambition, ego, and the pursuit of glory can be as dangerous as the mountain itself.",
+    "popularity": 12.2997,
+    "poster_path": "/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg",
+    "release_date": "2026-10-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1758536,
+    "title": "The Widower: 'Til Death Do Us Part",
+    "original_language": "en",
+    "original_title": "The Widower: 'Til Death Do Us Part",
+    "overview": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
+    "popularity": 11.9212,
+    "poster_path": "/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+    "release_date": "2026-09-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
+    "genre_ids": [
+      35,
+      53,
+      80
+    ],
+    "id": 1320039,
+    "title": "Stranglehold",
+    "original_language": "en",
+    "original_title": "Stranglehold",
+    "overview": "Bailey is an exotic dancer with big dreams. She and her Army vet husband Tim are fed up with their lives of barely getting by in small-town Arkansas, so they decide to rob the strip club that employs her.",
+    "popularity": 10.9176,
+    "poster_path": "/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+    "release_date": "2026-10-02",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kiDd05NykJBIoEvJPSG5SOd7qc6.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "id": 961214,
+    "title": "Reawakened Man",
+    "original_language": "ko",
+    "original_title": "부활남: 더 레드",
+    "overview": "Despite unwavering support from his best friend Young-ha and the unwavering support of his younger sister Ye-rin, job seeker Seok Hwan just can't seem to land a job, repeatedly failing interviews. One night, after yet another disastrous interview, he returns home only to be attacked by a group of strangers and killed. But 72 hours after his death, Seok Hwan suddenly opens his eyes as if nothing happened. He soon discovers that he possesses a special ability: no matter how many times he dies, he comes back to life. But there's little time to process his extraordinary new power before a mysterious figure known as Black, who has discovered Hwan's existence, begins hunting him down.  Yet with each resurrection, Seok Hwan grows stronger, unleashing powers beyond anything he could have imagined!",
+    "popularity": 10.4619,
+    "poster_path": "/5SHFK1EoJeYy9jPHWX32LDsMNAG.jpg",
+    "release_date": "2026-09-30",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
   }
 ]
