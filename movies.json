@@ -148826,5 +148826,228 @@
     "video": false,
     "vote_average": 5.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+    "genre_ids": [
+      28,
+      35,
+      12
+    ],
+    "id": 1148365,
+    "title": "Matchbox the Movie",
+    "original_language": "en",
+    "original_title": "Matchbox the Movie",
+    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+    "popularity": 354.5083,
+    "poster_path": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "release_date": "2026-10-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.906,
+    "vote_count": 224
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 1236045,
+    "title": "Animals",
+    "original_language": "en",
+    "original_title": "Animals",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "popularity": 240.3403,
+    "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "release_date": "2026-10-09",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.479,
+    "vote_count": 243
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1400837,
+    "title": "Other Mommy",
+    "original_language": "en",
+    "original_title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "popularity": 149.7372,
+    "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "release_date": "2026-10-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.797,
+    "vote_count": 74
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "id": 1389172,
+    "title": "Reporting Live",
+    "original_language": "hi",
+    "original_title": "रिपोर्टिंग लाइव",
+    "overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
+    "popularity": 107.0769,
+    "poster_path": "/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg",
+    "release_date": "2026-10-09",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "genre_ids": [
+      18,
+      36,
+      53
+    ],
+    "id": 1281331,
+    "title": "The Social Reckoning",
+    "original_language": "en",
+    "original_title": "The Social Reckoning",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "popularity": 62.7598,
+    "poster_path": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+    "release_date": "2026-10-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.19,
+    "vote_count": 71
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qsXgcngz1gH7kRzJfzxU4gCktDn.jpg",
+    "genre_ids": [
+      37,
+      28,
+      12,
+      10749
+    ],
+    "id": 1669915,
+    "title": "Angel and the Badman",
+    "original_language": "en",
+    "original_title": "Angel and the Badman",
+    "overview": "A wounded outlaw finds unexpected mercy in the care of a rancher's daughter. The hope of love pulls him toward a different life until the law, and his violent past, close in on his new home. Now he must choose the kind of man he'll become.",
+    "popularity": 30.9457,
+    "poster_path": "/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
+    "release_date": "2026-10-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+    "genre_ids": [
+      16,
+      27,
+      35
+    ],
+    "id": 1788735,
+    "title": "Family Guy Happy Hell-o-ween",
+    "original_language": "en",
+    "original_title": "Family Guy Happy Hell-o-ween",
+    "overview": "After unexpectedly dying and being sent to Hell, Stewie and Brian’s constant nagging leads The Devil to quit, passing control of Hell to them.",
+    "popularity": 27.2231,
+    "poster_path": "/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+    "release_date": "2026-10-05",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.143,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1185344,
+    "title": "The Beast",
+    "original_language": "en",
+    "original_title": "The Beast",
+    "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+    "popularity": 10.4961,
+    "poster_path": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+    "release_date": "2026-10-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.667,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1412795,
+    "title": "The Spiral",
+    "original_language": "it",
+    "original_title": "L'estranea",
+    "overview": "On a stormy night in Rome, Anna arrives at her daughter Alice’s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction — a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
+    "popularity": 9.9898,
+    "poster_path": "/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
+    "release_date": "2026-10-08",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.071,
+    "vote_count": 56
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1381078,
+    "title": "Love of Your Life",
+    "original_language": "en",
+    "original_title": "Love of Your Life",
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "popularity": 5.4439,
+    "poster_path": "/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "release_date": "2026-10-07",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/19OqRmY4zc6oDLsEODGi9RSmt2I.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1737740,
+    "title": "Fresh Meat",
+    "original_language": "en",
+    "original_title": "Fresh Meat",
+    "overview": "In the back of a butcher shop, a little girl watches terrifying tales on a screen that must be fed. As its appetite grows, her father must find increasingly gruesome ways to keep the show going.",
+    "popularity": 5.6502,
+    "poster_path": "/pDO9mCRhWEtl6MRTksWZ1bPBrnZ.jpg",
+    "release_date": "2026-10-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
   }
 ]
