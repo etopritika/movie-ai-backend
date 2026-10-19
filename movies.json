@@ -149049,5 +149049,302 @@
     "video": false,
     "vote_average": 10.0,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "id": 1153576,
+    "title": "Street Fighter",
+    "original_language": "en",
+    "original_title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "popularity": 225.4202,
+    "poster_path": "/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+    "release_date": "2026-10-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 91
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1561726,
+    "title": "Masterplan",
+    "original_language": "en",
+    "original_title": "Masterplan",
+    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+    "popularity": 222.2575,
+    "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "release_date": "2026-10-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.176,
+    "vote_count": 85
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1255833,
+    "title": "Whalefall",
+    "original_language": "en",
+    "original_title": "Whalefall",
+    "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+    "popularity": 111.5465,
+    "poster_path": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+    "release_date": "2026-10-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1765072,
+    "title": "You Can See Everything",
+    "original_language": "en",
+    "original_title": "You Can See Everything",
+    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "popularity": 87.3156,
+    "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+    "release_date": "2026-10-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.472,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zpHTOdRl7GEPqFsDGqsN6Hi9Ylt.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 1234139,
+    "title": "Jailer 2",
+    "original_language": "ta",
+    "original_title": "ஜெயிலர் 2",
+    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.",
+    "popularity": 97.6856,
+    "poster_path": "/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "release_date": "2026-10-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1623256,
+    "title": "The Storm",
+    "original_language": "sv",
+    "original_title": "Stormen",
+    "overview": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
+    "popularity": 54.0656,
+    "poster_path": "/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+    "release_date": "2026-10-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.514,
+    "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14
+    ],
+    "id": 791523,
+    "title": "Wildwood",
+    "original_language": "en",
+    "original_title": "Wildwood",
+    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "popularity": 17.4806,
+    "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "release_date": "2026-10-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1776531,
+    "title": "Clown Panic",
+    "original_language": "en",
+    "original_title": "Clown Panic",
+    "overview": "Revisits the bizarre nationwide hysteria of 2016, which began with reports of creepy clowns hiding near woods in South Carolina and quickly spiraled into widespread panic, school lockdowns, and police interventions across the United States. This in-depth documentary features interviews with eyewitnesses, law enforcement officials, cultural commentators, and professional clowns whose livelihoods were impacted by the craze.",
+    "popularity": 15.9875,
+    "poster_path": "/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+    "release_date": "2026-10-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "id": 848700,
+    "title": "Minotaur",
+    "original_language": "fr",
+    "original_title": "Minotaure",
+    "overview": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+    "popularity": 11.7363,
+    "poster_path": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
+    "release_date": "2026-10-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.231,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1282159,
+    "title": "Let's Have Kids!",
+    "original_language": "en",
+    "original_title": "Let's Have Kids!",
+    "overview": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
+    "popularity": 10.4467,
+    "poster_path": "/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
+    "release_date": "2026-10-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1790935,
+    "title": "Instadocs: AI Gone Wild",
+    "original_language": "en",
+    "original_title": "Instadocs: AI Gone Wild",
+    "overview": "Did AI just commit a felony? \"Instadocs\" investigates the Hugging Face hack and why this cyberattack may be a warning shot for humanity's future.",
+    "popularity": 15.1542,
+    "poster_path": "/ybMAd7Tkd3T7XlCv4Ps54r1yC1M.jpg",
+    "release_date": "2026-10-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mJ7zo8mMjXtvgf70EMiiT9aiola.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1796809,
+    "title": "Remain Calm",
+    "original_language": "en",
+    "original_title": "Remain Calm",
+    "overview": "The story follows the two gas station clerks whose routine night shift turns into a fight for survival. A government agent warns them about Mr. Frett, a terrifying creature that tracks and hunts people who show any signs of anxiety, stress, or panic. To stay alive, the characters must force themselves into a state of aggressive positivity and calm.",
+    "popularity": 15.999,
+    "poster_path": "/mwS8LsBd7FWp0XomfzVpynrGhHR.jpg",
+    "release_date": "2026-10-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/py3XG3mFkdVMcw7VwfZ4HaXZIIU.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1452110,
+    "title": "Clean Hands",
+    "original_language": "en",
+    "original_title": "Clean Hands",
+    "overview": "Based on a true story, a veteran narcotics officer turned recovery advocate and his daughter, who struggles with addiction, confront the American drug crisis from opposing sides of the law while navigating their complicated family bond.",
+    "popularity": 10.0748,
+    "poster_path": "/szIEtkFLOMsPX6AVQSfzalNEEDd.jpg",
+    "release_date": "2026-10-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iR3R7012MUISPSejxeGFEXHfhDE.jpg",
+    "genre_ids": [
+      16,
+      18,
+      9648,
+      10749
+    ],
+    "id": 1553200,
+    "title": "Rascal Does Not Dream of a Dear Friend",
+    "original_language": "ja",
+    "original_title": "青春ブタ野郎はディアフレンドの夢を見ない",
+    "overview": "Faced with the truth about Miori and Touko Kirishima, Sakuta must make a choice. This will be his final case of Adolescence Syndrome!",
+    "popularity": 9.5595,
+    "poster_path": "/772MwRZDJQa4b0NPGs7Fn5cfBeG.jpg",
+    "release_date": "2026-10-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d3Uscbjxikw0Vgk9ACFUpqFXplA.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1620918,
+    "title": "Norm: The Tale of Norm Macdonald",
+    "original_language": "en",
+    "original_title": "Norm: The Tale of Norm Macdonald",
+    "overview": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
+    "popularity": 9.2542,
+    "poster_path": "/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+    "release_date": "2026-10-16",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.857,
+    "vote_count": 7
   }
 ]
