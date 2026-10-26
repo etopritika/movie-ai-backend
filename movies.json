@@ -149346,5 +149346,287 @@
     "video": false,
     "vote_average": 7.857,
     "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "id": 1400940,
+    "title": "Clayface",
+    "original_language": "en",
+    "original_title": "Clayface",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "popularity": 267.4788,
+    "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "release_date": "2026-10-19",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 192
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1780005,
+    "title": "Surviving Hurricane Otis",
+    "original_language": "es",
+    "original_title": "Contra el huracán",
+    "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+    "popularity": 100.0999,
+    "poster_path": "/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+    "release_date": "2026-10-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 27
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "id": 1453407,
+    "title": "Gajab Raat",
+    "original_language": "hi",
+    "original_title": "ग़ज़ब रात",
+    "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+    "popularity": 91.5222,
+    "poster_path": "/cEPqJ2HboM9KBj4CtVJFeCFojae.jpg",
+    "release_date": "2026-10-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
+    "genre_ids": [
+      878,
+      18
+    ],
+    "id": 858035,
+    "title": "Klara and the Sun",
+    "original_language": "en",
+    "original_title": "Klara and the Sun",
+    "overview": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
+    "popularity": 64.9467,
+    "poster_path": "/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
+    "release_date": "2026-10-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      35
+    ],
+    "id": 1195803,
+    "title": "Wicker",
+    "original_language": "en",
+    "original_title": "Wicker",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "popularity": 59.5768,
+    "poster_path": "/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "release_date": "2026-10-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.818,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "id": 1084409,
+    "title": "A Talent for Murder",
+    "original_language": "en",
+    "original_title": "A Talent for Murder",
+    "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+    "popularity": 39.7004,
+    "poster_path": "/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+    "release_date": "2026-10-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "id": 1375156,
+    "title": "Udta Teer",
+    "original_language": "hi",
+    "original_title": "उड़ता तीर",
+    "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
+    "popularity": 18.9445,
+    "poster_path": "/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+    "release_date": "2026-10-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1727734,
+    "title": "Ali G: Who Iz I?",
+    "original_language": "en",
+    "original_title": "Ali G: Who Iz I?",
+    "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+    "popularity": 12.5363,
+    "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "release_date": "2026-10-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.25,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1371730,
+    "title": "Love Language",
+    "original_language": "en",
+    "original_title": "Love Language",
+    "overview": "Following a failed engagement, Lou discovers she has a talent for writing other people’s wedding vows. Word spreads across Chicago’s wedding scene and Lou’s services are in high demand. She even has a new admirer in Dash. But everything changes when she’s asked to write vows for Olivia, who’s marrying Warren, Lou’s old college flame.",
+    "popularity": 10.779,
+    "poster_path": "/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+    "release_date": "2026-10-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 9.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r87Uwf5yvL69fBWsZHGR2OTbD1A.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "id": 1643567,
+    "title": "Ghosts: The Possession of Button House",
+    "original_language": "en",
+    "original_title": "Ghosts: The Possession of Button House",
+    "overview": "It's a matter of life and death for Alison, Mike, Mia and the Ghosts.",
+    "popularity": 8.8069,
+    "poster_path": "/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
+    "release_date": "2026-10-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fLQifkf5i0ozNHQGtqMFwqpADZl.jpg",
+    "genre_ids": [
+      10749,
+      14
+    ],
+    "id": 1658657,
+    "title": "Nakee 3: The Cursed War",
+    "original_language": "th",
+    "original_title": "นาคี 3 ครุฑา นาคี",
+    "overview": "As destiny turns lovers into enemies, duty tears them apart, but love remembers what kingdoms forget, the love can end even the oldest war.",
+    "popularity": 7.8438,
+    "poster_path": "/sfVC55w5M4lSILmtqOX2lBYcM04.jpg",
+    "release_date": "2026-10-22",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      10752
+    ],
+    "id": 1437981,
+    "title": "Coward",
+    "original_language": "fr",
+    "original_title": "Coward",
+    "overview": "Surrounded by brutality but bound by tenderness, two World War I soldiers find a fragile sanctuary of love and art amid the shadows of the Belgian trenches.",
+    "popularity": 8.3166,
+    "poster_path": "/jhBDAdVy7qPglzcBsPDMJXQ9Cls.jpg",
+    "release_date": "2026-10-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.357,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      28
+    ],
+    "id": 1802674,
+    "title": "Hot Wheels Let's Race: Attack of the T-Rex",
+    "original_language": "en",
+    "original_title": "Hot Wheels Let's Race: Attack of the T-Rex",
+    "overview": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
+    "popularity": 26.0852,
+    "poster_path": "/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
+    "release_date": "2026-10-20",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1154730,
+    "title": "La Gradiva",
+    "original_language": "fr",
+    "original_title": "La Gradiva",
+    "overview": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+    "popularity": 7.0084,
+    "poster_path": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+    "release_date": "2026-10-21",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 9
   }
 ]
