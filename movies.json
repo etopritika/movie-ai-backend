@@ -128059,5 +128059,66 @@
     "video": false,
     "vote_average": 6.41,
     "vote_count": 614
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "id": 1813355,
+    "title": "A Story of Derry",
+    "original_language": "en",
+    "original_title": "A Story of Derry",
+    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+    "popularity": 154.4469,
+    "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+    "release_date": "2026-10-31",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.683,
+    "vote_count": 41
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yZq46gEwwXKzJRemlC0qPPBJmvt.jpg",
+    "genre_ids": [
+      28,
+      27,
+      35
+    ],
+    "id": 939541,
+    "title": "Christmas at the Kringles",
+    "original_language": "en",
+    "original_title": "Christmas at the Kringles",
+    "overview": "After moving to a quiet suburban neighborhood, the Seversons meet the Kringles, a family that celebrates Christmas year-round. When Mark, the father, discovers the Kringles' sinister yuletide intentions, he teams up with a badass Santa in a high-stakes, action-packed fight to save his family.",
+    "popularity": 25.2269,
+    "poster_path": "/oVxkhheRVWSacimUZBuMemQX85E.jpg",
+    "release_date": "2026-10-29",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8O4JRME9XyFGRcaNbJ2HIffuYDR.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1783268,
+    "title": "The Teenage Vampire",
+    "original_language": "en",
+    "original_title": "The Teenage Vampire",
+    "overview": "When a straightlaced young woman moves into a chic bungalow in the Hollywood Hills she imagines nothing but raging parties and romance in her future. But Sandra's new dream house quickly becomes a den of horrors after she discovers her landlords are ancient vampires and her first party guests are the victims of a bloody massacre. As the night grows more sinister and twisted, Sandra unearths the most terrifying secret of all.",
+    "popularity": 6.6909,
+    "poster_path": "/hhbcC4lUcaU7YW3Miq4XzUVEJY8.jpg",
+    "release_date": "2026-10-27",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
   }
 ]
