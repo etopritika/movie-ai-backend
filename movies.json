@@ -128426,5 +128426,312 @@
     "video": false,
     "vote_average": 9.3,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1616687,
+    "title": "Never Surrender",
+    "original_language": "id",
+    "original_title": "Serangan Balik",
+    "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+    "popularity": 209.2229,
+    "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+    "release_date": "2026-11-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.097,
+    "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "id": 1567605,
+    "title": "Ebenezer",
+    "original_language": "en",
+    "original_title": "Ebenezer",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "popularity": 127.9295,
+    "poster_path": "/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "release_date": "2026-11-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.747,
+    "vote_count": 79
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "id": 1543469,
+    "title": "Heartland",
+    "original_language": "en",
+    "original_title": "Heartland",
+    "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+    "popularity": 114.3661,
+    "poster_path": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "release_date": "2026-11-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.716,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+    "genre_ids": [
+      878,
+      12,
+      35
+    ],
+    "id": 1518204,
+    "title": "Allen",
+    "original_language": "en",
+    "original_title": "Allen",
+    "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
+    "popularity": 75.2842,
+    "poster_path": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+    "release_date": "2026-11-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 37
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1437511,
+    "title": "How to Rob a Bank",
+    "original_language": "en",
+    "original_title": "How to Rob a Bank",
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "popularity": 66.3755,
+    "poster_path": "/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "release_date": "2026-11-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.355,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1757174,
+    "title": "The Christmas Switch",
+    "original_language": "sv",
+    "original_title": "Bara till jul",
+    "overview": "Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess.",
+    "popularity": 43.7475,
+    "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+    "release_date": "2026-11-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 39
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
+    "genre_ids": [
+      10402,
+      10751,
+      18
+    ],
+    "id": 1559980,
+    "title": "The Gospel of Christmas",
+    "original_language": "en",
+    "original_title": "The Gospel of Christmas",
+    "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+    "popularity": 40.8282,
+    "poster_path": "/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
+    "release_date": "2026-11-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.342,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "id": 1780407,
+    "title": "Snoopy Presents: 12 Days of Snoopy",
+    "original_language": "en",
+    "original_title": "Snoopy Presents: 12 Days of Snoopy",
+    "overview": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+    "popularity": 33.2069,
+    "poster_path": "/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
+    "release_date": "2026-11-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1379486,
+    "title": "Victorian Psycho",
+    "original_language": "en",
+    "original_title": "Victorian Psycho",
+    "overview": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+    "popularity": 27.7293,
+    "poster_path": "/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
+    "release_date": "2026-11-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+    "genre_ids": [
+      99,
+      80
+    ],
+    "id": 1823907,
+    "title": "Russell Brand: Open Secret",
+    "original_language": "en",
+    "original_title": "Russell Brand: Open Secret",
+    "overview": "From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand's meteoric rise and steep fall following allegations of sexual offences.",
+    "popularity": 11.0117,
+    "poster_path": "/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+    "release_date": "2026-11-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1381273,
+    "title": "Paper Tiger",
+    "original_language": "en",
+    "original_title": "Paper Tiger",
+    "overview": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
+    "popularity": 10.5081,
+    "poster_path": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+    "release_date": "2026-11-13",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1493572,
+    "title": "Parivarik ManuRanjan",
+    "original_language": "hi",
+    "original_title": "पारिवारिक मनुरंजन",
+    "overview": "Ranjan Dubey, Lucknow's most eligible bachelor, finds his search for a bride taking an unexpected turn when Helen, his charming new househelp, walks into his life. With everyone having an opinion on this unlikely duo, will their companionship blossom into love?",
+    "popularity": 10.3747,
+    "poster_path": "/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+    "release_date": "2026-11-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
+    "genre_ids": [
+      80,
+      99
+    ],
+    "id": 1664682,
+    "title": "The Unthinkable Daughter",
+    "original_language": "pt",
+    "original_title": "Suzane von Richthofen: O Que o Tempo Não Apaga",
+    "overview": "Decades of questions and a crime that shook Brazil. Suzane von Richthofen, convicted for the murder of her parents, tells the whole story in her own words.",
+    "popularity": 10.0298,
+    "poster_path": "/pO3BpFyC9B2fnfByJulxjs3hM4P.jpg",
+    "release_date": "2026-11-11",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.667,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8hp2pULH1tBxYdbrQHkYjo7kffC.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10402,
+      10770
+    ],
+    "id": 1716604,
+    "title": "A Proud Family Wizmas",
+    "original_language": "en",
+    "original_title": "A Proud Family Wizmas",
+    "overview": "When Penny Proud’s rant about Wizmas and the commercialization of Christmas causes Santa to quit on Christmas eve, Penny finds herself guilted into putting on the red suit and replacing him. And in the process of delivering Yuletide cheer with the help of Santa’s irreverent elves, she discovers that indeed the Christmas spirit is still alive.",
+    "popularity": 8.5166,
+    "poster_path": "/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+    "release_date": "2026-11-14",
+    "softcore": false,
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lEEkKMw7jSHRtVtFnAz5yU2Qb6k.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 1747585,
+    "title": "La Gran Sangre: ojo x ojo",
+    "original_language": "es",
+    "original_title": "La Gran Sangre: ojo x ojo",
+    "overview": "Two decades later, Tony Blades, Mandril, and El Dragón are released from prison to confront a mafia controlling the Rímac district. In a Lima plagued by extortion and contract killings, the iconic vigilante group returns without a shred of mercy, ready to fight crime by their own rules.",
+    "popularity": 7.9008,
+    "poster_path": "/23HthTIgBSXV2lYpXMHt6bvNwRt.jpg",
+    "release_date": "2026-11-12",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
   }
 ]
